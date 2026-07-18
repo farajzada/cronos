@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from src.sources.quotes import Quote, QuotesSource, content_hash
+from cronos.sources.quotes import Quote, QuotesSource, content_hash
 
 PAGE_HTML = """
 <html><body>
@@ -47,7 +47,7 @@ def test_next_page_resolves_relative_url():
 
 
 def test_scrape_walks_pagination(monkeypatch):
-    from src.sources import quotes as quotes_module
+    from cronos.sources import quotes as quotes_module
 
     monkeypatch.setattr(quotes_module.time, "sleep", lambda _: None)
     source = QuotesSource(base_url="https://example.com/")

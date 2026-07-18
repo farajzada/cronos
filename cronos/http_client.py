@@ -15,7 +15,7 @@ from typing import Optional
 
 import requests
 
-from src.config import CONFIG
+from cronos.config import CONFIG
 
 logger = logging.getLogger("cronos.http")
 

@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from src.sources.hackernews import HackerNewsSource, extract_domain
+from cronos.sources.hackernews import HackerNewsSource, extract_domain
 
 SAMPLE_PAYLOAD = {
     "hits": [

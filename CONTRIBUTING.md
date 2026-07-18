@@ -16,8 +16,8 @@ pip install -e ".[dev]"
 1. Fork and create a feature branch from `main` (`feature/<short-name>`).
 2. Make your change. Every PR must pass the CI gate:
    ```bash
-   ruff check src tests
-   ruff format --check src tests
+   ruff check cronos tests
+   ruff format --check cronos tests
    pytest
    ```
 3. Open a pull request with a clear description. One logical change per PR.
@@ -25,14 +25,14 @@ pip install -e ".[dev]"
 ## Adding a data source
 
 This is the most welcome kind of contribution. The whole pipeline is generic
-over the `Source` contract ([src/sources/base.py](src/sources/base.py)):
+over the `Source` contract ([cronos/sources/base.py](cronos/sources/base.py)):
 
-1. Create `src/sources/<name>.py` subclassing `Source`. Declare:
+1. Create `cronos/sources/<name>.py` subclassing `Source`. Declare:
    - `name`, `title`, `fieldnames`, `key_field` — schema + dedup key;
    - `display_columns`, `stat_fields`, `facet_field` — dashboard/metrics metadata;
    - `scrape(client)` — yield normalized `dict` rows;
    - optional `validate_row(row)` — source-specific integrity rules.
-2. Register the class in `REGISTRY` ([src/sources/__init__.py](src/sources/__init__.py)).
+2. Register the class in `REGISTRY` ([cronos/sources/__init__.py](cronos/sources/__init__.py)).
 3. Add unit tests under `tests/test_sources_<name>.py` — network **must** be
    mocked; look at the Hacker News tests for the pattern.
 4. Enable it via `CRONOS_SOURCES` and run `cronos all` locally.

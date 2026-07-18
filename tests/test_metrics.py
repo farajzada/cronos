@@ -1,12 +1,12 @@
-"""Unit tests for src/metrics.py."""
+"""Unit tests for cronos/metrics.py."""
 
 from __future__ import annotations
 
 import json
 
-from src.metrics import compute_source_stats, write_stats, write_step_summary
-from src.sources.quotes import Quote, QuotesSource
-from src.storage import DatasetWriter, read_rows
+from cronos.metrics import compute_source_stats, write_stats, write_step_summary
+from cronos.sources.quotes import Quote, QuotesSource
+from cronos.storage import DatasetWriter, read_rows
 
 
 def _seed(path):

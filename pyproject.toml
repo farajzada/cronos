@@ -31,10 +31,10 @@ Homepage = "https://github.com/farajzada/cronos"
 Dashboard = "https://farajzada.github.io/cronos/"
 
 [project.scripts]
-cronos = "src.cli:main"
+cronos = "cronos.cli:main"
 
 [tool.setuptools]
-packages = ["src", "src.sources"]
+packages = ["cronos", "cronos.sources"]
 
 [tool.ruff]
 line-length = 100
@@ -49,8 +49,8 @@ ignore = [
 ]
 
 [tool.ruff.lint.per-file-ignores]
-"src/report.py" = ["E501"]      # embedded HTML/JS template lines
-"src/http_client.py" = ["E501"] # realistic User-Agent strings
+"cronos/report.py" = ["E501"]      # embedded HTML/JS template lines
+"cronos/http_client.py" = ["E501"] # realistic User-Agent strings
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

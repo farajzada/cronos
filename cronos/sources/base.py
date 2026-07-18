@@ -12,7 +12,7 @@ from abc import ABC, abstractmethod
 from pathlib import Path
 from typing import Dict, Iterator, List, Optional, Tuple
 
-from src.http_client import HttpClient
+from cronos.http_client import HttpClient
 
 
 class Source(ABC):

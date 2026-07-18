@@ -15,9 +15,9 @@ from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 
-from src.config import CONFIG
-from src.http_client import HttpClient
-from src.sources.base import Source
+from cronos.config import CONFIG
+from cronos.http_client import HttpClient
+from cronos.sources.base import Source
 
 logger = logging.getLogger("cronos.sources.quotes")
 

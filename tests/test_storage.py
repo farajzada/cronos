@@ -1,4 +1,4 @@
-"""Unit tests for the generic append-only storage in src/storage.py."""
+"""Unit tests for the generic append-only storage in cronos/storage.py."""
 
 from __future__ import annotations
 
@@ -6,7 +6,7 @@ import csv
 
 import pytest
 
-from src.storage import DatasetWriter, read_rows
+from cronos.storage import DatasetWriter, read_rows
 
 FIELDS = ["id", "value"]
 

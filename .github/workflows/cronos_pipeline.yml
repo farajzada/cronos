@@ -38,16 +38,16 @@ jobs:
         run: python -m pip install --upgrade pip && pip install -r requirements.txt
 
       - name: Run scraper
-        run: python -m src.scraper
+        run: python -m cronos.scraper
 
       - name: Validate dataset integrity
-        run: python -m src.validator
+        run: python -m cronos.validator
 
       - name: Generate dataset statistics
-        run: python -m src.metrics
+        run: python -m cronos.metrics
 
       - name: Generate dashboard
-        run: python -m src.report
+        run: python -m cronos.report
 
       - name: Commit and push if data changed
         run: |

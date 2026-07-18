@@ -14,7 +14,7 @@ tab) so the report stays private until a fix is released.
 ## Scope notes
 
 - Scraped content is untrusted input. The dashboard escapes every value it
-  interpolates (`esc()` in `src/report.py`) and escapes `</` inside the
+  interpolates (`esc()` in `cronos/report.py`) and escapes `</` inside the
   embedded JSON block; regressions here are security bugs — report them.
 - The GitHub Actions workflows intentionally run with the minimum
   permissions they need (`contents: write` only in the ETL pipeline).

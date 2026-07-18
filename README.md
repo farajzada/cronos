@@ -64,6 +64,18 @@ Bundled sources:
 
 ## Quick start
 
+**Use as a template (recommended):** click **Use this template** on GitHub to
+get your own data-collecting repo in one click, then adapt the sources.
+
+**Install from PyPI:**
+
+```bash
+pip install cronos-pipeline
+cronos all        # run → validate → stats → report (in your working dir)
+```
+
+**Develop from source:**
+
 ```bash
 git clone https://github.com/farajzada/cronos.git && cd cronos
 python -m venv .venv && source .venv/bin/activate
@@ -74,7 +86,7 @@ cronos sources    # list available/enabled sources
 python -m http.server -d docs 8000   # view the dashboard locally
 ```
 
-Every stage is also runnable as a module (`python -m src.scraper`, etc.) —
+Every stage is also runnable as a module (`python -m cronos.scraper`, etc.) —
 that is exactly what the GitHub Actions workflow does.
 
 The second consecutive `cronos run` appends `0` rows — that is the
@@ -82,7 +94,7 @@ idempotency guarantee working, not a bug.
 
 ## Configuration
 
-Everything is environment-variable driven (see [src/config.py](src/config.py)):
+Everything is environment-variable driven (see [cronos/config.py](cronos/config.py)):
 
 | Variable                  | Default                          | Purpose                     |
 |---------------------------|----------------------------------|-----------------------------|
@@ -103,8 +115,8 @@ The pipeline is generic over the `Source` contract — scraper, validator,
 metrics and dashboard all adapt automatically:
 
 ```python
-# src/sources/mysite.py
-from src.sources.base import Source
+# cronos/sources/mysite.py
+from cronos.sources.base import Source
 
 class MySiteSource(Source):
     name = "mysite"                      # → data/mysite.csv
@@ -126,7 +138,7 @@ class MySiteSource(Source):
             }
 ```
 
-Then register it in [src/sources/\_\_init\_\_.py](src/sources/__init__.py) and
+Then register it in [cronos/sources/\_\_init\_\_.py](cronos/sources/__init__.py) and
 enable it: `CRONOS_SOURCES=quotes,hackernews,mysite`. Full checklist in
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -142,7 +154,7 @@ cronos/
 │   └── ci.yml                  # ruff lint/format + pytest on every push
 ├── data/                       # append-only datasets + stats.json
 ├── docs/index.html             # self-contained dashboard (GitHub Pages)
-├── src/
+├── cronos/
 │   ├── cli.py                  # `cronos` command
 │   ├── config.py               # env-overridable configuration
 │   ├── http_client.py          # retries, timeouts, UA rotation

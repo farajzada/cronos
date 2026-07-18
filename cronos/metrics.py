@@ -23,7 +23,7 @@ Shape (fully generic over sources and their declared stat_fields):
 Also appends a markdown run report to $GITHUB_STEP_SUMMARY when running
 inside GitHub Actions.
 
-Run as a module from the repository root:  python -m src.metrics
+Run as a module from the repository root:  python -m cronos.metrics
 """
 
 from __future__ import annotations
@@ -36,10 +36,10 @@ from collections import Counter
 from pathlib import Path
 from typing import Dict, List
 
-from src.config import CONFIG
-from src.sources import get_sources
-from src.sources.base import Source
-from src.storage import read_rows
+from cronos.config import CONFIG
+from cronos.sources import get_sources
+from cronos.sources.base import Source
+from cronos.storage import read_rows
 
 logging.basicConfig(
     level=logging.INFO,
