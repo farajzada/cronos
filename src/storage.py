@@ -32,11 +32,7 @@ class DatasetWriter:
         if not self.path.exists():
             return set()
         with self.path.open("r", newline="", encoding="utf-8") as fh:
-            return {
-                row[self.key_field]
-                for row in csv.DictReader(fh)
-                if row.get(self.key_field)
-            }
+            return {row[self.key_field] for row in csv.DictReader(fh) if row.get(self.key_field)}
 
     def append_unique(self, rows: Iterator[Dict[str, str]]) -> int:
         seen = self.load_existing_keys()

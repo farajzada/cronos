@@ -47,8 +47,9 @@ def main() -> int:
             failures += 1
             continue
         if appended:
-            logger.info("[%s] loaded %d new unique records into %s",
-                        source.name, appended, writer.path)
+            logger.info(
+                "[%s] loaded %d new unique records into %s", source.name, appended, writer.path
+            )
         else:
             logger.info("[%s] no new records; dataset is already up to date", source.name)
 

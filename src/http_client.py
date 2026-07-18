@@ -41,9 +41,7 @@ class HttpClient:
                 response.raise_for_status()
                 return response.text
             except requests.exceptions.Timeout:
-                logger.warning(
-                    "Timeout on %s (attempt %d/%d)", url, attempt, CONFIG.max_retries
-                )
+                logger.warning("Timeout on %s (attempt %d/%d)", url, attempt, CONFIG.max_retries)
             except requests.exceptions.HTTPError as exc:
                 status = exc.response.status_code if exc.response is not None else "?"
                 logger.warning(

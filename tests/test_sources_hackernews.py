@@ -76,8 +76,14 @@ def test_scrape_handles_api_outage(monkeypatch):
 
 def test_validate_row_flags_violations():
     source = HackerNewsSource()
-    ok = {"item_id": "1", "title": "T", "url": "https://x.io", "domain": "x.io",
-          "author": "a", "points": "10"}
+    ok = {
+        "item_id": "1",
+        "title": "T",
+        "url": "https://x.io",
+        "domain": "x.io",
+        "author": "a",
+        "points": "10",
+    }
     assert source.validate_row(ok) == []
     assert "empty title" in source.validate_row({**ok, "title": " "})
     assert "empty url" in source.validate_row({**ok, "url": ""})

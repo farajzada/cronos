@@ -34,9 +34,7 @@ def data_dir(tmp_path, monkeypatch):
 
 
 def _extract_payload(html):
-    match = re.search(
-        r'<script id="data" type="application/json">(.*?)</script>', html, re.S
-    )
+    match = re.search(r'<script id="data" type="application/json">(.*?)</script>', html, re.S)
     assert match, "embedded JSON payload not found"
     return json.loads(match.group(1).replace("<\\/", "</"))
 

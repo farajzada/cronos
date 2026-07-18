@@ -1,0 +1,57 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cronos-pipeline"
+version = "1.0.0"
+description = "Serverless, zero-cost GitOps ETL pipeline on GitHub Actions"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "farajzada" }]
+keywords = ["etl", "scraping", "github-actions", "gitops", "dataset"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Internet :: WWW/HTTP :: Indexing/Search",
+]
+dependencies = [
+    "requests==2.32.3",
+    "beautifulsoup4==4.12.3",
+]
+
+[project.optional-dependencies]
+dev = ["pytest==8.3.4", "ruff==0.8.4"]
+
+[project.urls]
+Homepage = "https://github.com/farajzada/cronos"
+Dashboard = "https://farajzada.github.io/cronos/"
+
+[project.scripts]
+cronos = "src.cli:main"
+
+[tool.setuptools]
+packages = ["src", "src.sources"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "UP", "B", "SIM"]
+ignore = [
+    "UP006", # keep typing.List/Dict/etc — runtime supports 3.9
+    "UP007", # keep Optional/Union — runtime supports 3.9
+    "UP035", # typing.List/Dict imports are deliberate on 3.9
+]
+
+[tool.ruff.lint.per-file-ignores]
+"src/report.py" = ["E501"]      # embedded HTML/JS template lines
+"src/http_client.py" = ["E501"] # realistic User-Agent strings
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

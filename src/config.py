@@ -58,7 +58,7 @@ class Config:
         return (self.connect_timeout, self.read_timeout)
 
     @classmethod
-    def from_env(cls) -> "Config":
+    def from_env(cls) -> Config:
         sources = tuple(
             name.strip()
             for name in _env_str("CRONOS_SOURCES", "quotes,hackernews").split(",")

@@ -54,8 +54,10 @@ def test_scrape_walks_pagination(monkeypatch):
 
     class FakeClient:
         def __init__(self):
-            self.pages = {"https://example.com/": PAGE_HTML,
-                          "https://example.com/page/2/": LAST_PAGE_HTML}
+            self.pages = {
+                "https://example.com/": PAGE_HTML,
+                "https://example.com/page/2/": LAST_PAGE_HTML,
+            }
 
         def get_text(self, url):
             return self.pages[url]

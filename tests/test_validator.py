@@ -49,10 +49,20 @@ def test_duplicate_keys_are_reported(tmp_path):
 def test_empty_key_is_reported(tmp_path):
     source = HackerNewsSource()
     path = tmp_path / "hackernews.csv"
-    _write(path, source, [{
-        "item_id": "", "title": "T", "url": "https://x.io", "domain": "x.io",
-        "author": "a", "points": "1",
-    }])
+    _write(
+        path,
+        source,
+        [
+            {
+                "item_id": "",
+                "title": "T",
+                "url": "https://x.io",
+                "domain": "x.io",
+                "author": "a",
+                "points": "1",
+            }
+        ],
+    )
     errors = validate_source(source, path)
     assert any("empty item_id" in e for e in errors)
 
@@ -71,9 +81,19 @@ def test_source_specific_rules_are_applied(tmp_path):
 def test_hackernews_rules_are_applied(tmp_path):
     source = HackerNewsSource()
     path = tmp_path / "hackernews.csv"
-    _write(path, source, [{
-        "item_id": "1", "title": "T", "url": "https://x.io", "domain": "x.io",
-        "author": "a", "points": "not-a-number",
-    }])
+    _write(
+        path,
+        source,
+        [
+            {
+                "item_id": "1",
+                "title": "T",
+                "url": "https://x.io",
+                "domain": "x.io",
+                "author": "a",
+                "points": "not-a-number",
+            }
+        ],
+    )
     errors = validate_source(source, path)
     assert any("points" in e for e in errors)

@@ -45,9 +45,7 @@ def validate_source(source: Source, path: Path) -> List[str]:
     with path.open("r", newline="", encoding="utf-8") as fh:
         reader = csv.DictReader(fh)
         if reader.fieldnames != source.fieldnames:
-            return [
-                f"schema mismatch: expected {source.fieldnames}, got {reader.fieldnames}"
-            ]
+            return [f"schema mismatch: expected {source.fieldnames}, got {reader.fieldnames}"]
 
         for lineno, row in enumerate(reader, start=2):
             key = row.get(source.key_field) or ""
