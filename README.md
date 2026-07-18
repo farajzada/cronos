@@ -10,6 +10,8 @@
 > regenerates statistics and a dashboard, and commits everything back to the
 > repository (GitOps).
 
+**Live dashboard:** https://farajzada.github.io/cronos/
+
 ## Architecture
 
 ```
