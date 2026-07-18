@@ -1,0 +1,28 @@
+name: Feature request
+description: Propose an improvement or a new data source
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind
+      options:
+        - new data source
+        - pipeline improvement
+        - dashboard improvement
+        - other
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: >
+        For a new source: link the site/API, note its robots.txt / ToS
+        stance, and say what the stable dedup key would be.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered

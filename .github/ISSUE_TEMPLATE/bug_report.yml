@@ -1,0 +1,34 @@
+name: Bug report
+description: Something broken in the pipeline, a source, or the dashboard
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - pipeline (scraper / validator / metrics / report)
+        - a specific source
+        - dashboard (docs/index.html)
+        - GitHub Actions workflows
+        - other
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Include the exact command and full log output where possible.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect?
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: Environment
+      placeholder: "e.g. Python 3.11, ubuntu-latest (Actions) / macOS 15 (local)"
