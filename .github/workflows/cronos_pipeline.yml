@@ -40,6 +40,9 @@ jobs:
       - name: Run scraper
         run: python -m src.scraper
 
+      - name: Validate dataset integrity
+        run: python -m src.validator
+
       - name: Commit and push if dataset changed
         run: |
           # Covers both a modified tracked file and a brand-new untracked file
