@@ -1,13 +1,16 @@
 """Cronos ETL pipeline — Extract & Transform & Load module.
 
-Target source : https://quotes.toscrape.com (pagination-aware)
+Target source : https://quotes.toscrape.com (pagination-aware, configurable)
 Output        : data/dataset.csv (append-only, deduplicated, idempotent)
 
 Design notes:
+  - All tunables live in src/config.py and are CRONOS_* env-overridable.
   - Dedup key is a SHA-256 content hash (text + author), stored as `quote_id`.
     Existing IDs are loaded into a set() for O(1) membership checks, so the
     script may run any number of times without producing duplicate rows.
   - The CSV is opened in append mode only; existing history is never rewritten.
+
+Run as a module from the repository root:  python -m src.scraper
 """
 
 from __future__ import annotations
@@ -26,19 +29,9 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 
-# ---------------------------------------------------------------------------
-# Configuration
-# ---------------------------------------------------------------------------
+from src.config import CONFIG
 
-BASE_URL = "https://quotes.toscrape.com/"
-DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "dataset.csv"
 FIELDNAMES = ["quote_id", "text", "author", "tags"]
-
-REQUEST_TIMEOUT = (5, 20)  # (connect, read) seconds
-MAX_RETRIES = 3
-RETRY_BACKOFF_SECONDS = 2.0
-POLITENESS_DELAY_SECONDS = 0.5
-MAX_PAGES = 50  # hard ceiling against pagination loops
 
 # Mock User-Agent rotation pool: a random identity is picked per request.
 USER_AGENTS = [
@@ -91,39 +84,43 @@ class Quote:
 
 
 class QuotesScraper:
-    """Extracts quotes from quotes.toscrape.com with retry + UA rotation."""
+    """Extracts quotes from the configured source with retry + UA rotation."""
 
-    def __init__(self, base_url: str = BASE_URL) -> None:
+    def __init__(self, base_url: str = CONFIG.base_url) -> None:
         self.base_url = base_url
         self.session = requests.Session()
 
     def _fetch(self, url: str) -> Optional[str]:
         """GET a page with per-request UA rotation, timeout and retries."""
-        for attempt in range(1, MAX_RETRIES + 1):
+        for attempt in range(1, CONFIG.max_retries + 1):
             headers = {"User-Agent": random.choice(USER_AGENTS)}
             try:
-                response = self.session.get(
-                    url, headers=headers, timeout=REQUEST_TIMEOUT
-                )
+                response = self.session.get(url, headers=headers, timeout=CONFIG.timeout)
                 response.raise_for_status()
                 return response.text
             except requests.exceptions.Timeout:
-                logger.warning("Timeout on %s (attempt %d/%d)", url, attempt, MAX_RETRIES)
+                logger.warning(
+                    "Timeout on %s (attempt %d/%d)", url, attempt, CONFIG.max_retries
+                )
             except requests.exceptions.HTTPError as exc:
                 status = exc.response.status_code if exc.response is not None else "?"
                 logger.warning(
-                    "HTTP %s on %s (attempt %d/%d)", status, url, attempt, MAX_RETRIES
+                    "HTTP %s on %s (attempt %d/%d)", status, url, attempt, CONFIG.max_retries
                 )
                 # 4xx is not retryable; fail fast.
                 if exc.response is not None and 400 <= exc.response.status_code < 500:
                     return None
             except requests.exceptions.RequestException as exc:
                 logger.warning(
-                    "Network error on %s (attempt %d/%d): %s", url, attempt, MAX_RETRIES, exc
+                    "Network error on %s (attempt %d/%d): %s",
+                    url,
+                    attempt,
+                    CONFIG.max_retries,
+                    exc,
                 )
-            if attempt < MAX_RETRIES:
-                time.sleep(RETRY_BACKOFF_SECONDS * attempt)
-        logger.error("Giving up on %s after %d attempts", url, MAX_RETRIES)
+            if attempt < CONFIG.max_retries:
+                time.sleep(CONFIG.retry_backoff_seconds * attempt)
+        logger.error("Giving up on %s after %d attempts", url, CONFIG.max_retries)
         return None
 
     @staticmethod
@@ -157,7 +154,7 @@ class QuotesScraper:
         """Walk all pages and yield normalized Quote records."""
         url: Optional[str] = self.base_url
         pages = 0
-        while url and pages < MAX_PAGES:
+        while url and pages < CONFIG.max_pages:
             html = self._fetch(url)
             if html is None:
                 break
@@ -167,7 +164,7 @@ class QuotesScraper:
             url = self._next_page(html, url)
             pages += 1
             if url:
-                time.sleep(POLITENESS_DELAY_SECONDS)
+                time.sleep(CONFIG.politeness_delay_seconds)
 
 
 # ---------------------------------------------------------------------------
@@ -178,7 +175,7 @@ class QuotesScraper:
 class DatasetWriter:
     """Appends only unseen rows to the CSV; never overwrites history."""
 
-    def __init__(self, path: Path = DATA_PATH) -> None:
+    def __init__(self, path: Path = CONFIG.data_path) -> None:
         self.path = path
         self.path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -214,7 +211,7 @@ class DatasetWriter:
 
 
 def main() -> int:
-    logger.info("Cronos pipeline started (target: %s)", BASE_URL)
+    logger.info("Cronos pipeline started (target: %s)", CONFIG.base_url)
     scraper = QuotesScraper()
     writer = DatasetWriter()
 
