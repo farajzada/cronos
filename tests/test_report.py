@@ -77,3 +77,13 @@ def test_report_is_self_contained(data_dir):
     static_zone = html.split('<script id="data"', 1)[0]
     external = re.findall(r'(?:src|href)="(https?://[^"]+)"', static_zone)
     assert external == ["https://github.com/farajzada/cronos"]
+
+
+def test_report_ships_theme_toggle_and_downloads(data_dir):
+    html = build_report()
+    assert 'id="theme-toggle"' in html
+    assert 'id="dl-csv"' in html
+    assert 'id="dl-json"' in html
+    assert '[data-theme="light"]' in html  # light palette defined
+    payload = _extract_payload(html)
+    assert payload["raw_base"].startswith("https://raw.githubusercontent.com/")
