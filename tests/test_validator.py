@@ -1,13 +1,13 @@
-"""Unit tests for the generic validator in src/validator.py."""
+"""Unit tests for the generic validator in cronos/validator.py."""
 
 from __future__ import annotations
 
 import csv
 
-from src.sources.hackernews import HackerNewsSource
-from src.sources.quotes import Quote, QuotesSource
-from src.storage import DatasetWriter
-from src.validator import validate_source
+from cronos.sources.hackernews import HackerNewsSource
+from cronos.sources.quotes import Quote, QuotesSource
+from cronos.storage import DatasetWriter
+from cronos.validator import validate_source
 
 
 def _write(path, source, rows):

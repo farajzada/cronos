@@ -7,7 +7,7 @@ via the generic idempotent DatasetWriter.
 A single failing source is logged and skipped so one flaky upstream never
 blocks the others; the run only fails if EVERY enabled source errors.
 
-Run as a module from the repository root:  python -m src.scraper
+Run as a module from the repository root:  python -m cronos.scraper
 """
 
 from __future__ import annotations
@@ -15,10 +15,10 @@ from __future__ import annotations
 import logging
 import sys
 
-from src.config import CONFIG
-from src.http_client import HttpClient
-from src.sources import get_sources
-from src.storage import DatasetWriter
+from cronos.config import CONFIG
+from cronos.http_client import HttpClient
+from cronos.sources import get_sources
+from cronos.storage import DatasetWriter
 
 logging.basicConfig(
     level=logging.INFO,

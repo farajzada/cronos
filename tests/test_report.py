@@ -1,4 +1,4 @@
-"""Unit tests for src/report.py (multi-source dashboard)."""
+"""Unit tests for cronos/report.py (multi-source dashboard)."""
 
 from __future__ import annotations
 
@@ -7,15 +7,15 @@ import re
 
 import pytest
 
-from src.report import build_report
-from src.sources.quotes import Quote, QuotesSource
-from src.storage import DatasetWriter
+from cronos.report import build_report
+from cronos.sources.quotes import Quote, QuotesSource
+from cronos.storage import DatasetWriter
 
 
 @pytest.fixture
 def data_dir(tmp_path, monkeypatch):
     """Point the report at an isolated data dir with a seeded quotes set."""
-    from src import config, metrics, report
+    from cronos import config, metrics, report
 
     test_config = config.Config.from_env()
     object.__setattr__(test_config, "data_dir", tmp_path)  # frozen dataclass

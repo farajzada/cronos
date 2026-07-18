@@ -8,7 +8,7 @@
     cronos sources    list available and enabled sources
 
 Installed as the `cronos` console script via pyproject.toml, or run as a
-module from the repository root:  python -m src.cli <command>
+module from the repository root:  python -m cronos.cli <command>
 """
 
 from __future__ import annotations
@@ -17,9 +17,9 @@ import argparse
 import sys
 from typing import Callable, Dict, List
 
-from src import metrics, report, scraper, validator
-from src.config import CONFIG
-from src.sources import REGISTRY
+from cronos import metrics, report, scraper, validator
+from cronos.config import CONFIG
+from cronos.sources import REGISTRY
 
 COMMANDS: Dict[str, Callable[[], int]] = {
     "run": scraper.main,

@@ -1,7 +1,7 @@
 """Source registry: maps source names to Source implementations.
 
 Adding a new source to Cronos:
-  1. subclass `Source` in a new module under src/sources/;
+  1. subclass `Source` in a new module under cronos/sources/;
   2. register it in REGISTRY below;
   3. enable it via CRONOS_SOURCES (comma-separated names).
 """
@@ -10,9 +10,9 @@ from __future__ import annotations
 
 from typing import Dict, List, Type
 
-from src.sources.base import Source
-from src.sources.hackernews import HackerNewsSource
-from src.sources.quotes import QuotesSource
+from cronos.sources.base import Source
+from cronos.sources.hackernews import HackerNewsSource
+from cronos.sources.quotes import QuotesSource
 
 REGISTRY: Dict[str, Type[Source]] = {
     QuotesSource.name: QuotesSource,

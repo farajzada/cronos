@@ -1,1 +1,1 @@
-"""Repository-root conftest: makes the `src` package importable in tests."""
+"""Repository-root conftest: makes the `cronos` package importable in tests."""

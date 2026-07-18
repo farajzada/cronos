@@ -1,12 +1,12 @@
-"""Unit tests for src/http_client.py (network fully mocked)."""
+"""Unit tests for cronos/http_client.py (network fully mocked)."""
 
 from __future__ import annotations
 
 import requests
 
-from src import http_client as http_module
-from src.config import CONFIG
-from src.http_client import HttpClient
+from cronos import http_client as http_module
+from cronos.config import CONFIG
+from cronos.http_client import HttpClient
 
 
 class FakeResponse:

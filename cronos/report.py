@@ -16,7 +16,7 @@ commit step stays a graceful no-op. Serve locally with:
 
     python -m http.server -d docs 8000
 
-Run as a module from the repository root:  python -m src.report
+Run as a module from the repository root:  python -m cronos.report
 """
 
 from __future__ import annotations
@@ -25,10 +25,10 @@ import json
 import logging
 import sys
 
-from src.config import CONFIG, PROJECT_ROOT
-from src.metrics import compute_source_stats
-from src.sources import get_sources
-from src.storage import read_rows
+from cronos.config import CONFIG, PROJECT_ROOT
+from cronos.metrics import compute_source_stats
+from cronos.sources import get_sources
+from cronos.storage import read_rows
 
 logging.basicConfig(
     level=logging.INFO,

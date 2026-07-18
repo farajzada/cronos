@@ -12,7 +12,7 @@ enabled or its upstream may have been down); corrupt content is fatal.
 
 Exit code 0 = all present datasets valid, 1 = at least one violation.
 
-Run as a module from the repository root:  python -m src.validator
+Run as a module from the repository root:  python -m cronos.validator
 """
 
 from __future__ import annotations
@@ -23,9 +23,9 @@ import sys
 from pathlib import Path
 from typing import List, Set
 
-from src.config import CONFIG
-from src.sources import get_sources
-from src.sources.base import Source
+from cronos.config import CONFIG
+from cronos.sources import get_sources
+from cronos.sources.base import Source
 
 logging.basicConfig(
     level=logging.INFO,
