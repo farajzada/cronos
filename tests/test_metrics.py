@@ -4,8 +4,9 @@ from __future__ import annotations
 
 import json
 
-from src.metrics import compute_stats, write_stats
-from src.scraper import DatasetWriter, Quote
+from src.metrics import compute_source_stats, write_stats, write_step_summary
+from src.sources.quotes import Quote, QuotesSource
+from src.storage import DatasetWriter, read_rows
 
 
 def _seed(path):
@@ -14,47 +15,56 @@ def _seed(path):
         Quote(text="Q2", author="Einstein", tags="science"),
         Quote(text="Q3", author="Rowling", tags=""),
     ]
-    DatasetWriter(path).append_unique(iter(quotes))
+    DatasetWriter(path, QuotesSource.fieldnames, QuotesSource.key_field).append_unique(
+        q.as_row() for q in quotes
+    )
 
 
-def test_compute_stats_aggregates_correctly(tmp_path):
-    path = tmp_path / "dataset.csv"
+def test_compute_source_stats_aggregates_declared_fields(tmp_path):
+    path = tmp_path / "quotes.csv"
     _seed(path)
-    stats = compute_stats(path)
+    stats = compute_source_stats(QuotesSource(), read_rows(path))
     assert stats["total_records"] == 3
-    assert stats["unique_authors"] == 2
-    assert stats["unique_tags"] == 2
-    assert stats["top_authors"][0] == {"author": "Einstein", "count": 2}
-    assert {"tag": "science", "count": 2} in stats["top_tags"]
+    assert stats["fields"]["author"]["unique"] == 2
+    assert stats["fields"]["author"]["top"][0] == {"value": "Einstein", "count": 2}
+    assert stats["fields"]["tags"]["unique"] == 2
+    assert {"value": "science", "count": 2} in stats["fields"]["tags"]["top"]
 
 
-def test_empty_tags_are_not_counted(tmp_path):
-    path = tmp_path / "dataset.csv"
+def test_split_fields_ignore_empty_values(tmp_path):
+    path = tmp_path / "quotes.csv"
     _seed(path)
-    stats = compute_stats(path)
-    assert all(t["tag"] for t in stats["top_tags"])  # no "" tag entries
+    stats = compute_source_stats(QuotesSource(), read_rows(path))
+    assert all(t["value"] for t in stats["fields"]["tags"]["top"])  # no "" entries
 
 
 def test_stats_output_is_deterministic(tmp_path):
     """Same dataset must yield byte-identical stats.json (GitOps no-op)."""
-    path = tmp_path / "dataset.csv"
+    path = tmp_path / "quotes.csv"
     _seed(path)
+    stats = {
+        "total_records": 3,
+        "sources": {"quotes": compute_source_stats(QuotesSource(), read_rows(path))},
+    }
     out1 = tmp_path / "stats1.json"
     out2 = tmp_path / "stats2.json"
-    write_stats(compute_stats(path), out1)
-    write_stats(compute_stats(path), out2)
+    write_stats(stats, out1)
+    write_stats(stats, out2)
     assert out1.read_bytes() == out2.read_bytes()
     assert json.loads(out1.read_text(encoding="utf-8"))["total_records"] == 3
 
 
 def test_step_summary_written_when_env_set(tmp_path, monkeypatch):
-    from src.metrics import write_step_summary
-
     summary = tmp_path / "summary.md"
     monkeypatch.setenv("GITHUB_STEP_SUMMARY", str(summary))
-    path = tmp_path / "dataset.csv"
+    path = tmp_path / "quotes.csv"
     _seed(path)
-    write_step_summary(compute_stats(path))
+    stats = {
+        "total_records": 3,
+        "sources": {"quotes": compute_source_stats(QuotesSource(), read_rows(path))},
+    }
+    write_step_summary(stats)
     content = summary.read_text(encoding="utf-8")
     assert "Cronos dataset report" in content
-    assert "**Records:** 3" in content
+    assert "**Total records:** 3" in content
+    assert "**quotes:** 3 records" in content

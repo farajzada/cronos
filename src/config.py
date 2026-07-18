@@ -1,7 +1,8 @@
 """Central runtime configuration for Cronos.
 
 Every value can be overridden with a CRONOS_* environment variable, so forks
-can retarget the pipeline (URL, limits, timing) without touching code.
+can retarget the pipeline (sources, URLs, limits, timing) without touching
+code.
 """
 
 from __future__ import annotations
@@ -40,8 +41,10 @@ def _env_float(name: str, default: float) -> float:
 
 @dataclass(frozen=True)
 class Config:
-    base_url: str
-    data_path: Path
+    sources: Tuple[str, ...]
+    data_dir: Path
+    quotes_url: str
+    hackernews_url: str
     max_pages: int
     connect_timeout: float
     read_timeout: float
@@ -56,10 +59,22 @@ class Config:
 
     @classmethod
     def from_env(cls) -> "Config":
+        sources = tuple(
+            name.strip()
+            for name in _env_str("CRONOS_SOURCES", "quotes,hackernews").split(",")
+            if name.strip()
+        )
         return cls(
-            base_url=_env_str("CRONOS_BASE_URL", "https://quotes.toscrape.com/"),
-            data_path=Path(
-                _env_str("CRONOS_DATA_PATH", str(PROJECT_ROOT / "data" / "dataset.csv"))
+            sources=sources,
+            data_dir=Path(_env_str("CRONOS_DATA_DIR", str(PROJECT_ROOT / "data"))),
+            # CRONOS_BASE_URL kept as a legacy alias for CRONOS_QUOTES_URL
+            quotes_url=_env_str(
+                "CRONOS_QUOTES_URL",
+                _env_str("CRONOS_BASE_URL", "https://quotes.toscrape.com/"),
+            ),
+            hackernews_url=_env_str(
+                "CRONOS_HN_URL",
+                "https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=30",
             ),
             max_pages=_env_int("CRONOS_MAX_PAGES", 50),
             connect_timeout=_env_float("CRONOS_CONNECT_TIMEOUT", 5.0),

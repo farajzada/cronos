@@ -1,89 +1,195 @@
 {
-  "top_authors": [
-    {
-      "author": "Albert Einstein",
-      "count": 10
+  "sources": {
+    "hackernews": {
+      "fields": {
+        "author": {
+          "top": [
+            {
+              "count": 1,
+              "value": "baranul"
+            },
+            {
+              "count": 1,
+              "value": "nicholasjbs"
+            },
+            {
+              "count": 1,
+              "value": "vitaut"
+            },
+            {
+              "count": 1,
+              "value": "mbustamanter"
+            },
+            {
+              "count": 1,
+              "value": "secretslol"
+            },
+            {
+              "count": 1,
+              "value": "robtherobber"
+            },
+            {
+              "count": 1,
+              "value": "parksb"
+            },
+            {
+              "count": 1,
+              "value": "couAUIA"
+            },
+            {
+              "count": 1,
+              "value": "aanet"
+            },
+            {
+              "count": 1,
+              "value": "nerdypepper"
+            }
+          ],
+          "unique": 30
+        },
+        "domain": {
+          "top": [
+            {
+              "count": 2,
+              "value": "old.reddit.com"
+            },
+            {
+              "count": 1,
+              "value": "videocardz.com"
+            },
+            {
+              "count": 1,
+              "value": "news.ycombinator.com"
+            },
+            {
+              "count": 1,
+              "value": "maurycyz.com"
+            },
+            {
+              "count": 1,
+              "value": "data.stackexchange.com"
+            },
+            {
+              "count": 1,
+              "value": "environment.ec.europa.eu"
+            },
+            {
+              "count": 1,
+              "value": "parksb.github.io"
+            },
+            {
+              "count": 1,
+              "value": "charlesazam.com"
+            },
+            {
+              "count": 1,
+              "value": "amateurphotographer.com"
+            },
+            {
+              "count": 1,
+              "value": "tangled.org"
+            }
+          ],
+          "unique": 29
+        }
+      },
+      "total_records": 30
     },
-    {
-      "author": "J.K. Rowling",
-      "count": 9
-    },
-    {
-      "author": "Marilyn Monroe",
-      "count": 7
-    },
-    {
-      "author": "Dr. Seuss",
-      "count": 6
-    },
-    {
-      "author": "Mark Twain",
-      "count": 6
-    },
-    {
-      "author": "Jane Austen",
-      "count": 5
-    },
-    {
-      "author": "C.S. Lewis",
-      "count": 5
-    },
-    {
-      "author": "Bob Marley",
-      "count": 3
-    },
-    {
-      "author": "Eleanor Roosevelt",
-      "count": 2
-    },
-    {
-      "author": "Ralph Waldo Emerson",
-      "count": 2
+    "quotes": {
+      "fields": {
+        "author": {
+          "top": [
+            {
+              "count": 10,
+              "value": "Albert Einstein"
+            },
+            {
+              "count": 9,
+              "value": "J.K. Rowling"
+            },
+            {
+              "count": 7,
+              "value": "Marilyn Monroe"
+            },
+            {
+              "count": 6,
+              "value": "Dr. Seuss"
+            },
+            {
+              "count": 6,
+              "value": "Mark Twain"
+            },
+            {
+              "count": 5,
+              "value": "Jane Austen"
+            },
+            {
+              "count": 5,
+              "value": "C.S. Lewis"
+            },
+            {
+              "count": 3,
+              "value": "Bob Marley"
+            },
+            {
+              "count": 2,
+              "value": "Eleanor Roosevelt"
+            },
+            {
+              "count": 2,
+              "value": "Ralph Waldo Emerson"
+            }
+          ],
+          "unique": 50
+        },
+        "tags": {
+          "top": [
+            {
+              "count": 14,
+              "value": "love"
+            },
+            {
+              "count": 13,
+              "value": "inspirational"
+            },
+            {
+              "count": 13,
+              "value": "life"
+            },
+            {
+              "count": 12,
+              "value": "humor"
+            },
+            {
+              "count": 11,
+              "value": "books"
+            },
+            {
+              "count": 7,
+              "value": "reading"
+            },
+            {
+              "count": 5,
+              "value": "friendship"
+            },
+            {
+              "count": 4,
+              "value": "friends"
+            },
+            {
+              "count": 4,
+              "value": "truth"
+            },
+            {
+              "count": 3,
+              "value": "simile"
+            }
+          ],
+          "unique": 137
+        }
+      },
+      "total_records": 100
     }
-  ],
-  "top_tags": [
-    {
-      "count": 14,
-      "tag": "love"
-    },
-    {
-      "count": 13,
-      "tag": "inspirational"
-    },
-    {
-      "count": 13,
-      "tag": "life"
-    },
-    {
-      "count": 12,
-      "tag": "humor"
-    },
-    {
-      "count": 11,
-      "tag": "books"
-    },
-    {
-      "count": 7,
-      "tag": "reading"
-    },
-    {
-      "count": 5,
-      "tag": "friendship"
-    },
-    {
-      "count": 4,
-      "tag": "friends"
-    },
-    {
-      "count": 4,
-      "tag": "truth"
-    },
-    {
-      "count": 3,
-      "tag": "simile"
-    }
-  ],
-  "total_records": 100,
-  "unique_authors": 50,
-  "unique_tags": 137
+  },
+  "total_records": 130
 }
