@@ -1,0 +1,89 @@
+{
+  "top_authors": [
+    {
+      "author": "Albert Einstein",
+      "count": 10
+    },
+    {
+      "author": "J.K. Rowling",
+      "count": 9
+    },
+    {
+      "author": "Marilyn Monroe",
+      "count": 7
+    },
+    {
+      "author": "Dr. Seuss",
+      "count": 6
+    },
+    {
+      "author": "Mark Twain",
+      "count": 6
+    },
+    {
+      "author": "Jane Austen",
+      "count": 5
+    },
+    {
+      "author": "C.S. Lewis",
+      "count": 5
+    },
+    {
+      "author": "Bob Marley",
+      "count": 3
+    },
+    {
+      "author": "Eleanor Roosevelt",
+      "count": 2
+    },
+    {
+      "author": "Ralph Waldo Emerson",
+      "count": 2
+    }
+  ],
+  "top_tags": [
+    {
+      "count": 14,
+      "tag": "love"
+    },
+    {
+      "count": 13,
+      "tag": "inspirational"
+    },
+    {
+      "count": 13,
+      "tag": "life"
+    },
+    {
+      "count": 12,
+      "tag": "humor"
+    },
+    {
+      "count": 11,
+      "tag": "books"
+    },
+    {
+      "count": 7,
+      "tag": "reading"
+    },
+    {
+      "count": 5,
+      "tag": "friendship"
+    },
+    {
+      "count": 4,
+      "tag": "friends"
+    },
+    {
+      "count": 4,
+      "tag": "truth"
+    },
+    {
+      "count": 3,
+      "tag": "simile"
+    }
+  ],
+  "total_records": 100,
+  "unique_authors": 50,
+  "unique_tags": 137
+}
