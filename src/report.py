@@ -224,7 +224,9 @@ def build_payload() -> dict:
         if not path.exists():
             continue
         rows = read_rows(path)
-        facet_split = dict(source.stat_fields).get(source.facet_field) if source.facet_field else None
+        facet_split = (
+            dict(source.stat_fields).get(source.facet_field) if source.facet_field else None
+        )
         sources_payload.append(
             {
                 "name": source.name,

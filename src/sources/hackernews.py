@@ -75,8 +75,7 @@ class HackerNewsSource(Source):
             return
         rows = self.parse(payload)
         logger.info("Extracted %d records from %s", len(rows), self.api_url)
-        for row in rows:
-            yield row
+        yield from rows
 
     def validate_row(self, row: Dict[str, str]) -> List[str]:
         errors: List[str] = []

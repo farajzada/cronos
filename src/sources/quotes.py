@@ -24,7 +24,7 @@ logger = logging.getLogger("cronos.sources.quotes")
 
 def content_hash(text: str, author: str) -> str:
     """Stable identity of a quote: tags may change, text+author may not."""
-    return hashlib.sha256(f"{text}::{author}".encode("utf-8")).hexdigest()
+    return hashlib.sha256(f"{text}::{author}".encode()).hexdigest()
 
 
 @dataclass(frozen=True)
@@ -114,7 +114,6 @@ class QuotesSource(Source):
             errors.append("empty text")
         if not author.strip():
             errors.append("empty author")
-        if text.strip() and author.strip():
-            if row.get("quote_id") != content_hash(text, author):
-                errors.append("quote_id does not match content hash")
+        if text.strip() and author.strip() and row.get("quote_id") != content_hash(text, author):
+            errors.append("quote_id does not match content hash")
         return errors
