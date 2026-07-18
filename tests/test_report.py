@@ -1,20 +1,36 @@
-"""Unit tests for src/report.py."""
+"""Unit tests for src/report.py (multi-source dashboard)."""
 
 from __future__ import annotations
 
 import json
 import re
 
+import pytest
+
 from src.report import build_report
-from src.scraper import DatasetWriter, Quote
+from src.sources.quotes import Quote, QuotesSource
+from src.storage import DatasetWriter
 
 
-def _seed(path, quotes=None):
-    quotes = quotes or [
+@pytest.fixture
+def data_dir(tmp_path, monkeypatch):
+    """Point the report at an isolated data dir with a seeded quotes set."""
+    from src import config, metrics, report
+
+    test_config = config.Config.from_env()
+    object.__setattr__(test_config, "data_dir", tmp_path)  # frozen dataclass
+    object.__setattr__(test_config, "sources", ("quotes",))
+    monkeypatch.setattr(report, "CONFIG", test_config)
+    monkeypatch.setattr(metrics, "CONFIG", test_config)
+
+    quotes = [
         Quote(text="Q1", author="Einstein", tags="life|science"),
         Quote(text="Q2", author="Rowling", tags=""),
     ]
-    DatasetWriter(path).append_unique(iter(quotes))
+    DatasetWriter(
+        tmp_path / "quotes.csv", QuotesSource.fieldnames, QuotesSource.key_field
+    ).append_unique(q.as_row() for q in quotes)
+    return tmp_path
 
 
 def _extract_payload(html):
@@ -25,40 +41,41 @@ def _extract_payload(html):
     return json.loads(match.group(1).replace("<\\/", "</"))
 
 
-def test_report_embeds_all_records_and_stats(tmp_path):
-    path = tmp_path / "dataset.csv"
-    _seed(path)
-    payload = _extract_payload(build_report(path))
-    assert len(payload["records"]) == 2
-    assert payload["stats"]["total_records"] == 2
-    assert payload["records"][0] == {"text": "Q1", "author": "Einstein", "tags": "life|science"}
+def test_report_embeds_sources_records_and_stats(data_dir):
+    payload = _extract_payload(build_report())
+    assert len(payload["sources"]) == 1
+    quotes = payload["sources"][0]
+    assert quotes["name"] == "quotes"
+    assert quotes["facet_field"] == "tags"
+    assert quotes["facet_split"] == "|"
+    assert len(quotes["records"]) == 2
+    assert quotes["stats"]["total_records"] == 2
+    assert quotes["columns"][0] == ["text", "Quote"]
 
 
-def test_report_is_deterministic(tmp_path):
+def test_report_is_deterministic(data_dir):
     """Unchanged dataset must render byte-identical HTML (GitOps no-op)."""
-    path = tmp_path / "dataset.csv"
-    _seed(path)
-    assert build_report(path) == build_report(path)
+    assert build_report() == build_report()
 
 
-def test_script_breakout_is_escaped(tmp_path):
+def test_script_breakout_is_escaped(data_dir):
     """A record containing </script> must not terminate the data block."""
-    path = tmp_path / "dataset.csv"
-    _seed(path, [Quote(text="evil </script><script>alert(1)</script>", author="X", tags="")])
-    html = build_report(path)
+    DatasetWriter(
+        data_dir / "quotes.csv", QuotesSource.fieldnames, QuotesSource.key_field
+    ).append_unique(
+        iter([Quote(text="evil </script><script>alert(1)</script>", author="X", tags="").as_row()])
+    )
+    html = build_report()
     payload_zone = html.split('<script id="data"', 1)[1]
     blob = payload_zone.split("</script>", 1)[0]  # first real terminator
-    # the malicious text must still be fully inside the JSON blob, escaped
-    assert "<\\/script>" in blob
-    assert json.loads(blob.split(">", 1)[1].replace("<\\/", "</"))["records"][0][
-        "text"
-    ].startswith("evil ")
+    assert "<\\/script>" in blob  # malicious text stayed inside, escaped
+    records = json.loads(blob.split(">", 1)[1].replace("<\\/", "</"))["sources"][0]["records"]
+    assert any(r["text"].startswith("evil ") for r in records)
 
 
-def test_report_is_self_contained(tmp_path):
-    """No external requests: no http(s) src/href except the repo link."""
-    path = tmp_path / "dataset.csv"
-    _seed(path)
-    html = build_report(path)
-    external = re.findall(r'(?:src|href)="(https?://[^"]+)"', html)
+def test_report_is_self_contained(data_dir):
+    """No external requests: no http(s) src/href except embedded record links."""
+    html = build_report()
+    static_zone = html.split('<script id="data"', 1)[0]
+    external = re.findall(r'(?:src|href)="(https?://[^"]+)"', static_zone)
     assert external == ["https://github.com/farajzada/cronos"]
