@@ -45,7 +45,7 @@
               "value": "nerdypepper"
             }
           ],
-          "unique": 30
+          "unique": 32
         },
         "domain": {
           "top": [
@@ -90,10 +90,10 @@
               "value": "tangled.org"
             }
           ],
-          "unique": 29
+          "unique": 31
         }
       },
-      "total_records": 30
+      "total_records": 32
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 130
+  "total_records": 132
 }

@@ -29,3 +29,5 @@ item_id,title,url,domain,author,points
 47999020,How to organize 3 acquired companies into one coherent website,https://littlelanguagemodels.com/how-to-structure-your-sites-after-a-big-acquisition/,littlelanguagemodels.com,mooreds,13
 48961157,What's the deal with all the random weekly quota resets for agents lately?,https://minimaxir.com/2026/07/agent-quota-reset/,minimaxir.com,minimaxir,12
 47439821,"Conway's Game of Life, in real life",https://lcamtuf.coredump.cx/blog/conway/,lcamtuf.coredump.cx,ahlCVA,12
+48951461,The Zilog Z80 has turned 50,https://goliath32.com/blog/z80.html,goliath32.com,st_goliath,262
+48952565,TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years,https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md,github.com,BadChemical,198
