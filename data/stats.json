@@ -5,6 +5,10 @@
         "author": {
           "top": [
             {
+              "count": 2,
+              "value": "bookofjoe"
+            },
+            {
               "count": 1,
               "value": "baranul"
             },
@@ -39,19 +43,23 @@
             {
               "count": 1,
               "value": "aanet"
-            },
-            {
-              "count": 1,
-              "value": "nerdypepper"
             }
           ],
-          "unique": 32
+          "unique": 43
         },
         "domain": {
           "top": [
             {
               "count": 2,
               "value": "old.reddit.com"
+            },
+            {
+              "count": 2,
+              "value": "arxiv.org"
+            },
+            {
+              "count": 2,
+              "value": "github.com"
             },
             {
               "count": 1,
@@ -80,20 +88,12 @@
             {
               "count": 1,
               "value": "charlesazam.com"
-            },
-            {
-              "count": 1,
-              "value": "amateurphotographer.com"
-            },
-            {
-              "count": 1,
-              "value": "tangled.org"
             }
           ],
-          "unique": 31
+          "unique": 41
         }
       },
-      "total_records": 32
+      "total_records": 44
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 132
+  "total_records": 144
 }
