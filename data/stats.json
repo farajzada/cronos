@@ -5,8 +5,16 @@
         "author": {
           "top": [
             {
+              "count": 3,
+              "value": "surprisetalk"
+            },
+            {
               "count": 2,
               "value": "bookofjoe"
+            },
+            {
+              "count": 2,
+              "value": "rbanffy"
             },
             {
               "count": 1,
@@ -35,20 +43,20 @@
             {
               "count": 1,
               "value": "parksb"
-            },
-            {
-              "count": 1,
-              "value": "couAUIA"
-            },
-            {
-              "count": 1,
-              "value": "aanet"
             }
           ],
-          "unique": 43
+          "unique": 68
         },
         "domain": {
           "top": [
+            {
+              "count": 3,
+              "value": "github.com"
+            },
+            {
+              "count": 2,
+              "value": "news.ycombinator.com"
+            },
             {
               "count": 2,
               "value": "old.reddit.com"
@@ -59,15 +67,11 @@
             },
             {
               "count": 2,
-              "value": "github.com"
+              "value": "twitter.com"
             },
             {
               "count": 1,
               "value": "videocardz.com"
-            },
-            {
-              "count": 1,
-              "value": "news.ycombinator.com"
             },
             {
               "count": 1,
@@ -84,16 +88,12 @@
             {
               "count": 1,
               "value": "parksb.github.io"
-            },
-            {
-              "count": 1,
-              "value": "charlesazam.com"
             }
           ],
-          "unique": 41
+          "unique": 66
         }
       },
-      "total_records": 44
+      "total_records": 72
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 144
+  "total_records": 172
 }
