@@ -5,7 +5,7 @@
         "author": {
           "top": [
             {
-              "count": 3,
+              "count": 4,
               "value": "surprisetalk"
             },
             {
@@ -45,16 +45,16 @@
               "value": "parksb"
             }
           ],
-          "unique": 68
+          "unique": 96
         },
         "domain": {
           "top": [
             {
-              "count": 3,
+              "count": 4,
               "value": "github.com"
             },
             {
-              "count": 2,
+              "count": 3,
               "value": "news.ycombinator.com"
             },
             {
@@ -68,6 +68,10 @@
             {
               "count": 2,
               "value": "twitter.com"
+            },
+            {
+              "count": 2,
+              "value": "spectrum.ieee.org"
             },
             {
               "count": 1,
@@ -84,16 +88,12 @@
             {
               "count": 1,
               "value": "environment.ec.europa.eu"
-            },
-            {
-              "count": 1,
-              "value": "parksb.github.io"
             }
           ],
-          "unique": 66
+          "unique": 92
         }
       },
-      "total_records": 72
+      "total_records": 101
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 172
+  "total_records": 201
 }
