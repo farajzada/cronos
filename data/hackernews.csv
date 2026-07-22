@@ -100,3 +100,31 @@ item_id,title,url,domain,author,points
 48864176,My two year old taught me constraint solving,https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/,thecomputersciencebook.com,bambataa,26
 48923130,The Psychology of Software Teams,https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389,routledge.com,dcre,16
 48901918,Rendering Fonts Quickly on the GPU,https://www.outercloud.dev/blogs/webgpu-font-rendering/,outercloud.dev,outercloud,15
+48997548,OpenAI and Hugging Face address security incident during model evaluation,https://openai.com/index/hugging-face-model-evaluation-security-incident/,openai.com,mfiguiere,685
+48993414,"Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/,blog.google,logickkk1,607
+48996318,FreeInk: Open ecosystem for e-readers,https://freeink.org/,freeink.org,FriedPickles,398
+48997221,"'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling,techradar.com,healsdata,370
+48992870,Apple defeats liability for not scanning iCloud for CSAM,https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm,blog.ericgoldman.org,speckx,345
+48993816,"Long presumed dead, a thriving coral reef is discovered in West Africa",https://e360.yale.edu/digest/benin-coral-reef,e360.yale.edu,speckx,300
+48996571,Advertise in ChatGPT,https://ads.openai.com/,ads.openai.com,montecarl,288
+48999291,Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA,https://fireworks.ai/blog/kimik3-fable,fireworks.ai,piotrgrabowski,262
+48995213,"Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git,runtimewire.com,ryanmerket,232
+48995261,Laguna S 2.1,https://poolside.ai/blog/introducing-laguna-s-2-1,poolside.ai,rexledesma,231
+48992323,PCjs Machines,https://www.pcjs.org/,pcjs.org,naves,188
+48994178,Map of the world's great castles and fortresses,https://thecastlemap.com/,thecastlemap.com,marklit,172
+48974862,My USB Drive Has a Hidden Encrypted Vault,https://rootkitlabs.com/2026/06/22/I%27m-Building-a-Secure-USB-Drive/,rootkitlabs.com,machinehum,166
+48998362,A digestion of the Jacobian conjecture counterexample,https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/,terrytao.wordpress.com,jeremyscanvic,152
+48960582,The unreasonable difficulty of time series forecasting,https://suzyahyah.github.io/machine%20learning/2026/06/27/trouble-with-time-series.html,suzyahyah.github.io,suzyahyah,128
+48994716,Roblox Officially Supports GrapheneOS,https://en.help.roblox.com/hc/en-us/articles/49648939984916-Android-Remote-Attestation,en.help.roblox.com,Cider9986,105
+48996652,Judge approves $1.5B Anthropic settlement for pirated books used to train Claude,https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63,apnews.com,BeetleB,103
+48995796,Apple Private Cloud Compute SoC 3 audit reports,https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web,support.apple.com,throwfaraway4,102
+48998404,"""Drawing"" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok,tryai.dev,hershyb_,98
+48994116,France's Anssi Will Block PQC-Free Products from Certification Starting 2027,https://postquantum.com/security-pqc/anssi-pqc-certification-2027/,postquantum.com,Sami_Lehtinen,87
+48996187,Show HN: A self-running space economy SIM in Rust and Bevy,https://github.com/Kalcode/spaceprojectsim,github.com,kalcode,83
+48946738,Show HN: Justif – Knuth-Plass justification and microtypography for the web,https://justif.lyall.co/,justif.lyall.co,lyall,82
+48953468,The Birth of Prolog (1996),https://dl.acm.org/doi/10.1145/234286.1057820,dl.acm.org,Jtsummers,63
+48996364,The Price of Happiness (2024),https://happiness-science.org/price-of-happiness/,happiness-science.org,andyjohnson0,60
+48977628,"Show HN: Read the Tape – Wordle for daytrading, five blind S&P 500 charts a day",https://readthetape.cc/,readthetape.cc,will_asouka,46
+48998606,"Gemini last models: temperature, top_p, and top_k are deprecated and ignored",https://ai.google.dev/gemini-api/docs/latest-model,ai.google.dev,greatgib,34
+48938395,Recreating the math behind the first stealth aircraft,https://www.pramit.gg/post/remaking-echo-1-stealth-physics,pramit.gg,pmazumder,31
+48998828,"Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",https://www.getcomputable.com/,getcomputable.com,yuansong98,18

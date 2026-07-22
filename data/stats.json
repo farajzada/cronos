@@ -9,12 +9,20 @@
               "value": "surprisetalk"
             },
             {
+              "count": 3,
+              "value": "speckx"
+            },
+            {
               "count": 2,
               "value": "bookofjoe"
             },
             {
               "count": 2,
               "value": "rbanffy"
+            },
+            {
+              "count": 2,
+              "value": "mfiguiere"
             },
             {
               "count": 1,
@@ -35,22 +43,14 @@
             {
               "count": 1,
               "value": "secretslol"
-            },
-            {
-              "count": 1,
-              "value": "robtherobber"
-            },
-            {
-              "count": 1,
-              "value": "parksb"
             }
           ],
-          "unique": 96
+          "unique": 121
         },
         "domain": {
           "top": [
             {
-              "count": 4,
+              "count": 5,
               "value": "github.com"
             },
             {
@@ -74,6 +74,10 @@
               "value": "spectrum.ieee.org"
             },
             {
+              "count": 2,
+              "value": "dl.acm.org"
+            },
+            {
               "count": 1,
               "value": "videocardz.com"
             },
@@ -84,16 +88,12 @@
             {
               "count": 1,
               "value": "data.stackexchange.com"
-            },
-            {
-              "count": 1,
-              "value": "environment.ec.europa.eu"
             }
           ],
-          "unique": 92
+          "unique": 118
         }
       },
-      "total_records": 101
+      "total_records": 129
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 201
+  "total_records": 229
 }
