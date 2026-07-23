@@ -5,12 +5,20 @@
         "author": {
           "top": [
             {
+              "count": 5,
+              "value": "speckx"
+            },
+            {
               "count": 4,
               "value": "surprisetalk"
             },
             {
               "count": 3,
-              "value": "speckx"
+              "value": "rbanffy"
+            },
+            {
+              "count": 2,
+              "value": "ykev"
             },
             {
               "count": 2,
@@ -18,7 +26,7 @@
             },
             {
               "count": 2,
-              "value": "rbanffy"
+              "value": "toomuchtodo"
             },
             {
               "count": 2,
@@ -35,22 +43,14 @@
             {
               "count": 1,
               "value": "vitaut"
-            },
-            {
-              "count": 1,
-              "value": "mbustamanter"
-            },
-            {
-              "count": 1,
-              "value": "secretslol"
             }
           ],
-          "unique": 121
+          "unique": 145
         },
         "domain": {
           "top": [
             {
-              "count": 5,
+              "count": 8,
               "value": "github.com"
             },
             {
@@ -58,16 +58,16 @@
               "value": "news.ycombinator.com"
             },
             {
-              "count": 2,
-              "value": "old.reddit.com"
-            },
-            {
-              "count": 2,
+              "count": 3,
               "value": "arxiv.org"
             },
             {
-              "count": 2,
+              "count": 3,
               "value": "twitter.com"
+            },
+            {
+              "count": 2,
+              "value": "old.reddit.com"
             },
             {
               "count": 2,
@@ -90,10 +90,10 @@
               "value": "data.stackexchange.com"
             }
           ],
-          "unique": 118
+          "unique": 142
         }
       },
-      "total_records": 129
+      "total_records": 158
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 229
+  "total_records": 258
 }

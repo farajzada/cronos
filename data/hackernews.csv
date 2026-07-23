@@ -128,3 +128,32 @@ item_id,title,url,domain,author,points
 48998606,"Gemini last models: temperature, top_p, and top_k are deprecated and ignored",https://ai.google.dev/gemini-api/docs/latest-model,ai.google.dev,greatgib,34
 48938395,Recreating the math behind the first stealth aircraft,https://www.pramit.gg/post/remaking-echo-1-stealth-physics,pramit.gg,pmazumder,31
 48998828,"Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",https://www.getcomputable.com/,getcomputable.com,yuansong98,18
+49008211,Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab),https://bento.page/slides/,bento.page,starfallg,635
+49010345,Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample,https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56,chatgpt.com,gmays,580
+49012070,John C. Dvorak has died,https://twitter.com/na_announce/status/2079952538040672302,twitter.com,coleca,529
+49010129,Are AI Labs Pelicanmaxxing?,https://dylancastillo.co/posts/pelicanmaxxing.html,dylancastillo.co,dcastm,384
+49010167,GigaToken: ~1000x faster Language model tokenization,https://github.com/marcelroed/gigatoken/,github.com,syrusakbary,359
+49005787,The startup's Postgres survival guide,https://hatchet.run/blog/postgres-survival-guide,hatchet.run,abelanger,308
+49008440,Making,https://beej.us/blog/data/ai-making/,beej.us,erikschoster,270
+49005747,So Reddit has decided that plain HTML is unsafe,https://www.cole-k.com/2026/07/21/reddit/,cole-k.com,montroser,264
+49013036,I Inspected My Take-Home Interview Project. It Was a Whole Operation,https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/,citizendot.github.io,CITIZENDOT,254
+49010648,Everyone Should Know SIMD,https://mitchellh.com/writing/everyone-should-know-simd,mitchellh.com,WadeGrimridge,246
+49006195,Back to Kagi,https://blog.melashri.net/micro/back-to-kagi/,blog.melashri.net,speckx,192
+49005973,Businesses with ugly AI menu redesigns,https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/,blog.fiddery.com,speckx,176
+48917135,Nobody knows what a used GPU cluster is worth,https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster,ciphertalk.substack.com,rbanffy,165
+49007247,Quality non-fiction books are the antithesis of AI slop,https://resobscura.substack.com/p/quality-non-fiction-books-are-the,resobscura.substack.com,benbreen,136
+49007626,Ghost Cut – or why Cut and Paste is broken everywhere,https://ishmael.textualize.io/blog/ghost-cut/,ishmael.textualize.io,willm,125
+49014007,Medici family mystery may be solved after more than 400 years,https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria,cnn.com,effects,74
+49013356,Safari Technology Preview 248 Released,https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/,webkit.org,Erenay09,71
+49012777,Fairphone 6 wide camera experimental Linux support,https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/,nondescriptpointer.com,helonaut,68
+49013538,"Malleable Computing, Emacs, and You",http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html,yummymelon.com,kickingvegas,67
+49010782,Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong,https://github.com/cactus-compute/cactus-hybrid,github.com,HenryNdubuaku,62
+49008901,Launch HN: Unlayer (YC W22) – Add email and document builders to your app,https://unlayer.com,unlayer.com,adeelraza,46
+48975395,Taking OCaml and Eio for a Spin,https://mattjhall.co.uk/posts/taking-ocaml-eio-for-a-spin.html,mattjhall.co.uk,mattjhall,35
+49013995,Any text-to-SQL benchmark should address difficulties of real-world data stores,https://cacm.acm.org/blogcacm/if-you-think-you-can-do-real-world-text-to-sql/,cacm.acm.org,shenli3514,30
+49011687,"Clarity didn't work, trying mysterianism",https://gwern.net/doc/fiction/science-fiction/2012-10-03-yvain-thewhisperingearring.html,gwern.net,dboon,28
+49014537,Anthropomorphism in Children's Interactions with LLM Chatbots,https://arxiv.org/abs/2607.18250,arxiv.org,StatsAreFun,18
+48922144,Museum of the Human Web,https://museum.parallel.ai/introduction?era=modern,museum.parallel.ai,ohjeez,17
+49013924,All 253 Patterns from Christopher Alexander's a Pattern Language Summarized,https://claytondorge.com/patterns-list,claytondorge.com,toomuchtodo,14
+48950562,How we made our LeRobot video reader up to 15× faster,https://www.eventual.ai/blog/how-we-made-our-lerobot-video-reader-up-to-15x-faster,eventual.ai,ykev,14
+48967506,MemoryPack: Zero encoding extreme performance binary serializer for C#,https://github.com/Cysharp/MemoryPack,github.com,breve,12
