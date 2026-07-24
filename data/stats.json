@@ -5,7 +5,7 @@
         "author": {
           "top": [
             {
-              "count": 5,
+              "count": 6,
               "value": "speckx"
             },
             {
@@ -15,6 +15,10 @@
             {
               "count": 3,
               "value": "rbanffy"
+            },
+            {
+              "count": 3,
+              "value": "ibobev"
             },
             {
               "count": 2,
@@ -33,32 +37,28 @@
               "value": "mfiguiere"
             },
             {
+              "count": 2,
+              "value": "MarcoDewey"
+            },
+            {
               "count": 1,
               "value": "baranul"
-            },
-            {
-              "count": 1,
-              "value": "nicholasjbs"
-            },
-            {
-              "count": 1,
-              "value": "vitaut"
             }
           ],
-          "unique": 145
+          "unique": 170
         },
         "domain": {
           "top": [
             {
-              "count": 8,
+              "count": 12,
               "value": "github.com"
             },
             {
-              "count": 3,
+              "count": 5,
               "value": "news.ycombinator.com"
             },
             {
-              "count": 3,
+              "count": 4,
               "value": "arxiv.org"
             },
             {
@@ -68,6 +68,10 @@
             {
               "count": 2,
               "value": "old.reddit.com"
+            },
+            {
+              "count": 2,
+              "value": "simonwillison.net"
             },
             {
               "count": 2,
@@ -84,16 +88,12 @@
             {
               "count": 1,
               "value": "maurycyz.com"
-            },
-            {
-              "count": 1,
-              "value": "data.stackexchange.com"
             }
           ],
-          "unique": 142
+          "unique": 163
         }
       },
-      "total_records": 158
+      "total_records": 187
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 258
+  "total_records": 287
 }

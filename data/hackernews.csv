@@ -157,3 +157,32 @@ item_id,title,url,domain,author,points
 49013924,All 253 Patterns from Christopher Alexander's a Pattern Language Summarized,https://claytondorge.com/patterns-list,claytondorge.com,toomuchtodo,14
 48950562,How we made our LeRobot video reader up to 15× faster,https://www.eventual.ai/blog/how-we-made-our-lerobot-video-reader-up-to-15x-faster,eventual.ai,ykev,14
 48967506,MemoryPack: Zero encoding extreme performance binary serializer for C#,https://github.com/Cysharp/MemoryPack,github.com,breve,12
+49022152,Writing by hand is good for your brain,https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your,nealstephenson.substack.com,dwwoelfel,960
+49023016,Startup founders urge U.S. government not to shut off Chinese open weight AI,https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992,politico.com,theanonymousone,711
+49015639,OpenAI’s accidental attack against Hugging Face is science fiction that happened,https://simonwillison.net/2026/Jul/22/openai-cyberattack/,simonwillison.net,abhisek,370
+49024691,What happened to TheNumbers.com,https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all,stephenfollows.com,nickthegreek,288
+49022038,Software rendering in 500 lines of bare C++,https://haqr.eu/tinyrenderer/,haqr.eu,mpweiher,240
+49026810,Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models,https://news.ycombinator.com/item?id=49026810,news.ycombinator.com,adam_rida,217
+49024643,The arguments against open source AI are bad,https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/,tombedor.dev,jjfoooo4,201
+49021783,Astronomers may have found the first exomoon,https://www.eso.org/public/news/eso2610/,eso.org,MarcoDewey,191
+49028927,98.css,https://jdan.github.io/98.css/#status-bar,jdan.github.io,lopespm,187
+49021597,"DARPA, U.S. Air Force fly AI-controlled F-16",https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16,darpa.mil,r2sk5t,176
+49022634,"Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",https://learnopengl.com/,learnopengl.com,ibobev,174
+49023019,Why Software Factories Fail (or: harness engineering is not enough),https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md,github.com,dhorthy,169
+49007221,The Beam Engine,https://glinscott.github.io/beam-engine/,glinscott.github.io,glinscott,151
+49022137,Fields Medals 2026,https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2026,mathunion.org,nill0,135
+49025984,Building on ATProto,https://lukekanies.com/writing/building-on-atproto/,lukekanies.com,speckx,123
+49022911,Show HN: Palmier Pro – Open-source macOS video editor built for AI,https://github.com/palmier-io/palmier-pro,github.com,harrisontin,118
+48951500,A24 Is Copyright Striking Backrooms Artwork Older Than the Movie,https://www.thegamer.com/the-backrooms-a24-copyright-strike-artwork/,thegamer.com,josephcsible,83
+49022663,Learn WebGPU for C++,https://eliemichel.github.io/LearnWebGPU/,eliemichel.github.io,ibobev,82
+49023427,Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents,https://github.com/onecli/onecli,github.com,Jonathanfishner,80
+49025831,A solid-state “atomic channel” for separating rare earth elements,https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements,pme.uchicago.edu,MarcoDewey,69
+49024882,Show HN: Claude-thermos keeps your Claude session warm for you,https://github.com/izeigerman/claude-thermos,github.com,s0ck_r4w,66
+49024620,Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents,https://news.ycombinator.com/item?id=49024620,news.ycombinator.com,louis030195,56
+48959008,What else do people draw on gradient.horse?,https://rybakov.com/blog/what_else_do_people_draw_on_gradient-copy.horse/,rybakov.com,spython,49
+48978989,Meta Garbage Collection: Using OCaml's GC to GC Rust,https://soteria-tools.com/blog/meta-garbage-collection,soteria-tools.com,annieversary,49
+48984760,Converting Files into Minecraft Worlds,https://wuemeli.com/blog/sulfur-part-1/,wuemeli.com,wuemeli,48
+49029133,A Taxonomy of Omnicidal Futures Involving Artificial Intelligence,https://arxiv.org/abs/2507.09369,arxiv.org,amelius,42
+48989065,Escape Analysis in Go: Stack vs. Heap Allocations Explained,https://blog.jetbrains.com/go/2026/07/20/escape-analysis/,blog.jetbrains.com,ingve,36
+48952392,Interview with Matheus Moreira about Lone Lisp and Linux Kernel,https://alexalejandre.com/interviews/interview-with-matheus-moreira/,alexalejandre.com,veqq,32
+49029538,The Visual 6502,http://visual6502.org/JSSim/index.html,visual6502.org,infiniteregrets,30
