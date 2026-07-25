@@ -186,3 +186,32 @@ item_id,title,url,domain,author,points
 48989065,Escape Analysis in Go: Stack vs. Heap Allocations Explained,https://blog.jetbrains.com/go/2026/07/20/escape-analysis/,blog.jetbrains.com,ingve,36
 48952392,Interview with Matheus Moreira about Lone Lisp and Linux Kernel,https://alexalejandre.com/interviews/interview-with-matheus-moreira/,alexalejandre.com,veqq,32
 49029538,The Visual 6502,http://visual6502.org/JSSim/index.html,visual6502.org,infiniteregrets,30
+49038433,Claude Opus 5,https://www.anthropic.com/news/claude-opus-5,anthropic.com,alvis,1276
+49033004,"If coding has been solved, why does software keep getting worse?",https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/,ptrchm.com,pchm,511
+49034292,My security camera shipped a GitHub admin token in its login page,https://hhh.hn/hanwha-github-token/,hhh.hn,hhh,503
+49035303,"Nvidia, Microsoft, Meta warn against overregulating open-weight models",https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html,cnbc.com,louiereederson,489
+48973835,India's first privately-developed rocket reaches orbit on debut launch,https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/,arstechnica.com,sohkamyung,484
+49038060,Be skeptical of OpenAI's rogue hacker agent story,https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker,theguardian.com,rwmj,415
+49036433,Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey,https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece,thehindu.com,rootkea,371
+49034868,Half-Life 2 running natively on HaikuOS,https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18,discuss.haiku-os.org,m0do1,267
+49033240,IRGC claims it destroyed Amazon's Bahrain data center,https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/,houseofsaud.com,thisislife2,240
+48995409,Firefox Containers Preview,https://blog.mozilla.org/en/firefox/firefox-containers-preview/,blog.mozilla.org,twapi,216
+49040296,Postgres LISTEN/NOTIFY actually scales,https://www.dbos.dev/blog/postgres-listen-notify-scalability,dbos.dev,KraftyOne,194
+49024938,Kimi K3 exploited the latest Redis server,https://twitter.com/fried_rice/status/2080059356322918777,twitter.com,Alifatisk,131
+49033110,Future euro banknote design proposals,https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html,ecb.europa.eu,robin_reala,125
+49008512,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",https://news.mit.edu/2026/three-sided-y-zipper-design-0504,news.mit.edu,crescit_eundo,121
+49040741,Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard,https://artificialanalysis.ai/models,artificialanalysis.ai,aarondong,118
+49038298,Don't Take the Black Pill [video],https://www.youtube.com/watch?v=zLZwpH5lCD4,youtube.com,signa11,115
+49026933,"Fil-C: Garbage In, Memory Safety Out [video]",https://www.youtube.com/watch?v=5F-2Y1LPRek,youtube.com,Bootvis,101
+48985182,Designing an Ethernet Switch ASIC,https://essenceia.github.io/projects/ethernet_switch_asic/,essenceia.github.io,random__duck,97
+49038045,Unitree As2-W,https://www.unitree.com/As2-W/,unitree.com,MehrdadKhnzd,92
+49042528,SpaceX Starship Flight 13 livestream [video],https://www.spacex.com/launches/starship-flight-13,spacex.com,cryptoz,89
+49020545,Show HN: I simulated closing the Strait of Hormuz on real oil trade data,https://globaloilnetwork.staffinganalytics.io/,globaloilnetwork.staffinganalytics.io,eliotho,83
+49034217,The case for MUDs in modern times (2018),https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times,andrewzigler.com,bw86,76
+49004464,Marimo now runs in PyCharm,https://marimo.io/blog/pycharm,marimo.io,cantdutchthis,75
+49039395,Gsxui – Shadcn-style components for Go,https://ui.gsxhq.dev/,ui.gsxhq.dev,jackielii,54
+49042354,AIs don't do what you want. This is bad,https://rewardhacking.org,rewardhacking.org,kking23,49
+48977849,The footprints of every building in NYC,https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/,beautifulpublicdata.com,jonathanmkeegan,46
+49034673,Programming language file extensions that match ISO 3166-1 alpha-2 country codes,https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/,bruh.ltd,speckx,38
+49042751,"Sperm Whales blow bubbles to achieve restful, vertical sleep",https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/,news.st-andrews.ac.uk,hhs,20
+48987422,So Bright the Vision (1956) – a story about machines writing instead of humans [pdf],https://s3.us-west-1.wasabisys.com/luminist/EB/S/Simak%20-%20So%20Bright%20the%20Vision.pdf,s3.us-west-1.wasabisys.com,marysminefnuf,14

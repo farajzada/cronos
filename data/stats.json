@@ -5,7 +5,7 @@
         "author": {
           "top": [
             {
-              "count": 6,
+              "count": 7,
               "value": "speckx"
             },
             {
@@ -34,18 +34,18 @@
             },
             {
               "count": 2,
+              "value": "thisislife2"
+            },
+            {
+              "count": 2,
               "value": "mfiguiere"
             },
             {
               "count": 2,
               "value": "MarcoDewey"
-            },
-            {
-              "count": 1,
-              "value": "baranul"
             }
           ],
-          "unique": 170
+          "unique": 197
         },
         "domain": {
           "top": [
@@ -62,8 +62,12 @@
               "value": "arxiv.org"
             },
             {
-              "count": 3,
+              "count": 4,
               "value": "twitter.com"
+            },
+            {
+              "count": 3,
+              "value": "youtube.com"
             },
             {
               "count": 2,
@@ -84,16 +88,12 @@
             {
               "count": 1,
               "value": "videocardz.com"
-            },
-            {
-              "count": 1,
-              "value": "maurycyz.com"
             }
           ],
-          "unique": 163
+          "unique": 189
         }
       },
-      "total_records": 187
+      "total_records": 216
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 287
+  "total_records": 316
 }
