@@ -9,11 +9,11 @@
               "value": "speckx"
             },
             {
-              "count": 4,
+              "count": 5,
               "value": "surprisetalk"
             },
             {
-              "count": 3,
+              "count": 4,
               "value": "rbanffy"
             },
             {
@@ -26,7 +26,15 @@
             },
             {
               "count": 2,
+              "value": "zdw"
+            },
+            {
+              "count": 2,
               "value": "bookofjoe"
+            },
+            {
+              "count": 2,
+              "value": "mooreds"
             },
             {
               "count": 2,
@@ -35,26 +43,18 @@
             {
               "count": 2,
               "value": "thisislife2"
-            },
-            {
-              "count": 2,
-              "value": "mfiguiere"
-            },
-            {
-              "count": 2,
-              "value": "MarcoDewey"
             }
           ],
-          "unique": 197
+          "unique": 219
         },
         "domain": {
           "top": [
             {
-              "count": 12,
+              "count": 15,
               "value": "github.com"
             },
             {
-              "count": 5,
+              "count": 6,
               "value": "news.ycombinator.com"
             },
             {
@@ -64,6 +64,10 @@
             {
               "count": 4,
               "value": "twitter.com"
+            },
+            {
+              "count": 3,
+              "value": "spectrum.ieee.org"
             },
             {
               "count": 3,
@@ -79,10 +83,6 @@
             },
             {
               "count": 2,
-              "value": "spectrum.ieee.org"
-            },
-            {
-              "count": 2,
               "value": "dl.acm.org"
             },
             {
@@ -90,10 +90,10 @@
               "value": "videocardz.com"
             }
           ],
-          "unique": 189
+          "unique": 213
         }
       },
-      "total_records": 216
+      "total_records": 245
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 316
+  "total_records": 345
 }
