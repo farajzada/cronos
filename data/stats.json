@@ -5,11 +5,11 @@
         "author": {
           "top": [
             {
-              "count": 8,
+              "count": 9,
               "value": "speckx"
             },
             {
-              "count": 5,
+              "count": 6,
               "value": "surprisetalk"
             },
             {
@@ -17,7 +17,7 @@
               "value": "rbanffy"
             },
             {
-              "count": 3,
+              "count": 4,
               "value": "zdw"
             },
             {
@@ -33,29 +33,33 @@
               "value": "ibobev"
             },
             {
+              "count": 3,
+              "value": "gmays"
+            },
+            {
               "count": 2,
               "value": "ykev"
             },
             {
               "count": 2,
               "value": "bookofjoe"
-            },
-            {
-              "count": 2,
-              "value": "toomuchtodo"
             }
           ],
-          "unique": 239
+          "unique": 258
         },
         "domain": {
           "top": [
             {
-              "count": 17,
+              "count": 20,
               "value": "github.com"
             },
             {
               "count": 6,
               "value": "news.ycombinator.com"
+            },
+            {
+              "count": 5,
+              "value": "spectrum.ieee.org"
             },
             {
               "count": 4,
@@ -66,12 +70,12 @@
               "value": "twitter.com"
             },
             {
-              "count": 4,
-              "value": "spectrum.ieee.org"
+              "count": 3,
+              "value": "youtube.com"
             },
             {
               "count": 3,
-              "value": "youtube.com"
+              "value": "arstechnica.com"
             },
             {
               "count": 2,
@@ -84,16 +88,12 @@
             {
               "count": 2,
               "value": "dl.acm.org"
-            },
-            {
-              "count": 2,
-              "value": "arstechnica.com"
             }
           ],
-          "unique": 237
+          "unique": 259
         }
       },
-      "total_records": 273
+      "total_records": 301
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 373
+  "total_records": 401
 }
