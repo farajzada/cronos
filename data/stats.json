@@ -5,7 +5,7 @@
         "author": {
           "top": [
             {
-              "count": 9,
+              "count": 10,
               "value": "speckx"
             },
             {
@@ -13,7 +13,7 @@
               "value": "surprisetalk"
             },
             {
-              "count": 5,
+              "count": 6,
               "value": "rbanffy"
             },
             {
@@ -45,12 +45,12 @@
               "value": "bookofjoe"
             }
           ],
-          "unique": 258
+          "unique": 281
         },
         "domain": {
           "top": [
             {
-              "count": 20,
+              "count": 23,
               "value": "github.com"
             },
             {
@@ -59,19 +59,23 @@
             },
             {
               "count": 5,
-              "value": "spectrum.ieee.org"
+              "value": "arxiv.org"
             },
             {
-              "count": 4,
-              "value": "arxiv.org"
+              "count": 5,
+              "value": "spectrum.ieee.org"
             },
             {
               "count": 4,
               "value": "twitter.com"
             },
             {
-              "count": 3,
+              "count": 4,
               "value": "youtube.com"
+            },
+            {
+              "count": 3,
+              "value": "anthropic.com"
             },
             {
               "count": 3,
@@ -84,16 +88,12 @@
             {
               "count": 2,
               "value": "simonwillison.net"
-            },
-            {
-              "count": 2,
-              "value": "dl.acm.org"
             }
           ],
-          "unique": 259
+          "unique": 279
         }
       },
-      "total_records": 301
+      "total_records": 328
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 401
+  "total_records": 428
 }
