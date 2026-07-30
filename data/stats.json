@@ -45,12 +45,12 @@
               "value": "bookofjoe"
             }
           ],
-          "unique": 281
+          "unique": 305
         },
         "domain": {
           "top": [
             {
-              "count": 23,
+              "count": 24,
               "value": "github.com"
             },
             {
@@ -58,7 +58,7 @@
               "value": "news.ycombinator.com"
             },
             {
-              "count": 5,
+              "count": 6,
               "value": "arxiv.org"
             },
             {
@@ -87,13 +87,13 @@
             },
             {
               "count": 2,
-              "value": "simonwillison.net"
+              "value": "nytimes.com"
             }
           ],
-          "unique": 279
+          "unique": 300
         }
       },
-      "total_records": 328
+      "total_records": 355
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 428
+  "total_records": 455
 }
