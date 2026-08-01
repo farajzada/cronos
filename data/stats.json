@@ -5,11 +5,11 @@
         "author": {
           "top": [
             {
-              "count": 11,
+              "count": 13,
               "value": "speckx"
             },
             {
-              "count": 7,
+              "count": 9,
               "value": "surprisetalk"
             },
             {
@@ -19,6 +19,10 @@
             {
               "count": 4,
               "value": "zdw"
+            },
+            {
+              "count": 4,
+              "value": "tosh"
             },
             {
               "count": 4,
@@ -34,24 +38,24 @@
             },
             {
               "count": 3,
-              "value": "tosh"
+              "value": "Jimmc414"
             },
             {
               "count": 2,
               "value": "ykev"
-            },
-            {
-              "count": 2,
-              "value": "sciences44"
             }
           ],
-          "unique": 324
+          "unique": 342
         },
         "domain": {
           "top": [
             {
-              "count": 26,
+              "count": 30,
               "value": "github.com"
+            },
+            {
+              "count": 7,
+              "value": "arxiv.org"
             },
             {
               "count": 6,
@@ -59,10 +63,6 @@
             },
             {
               "count": 6,
-              "value": "arxiv.org"
-            },
-            {
-              "count": 5,
               "value": "spectrum.ieee.org"
             },
             {
@@ -90,10 +90,10 @@
               "value": "old.reddit.com"
             }
           ],
-          "unique": 320
+          "unique": 338
         }
       },
-      "total_records": 383
+      "total_records": 410
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 483
+  "total_records": 510
 }
