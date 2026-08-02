@@ -5,7 +5,7 @@
         "author": {
           "top": [
             {
-              "count": 13,
+              "count": 14,
               "value": "speckx"
             },
             {
@@ -13,7 +13,7 @@
               "value": "surprisetalk"
             },
             {
-              "count": 6,
+              "count": 7,
               "value": "rbanffy"
             },
             {
@@ -33,28 +33,28 @@
               "value": "gmays"
             },
             {
+              "count": 4,
+              "value": "Jimmc414"
+            },
+            {
               "count": 3,
               "value": "mooreds"
             },
             {
               "count": 3,
-              "value": "Jimmc414"
-            },
-            {
-              "count": 2,
-              "value": "ykev"
+              "value": "Cider9986"
             }
           ],
-          "unique": 342
+          "unique": 360
         },
         "domain": {
           "top": [
             {
-              "count": 30,
+              "count": 32,
               "value": "github.com"
             },
             {
-              "count": 7,
+              "count": 8,
               "value": "arxiv.org"
             },
             {
@@ -78,7 +78,7 @@
               "value": "anthropic.com"
             },
             {
-              "count": 3,
+              "count": 4,
               "value": "arstechnica.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "old.reddit.com"
             }
           ],
-          "unique": 338
+          "unique": 360
         }
       },
-      "total_records": 410
+      "total_records": 437
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 510
+  "total_records": 537
 }

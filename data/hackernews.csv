@@ -409,3 +409,30 @@ item_id,title,url,domain,author,points
 49096319,"The First Transatlantic Telegraph Cable Was a Bold, Beautiful Failure",https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure,spectrum.ieee.org,sparsesignal,16
 49114527,A past and future of trade secrets,https://www.cabinetmagazine.org/issues/70/kofen.php,cabinetmagazine.org,Hooke,13
 49094200,Britain's New World of Tobacco (2017),https://www.historytoday.com/archive/feature/britains-new-world-tobacco,historytoday.com,benbreen,10
+49136821,How Google helped destroy adoption of RSS feeds (2023),https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds,openrss.org,pudgywalsh,388
+49135257,Cursor removed cost information from the usage page and CSV export,https://forum.cursor.com/t/usage-page-to-token-amount-what/167153,forum.cursor.com,EugeneOZ,304
+49134694,A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention,https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/,michaelgeist.ca,iamnothere,267
+49130604,Flint: A Visualization Language for the AI Era,https://microsoft.github.io/flint-chart/,microsoft.github.io,vinhnx,255
+49133889,RipGrep musl binaries occasionally segfault during very-large searches,https://github.com/BurntSushi/ripgrep/issues/3494,github.com,throwaway2037,248
+49132460,RamenHaus,https://ramen.haus/,ramen.haus,oler,228
+49136736,NetBSD 11.0,https://blog.netbsd.org/tnf/entry/netbsd_11_0_released,blog.netbsd.org,jaypatelani,214
+49134599,The Art of 64-bit Assembly,https://nostarch.com/art-64-bit-assembly-v2,nostarch.com,0x54MUR41,186
+49138188,Diátaxis,https://diataxis.fr/,diataxis.fr,ryanseys,179
+49138302,Seedance 2.5,https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5,seed.bytedance.com,njaremko,153
+49139102,"AI financial advice is surprisingly good, especially if you ask right questions",https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions,mitsloan.mit.edu,foxtrot8672,142
+49137060,Postmortem for Kernel Soundness Bug #14576,https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/,leodemoura.github.io,juhopitk,109
+49087499,Linux on ESP32,https://github.com/GrieferPig/esp32-s31-linux,github.com,boveyking,98
+49120230,Just because a game is on disc doesn't mean it will work in the future,https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/,arstechnica.com,rbanffy,97
+49135426,Kenji/Serious Eats – 30-Min Pressure Cooker Pho Ga,https://www.seriouseats.com/30-minute-pressure-cooker-pho-ga-recipe,seriouseats.com,stasomatic,93
+49135245,Explorative modeling: Train on the best of K guesses,https://alexiglad.github.io/blog/2026/explorative_modeling/,alexiglad.github.io,DSemba,75
+49139304,Anime User Interfaces,https://animeuserinterface.tumblr.com,animeuserinterface.tumblr.com,akyuu,73
+49137228,CISA Alert: Water Sector PLC Targeting,https://censys.com/blog/cisa-alert-water-tower-plc-targeting/,censys.com,speckx,66
+49137713,But can your calculator run Linux?,https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html,raymii.org,jandeboevrie,58
+49135985,Kaisel – Routes as Values. Dart 3 Native Router for Flutter,https://kaisel.dev/,kaisel.dev,TheWiggles,52
+49085065,Glyphs 4 – the leading Mac font editor,https://glyphsapp.com,glyphsapp.com,microflash,51
+49081851,Nyctography: A substituton cypher by Lewis Carroll,https://en.wikipedia.org/wiki/Nyctography,en.wikipedia.org,nanna,50
+49077209,The Burau representation of the braid group is faithful for n = 4,https://arxiv.org/abs/2607.05283,arxiv.org,wglb,45
+49139562,A stray commit buried multiple levels deep cost me months,https://www.droppedasbaby.com/posts/db-commits/,droppedasbaby.com,offbyone42,29
+49139383,Unraveling the mysteries of habit formation,https://www.kyoto-u.ac.jp/en/research-news/2026-07-28,kyoto-u.ac.jp,hhs,27
+49139711,RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2,https://www.rfc-editor.org/rfc/rfc10015.html,rfc-editor.org,Jimmc414,17
+49127680,Designing Icons,https://m3.material.io/styles/icons/designing-icons,m3.material.io,Cider9986,11
