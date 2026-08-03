@@ -5,11 +5,11 @@
         "author": {
           "top": [
             {
-              "count": 14,
+              "count": 15,
               "value": "speckx"
             },
             {
-              "count": 9,
+              "count": 10,
               "value": "surprisetalk"
             },
             {
@@ -42,15 +42,15 @@
             },
             {
               "count": 3,
-              "value": "Cider9986"
+              "value": "samclemens"
             }
           ],
-          "unique": 360
+          "unique": 382
         },
         "domain": {
           "top": [
             {
-              "count": 32,
+              "count": 37,
               "value": "github.com"
             },
             {
@@ -66,7 +66,7 @@
               "value": "spectrum.ieee.org"
             },
             {
-              "count": 4,
+              "count": 5,
               "value": "twitter.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "old.reddit.com"
             }
           ],
-          "unique": 360
+          "unique": 382
         }
       },
-      "total_records": 437
+      "total_records": 465
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 537
+  "total_records": 565
 }
