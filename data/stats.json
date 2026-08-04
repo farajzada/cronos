@@ -5,7 +5,7 @@
         "author": {
           "top": [
             {
-              "count": 15,
+              "count": 16,
               "value": "speckx"
             },
             {
@@ -13,7 +13,7 @@
               "value": "surprisetalk"
             },
             {
-              "count": 7,
+              "count": 8,
               "value": "rbanffy"
             },
             {
@@ -42,24 +42,24 @@
             },
             {
               "count": 3,
-              "value": "samclemens"
+              "value": "jandeboevrie"
             }
           ],
-          "unique": 382
+          "unique": 403
         },
         "domain": {
           "top": [
             {
-              "count": 37,
+              "count": 40,
               "value": "github.com"
+            },
+            {
+              "count": 9,
+              "value": "news.ycombinator.com"
             },
             {
               "count": 8,
               "value": "arxiv.org"
-            },
-            {
-              "count": 6,
-              "value": "news.ycombinator.com"
             },
             {
               "count": 6,
@@ -83,17 +83,17 @@
             },
             {
               "count": 3,
-              "value": "science.org"
+              "value": "openai.com"
             },
             {
-              "count": 2,
-              "value": "old.reddit.com"
+              "count": 3,
+              "value": "science.org"
             }
           ],
-          "unique": 382
+          "unique": 400
         }
       },
-      "total_records": 465
+      "total_records": 493
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 565
+  "total_records": 593
 }
