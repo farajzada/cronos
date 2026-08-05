@@ -9,7 +9,7 @@
               "value": "speckx"
             },
             {
-              "count": 10,
+              "count": 11,
               "value": "surprisetalk"
             },
             {
@@ -38,40 +38,44 @@
             },
             {
               "count": 3,
-              "value": "mooreds"
+              "value": "bookofjoe"
             },
             {
               "count": 3,
-              "value": "jandeboevrie"
+              "value": "mooreds"
             }
           ],
-          "unique": 403
+          "unique": 428
         },
         "domain": {
           "top": [
             {
-              "count": 40,
+              "count": 42,
               "value": "github.com"
+            },
+            {
+              "count": 10,
+              "value": "arxiv.org"
             },
             {
               "count": 9,
               "value": "news.ycombinator.com"
             },
             {
-              "count": 8,
-              "value": "arxiv.org"
+              "count": 6,
+              "value": "twitter.com"
             },
             {
               "count": 6,
               "value": "spectrum.ieee.org"
             },
             {
-              "count": 5,
-              "value": "twitter.com"
+              "count": 4,
+              "value": "youtube.com"
             },
             {
               "count": 4,
-              "value": "youtube.com"
+              "value": "openai.com"
             },
             {
               "count": 4,
@@ -83,17 +87,13 @@
             },
             {
               "count": 3,
-              "value": "openai.com"
-            },
-            {
-              "count": 3,
-              "value": "science.org"
+              "value": "github.blog"
             }
           ],
-          "unique": 400
+          "unique": 420
         }
       },
-      "total_records": 493
+      "total_records": 521
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 593
+  "total_records": 621
 }
