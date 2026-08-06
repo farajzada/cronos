@@ -520,3 +520,32 @@ item_id,title,url,domain,author,points
 49176212,Show HN: SIMD Viterbi Decoder in Rust,https://github.com/brian-armstrong/fec,github.com,brian-armstrong,17
 49176983,Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice,https://arxiv.org/abs/2603.04221,arxiv.org,teleforce,13
 49123821,Show HN: A little physical breakout clone,https://brontosaurusrex.github.io/physical/v7/,brontosaurusrex.github.io,brontosaurusrex,9
+49184960,Discovery Loop,https://www.discoveryloop.com/,discoveryloop.com,xtreak29,577
+49182996,"Cloudflare OS: an open platform for agents, apps, and work",https://blog.cloudflare.com/cloudflare-os/,blog.cloudflare.com,speckx,465
+49184755,"Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/,blog.google,colesantiago,458
+49187256,Zed DeltaDB,https://zed.dev/deltadb,zed.dev,ahamez,292
+49181083,Position: LLMs Can't Jump,https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt,openreview.net,theanonymousone,237
+49186762,Beating GPT-5.6 Sol on retrieval with 100x cheaper open models,https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency,neon.com,moonikakiss,216
+49188022,I'm switching my phone from Android to Linux,https://runarcn.no/android-to-linux/,runarcn.no,speckx,195
+49187575,Muse Code and Muse Spark 1.2,https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2,research.meta.ai,paulkrush,164
+49185983,"Atlassian Rovo Exfiltrates Data, Bypassing Controls",https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data,promptarmor.com,hackerBanana,163
+49184216,The Valley of Webhooks,https://weli.dev/blog/the-valley-of-webhooks/,weli.dev,weli,151
+49185430,"Celld: Self-hosted, distributed Durable Objects",https://github.com/denoland/celld,github.com,calvinfo,140
+49189287,The title cards in Blade Runner are amazing,https://randsinrepose.com/archives/blade-runner-title-cards/,randsinrepose.com,ExMachina73,126
+49187061,"Born Against, or why hobby programming communities are against LLM usage",https://blog.fogus.me/llm/born-against.html,blog.fogus.me,lladnar,122
+49146183,GNU Hurd News 2026-Q2,https://www.gnu.org/software/hurd/news/2026-q2.html,gnu.org,plaguna,119
+49115096,Discovery of a multicomponent alloy forged by the Hiroshima atomic blast,https://www.science.org/doi/10.1126/sciadv.aeg8299,science.org,_____k,109
+49182946,Building an Advanced Agentic Harness,https://data4sci.com/blog/building-an-advanced-agentic-harness,data4sci.com,Anon84,107
+49183017,The Entropy of a Markov Chain,https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain,chillphysicsenjoyer.substack.com,surprisetalk,104
+49189075,Prime Agent: A self-improving RLM agent,https://www.primeintellect.ai/blog/prime-agent,primeintellect.ai,Xeophon,93
+49189234,NVIDIA’s Vera Whitepaper Has a Thread Loose,https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread,chipsandcheese.com,pella,80
+49186720,Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025),https://arxiv.org/abs/2510.01395,arxiv.org,robin_reala,69
+49126716,Goodhart's Law Comes for Every Benchmark You Trust,https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/,cacm.acm.org,pseudolus,60
+49124917,Online Friends Are Real Friends,https://toska.bearblog.dev/re-online-friends-are-real-friends/,toska.bearblog.dev,Tomte,58
+49189113,I'll be stepping back from leading product for X,https://twitter.com/nikitabier/status/2085105586966827343/,twitter.com,DearAll,52
+49187084,What happens if you put work into the second dimension?,https://norbertkozsir.com/posts/work-in-the-second-dimension/,norbertkozsir.com,abelsm,46
+49187259,Sula: A Gemini protocol server written in Scryer Prolog,https://sagredo.dev/projects/sula/,sagredo.dev,triska,43
+49185389,Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod,https://www.hyperprobe.co,hyperprobe.co,shailendraht,42
+49125532,"Exact, parallel 2D Delaunay triangulation for int32 coordinates",https://github.com/morishuz/delaunay32,github.com,oryx1729,27
+49099904,Pushing the limits of RISC-V emulation,https://shuklaayu.sh/blog/riscv-recompiler,shuklaayu.sh,shuklaayush,21
+49185111,Something is changing in the unit economics of software,https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/,nicolo.xyz,coconido,19

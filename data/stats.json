@@ -5,11 +5,11 @@
         "author": {
           "top": [
             {
-              "count": 16,
+              "count": 18,
               "value": "speckx"
             },
             {
-              "count": 11,
+              "count": 12,
               "value": "surprisetalk"
             },
             {
@@ -45,16 +45,16 @@
               "value": "mooreds"
             }
           ],
-          "unique": 428
+          "unique": 451
         },
         "domain": {
           "top": [
             {
-              "count": 42,
+              "count": 44,
               "value": "github.com"
             },
             {
-              "count": 10,
+              "count": 11,
               "value": "arxiv.org"
             },
             {
@@ -62,7 +62,7 @@
               "value": "news.ycombinator.com"
             },
             {
-              "count": 6,
+              "count": 7,
               "value": "twitter.com"
             },
             {
@@ -86,14 +86,14 @@
               "value": "arstechnica.com"
             },
             {
-              "count": 3,
-              "value": "github.blog"
+              "count": 4,
+              "value": "science.org"
             }
           ],
-          "unique": 420
+          "unique": 441
         }
       },
-      "total_records": 521
+      "total_records": 550
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 621
+  "total_records": 650
 }
