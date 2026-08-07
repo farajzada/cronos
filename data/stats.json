@@ -9,12 +9,16 @@
               "value": "speckx"
             },
             {
-              "count": 12,
+              "count": 13,
               "value": "surprisetalk"
             },
             {
               "count": 8,
               "value": "rbanffy"
+            },
+            {
+              "count": 5,
+              "value": "Jimmc414"
             },
             {
               "count": 4,
@@ -33,10 +37,6 @@
               "value": "gmays"
             },
             {
-              "count": 4,
-              "value": "Jimmc414"
-            },
-            {
               "count": 3,
               "value": "bookofjoe"
             },
@@ -45,16 +45,16 @@
               "value": "mooreds"
             }
           ],
-          "unique": 451
+          "unique": 472
         },
         "domain": {
           "top": [
             {
-              "count": 44,
+              "count": 46,
               "value": "github.com"
             },
             {
-              "count": 11,
+              "count": 12,
               "value": "arxiv.org"
             },
             {
@@ -70,12 +70,12 @@
               "value": "spectrum.ieee.org"
             },
             {
-              "count": 4,
-              "value": "youtube.com"
+              "count": 5,
+              "value": "openai.com"
             },
             {
               "count": 4,
-              "value": "openai.com"
+              "value": "youtube.com"
             },
             {
               "count": 4,
@@ -90,10 +90,10 @@
               "value": "science.org"
             }
           ],
-          "unique": 441
+          "unique": 461
         }
       },
-      "total_records": 550
+      "total_records": 579
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 650
+  "total_records": 679
 }
