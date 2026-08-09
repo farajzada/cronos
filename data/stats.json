@@ -9,12 +9,16 @@
               "value": "speckx"
             },
             {
-              "count": 14,
+              "count": 15,
               "value": "surprisetalk"
             },
             {
-              "count": 8,
+              "count": 9,
               "value": "rbanffy"
+            },
+            {
+              "count": 5,
+              "value": "bookofjoe"
             },
             {
               "count": 5,
@@ -26,6 +30,10 @@
             },
             {
               "count": 5,
+              "value": "theanonymousone"
+            },
+            {
+              "count": 5,
               "value": "Jimmc414"
             },
             {
@@ -34,23 +42,15 @@
             },
             {
               "count": 4,
-              "value": "bookofjoe"
-            },
-            {
-              "count": 4,
               "value": "gmays"
-            },
-            {
-              "count": 4,
-              "value": "theanonymousone"
             }
           ],
-          "unique": 487
+          "unique": 503
         },
         "domain": {
           "top": [
             {
-              "count": 49,
+              "count": 51,
               "value": "github.com"
             },
             {
@@ -62,7 +62,7 @@
               "value": "news.ycombinator.com"
             },
             {
-              "count": 7,
+              "count": 8,
               "value": "twitter.com"
             },
             {
@@ -75,6 +75,10 @@
             },
             {
               "count": 5,
+              "value": "science.org"
+            },
+            {
+              "count": 5,
               "value": "blog.cloudflare.com"
             },
             {
@@ -84,16 +88,12 @@
             {
               "count": 4,
               "value": "anthropic.com"
-            },
-            {
-              "count": 4,
-              "value": "arstechnica.com"
             }
           ],
-          "unique": 481
+          "unique": 502
         }
       },
-      "total_records": 605
+      "total_records": 633
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 705
+  "total_records": 733
 }
