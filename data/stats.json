@@ -13,7 +13,7 @@
               "value": "surprisetalk"
             },
             {
-              "count": 9,
+              "count": 10,
               "value": "rbanffy"
             },
             {
@@ -42,15 +42,15 @@
             },
             {
               "count": 4,
-              "value": "gmays"
+              "value": "mooreds"
             }
           ],
-          "unique": 503
+          "unique": 527
         },
         "domain": {
           "top": [
             {
-              "count": 51,
+              "count": 53,
               "value": "github.com"
             },
             {
@@ -58,7 +58,7 @@
               "value": "arxiv.org"
             },
             {
-              "count": 9,
+              "count": 10,
               "value": "news.ycombinator.com"
             },
             {
@@ -75,6 +75,10 @@
             },
             {
               "count": 5,
+              "value": "youtube.com"
+            },
+            {
+              "count": 5,
               "value": "science.org"
             },
             {
@@ -83,17 +87,13 @@
             },
             {
               "count": 4,
-              "value": "youtube.com"
-            },
-            {
-              "count": 4,
               "value": "anthropic.com"
             }
           ],
-          "unique": 502
+          "unique": 522
         }
       },
-      "total_records": 633
+      "total_records": 661
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 733
+  "total_records": 761
 }
