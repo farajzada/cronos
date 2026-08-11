@@ -17,6 +17,10 @@
               "value": "rbanffy"
             },
             {
+              "count": 6,
+              "value": "theanonymousone"
+            },
+            {
               "count": 5,
               "value": "bookofjoe"
             },
@@ -27,10 +31,6 @@
             {
               "count": 5,
               "value": "ibobev"
-            },
-            {
-              "count": 5,
-              "value": "theanonymousone"
             },
             {
               "count": 5,
@@ -45,12 +45,12 @@
               "value": "mooreds"
             }
           ],
-          "unique": 527
+          "unique": 550
         },
         "domain": {
           "top": [
             {
-              "count": 53,
+              "count": 54,
               "value": "github.com"
             },
             {
@@ -58,7 +58,7 @@
               "value": "arxiv.org"
             },
             {
-              "count": 10,
+              "count": 11,
               "value": "news.ycombinator.com"
             },
             {
@@ -66,12 +66,12 @@
               "value": "twitter.com"
             },
             {
-              "count": 6,
-              "value": "spectrum.ieee.org"
+              "count": 7,
+              "value": "openai.com"
             },
             {
               "count": 6,
-              "value": "openai.com"
+              "value": "spectrum.ieee.org"
             },
             {
               "count": 5,
@@ -86,14 +86,14 @@
               "value": "blog.cloudflare.com"
             },
             {
-              "count": 4,
-              "value": "anthropic.com"
+              "count": 5,
+              "value": "en.wikipedia.org"
             }
           ],
-          "unique": 522
+          "unique": 542
         }
       },
-      "total_records": 661
+      "total_records": 690
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 761
+  "total_records": 790
 }
