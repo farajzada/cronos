@@ -5,7 +5,7 @@
         "author": {
           "top": [
             {
-              "count": 18,
+              "count": 19,
               "value": "speckx"
             },
             {
@@ -15,6 +15,10 @@
             {
               "count": 10,
               "value": "rbanffy"
+            },
+            {
+              "count": 6,
+              "value": "ibobev"
             },
             {
               "count": 6,
@@ -30,10 +34,6 @@
             },
             {
               "count": 5,
-              "value": "ibobev"
-            },
-            {
-              "count": 5,
               "value": "Jimmc414"
             },
             {
@@ -45,16 +45,16 @@
               "value": "mooreds"
             }
           ],
-          "unique": 550
+          "unique": 573
         },
         "domain": {
           "top": [
             {
-              "count": 54,
+              "count": 57,
               "value": "github.com"
             },
             {
-              "count": 12,
+              "count": 13,
               "value": "arxiv.org"
             },
             {
@@ -90,10 +90,10 @@
               "value": "en.wikipedia.org"
             }
           ],
-          "unique": 542
+          "unique": 563
         }
       },
-      "total_records": 690
+      "total_records": 719
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 790
+  "total_records": 819
 }
