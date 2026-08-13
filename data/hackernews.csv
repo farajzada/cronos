@@ -718,3 +718,30 @@ item_id,title,url,domain,author,points
 49266277,"CFTC declares market emergency, orders Kalshi to continue to operate in New York",https://www.cftc.gov/PressRoom/PressReleases/9281-26,cftc.gov,michaefe,19
 49210199,Show HN: Tamron Lens Utility Alternative on Linux,https://github.com/yikerman/tamron-lens-control,github.com,xiaoyu2006,15
 49218463,The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics,https://momath.org/the-hat/,momath.org,vismit2000,13
+49272832,Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug,https://tailscale.com/blog/sqlite-wal-reset-bug,tailscale.com,ropbear,775
+49274600,DeepSeek V4 Pro 0813,https://openrouter.ai/deepseek/deepseek-v4-pro-0813,openrouter.ai,explosion-s,718
+49271994,AI is removing the middle class of software engineering?,https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html,blog.florianherrengt.com,florianherrengt,697
+49273478,Qwen3.8-2.4T,https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B,huggingface.co,Philpax,477
+49270953,2026 Eclipse Webcams,https://jonty.github.io/2026_eclipse_webcams/,jonty.github.io,zoenolan,457
+49274027,Grok 4.6,https://x.ai/news/grok-4-6,x.ai,iLuddite,387
+49276574,Delta,https://zed.dev/blog/introducing-delta,zed.dev,khy,366
+49275385,Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index,https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis,artificialanalysis.ai,wertyk,309
+49270726,uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook,https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html,digitalescapetools.com,Markoff,283
+49272549,Why tiny JPEGs look different in Chrome,https://guillaumetech.github.io/posts/jpg-scaling-chrome/,guillaumetech.github.io,gutechh,247
+49272655,"Tim King, AmigaDOS developer, has died",https://amiga-news.de/en/news/AN-2026-08-00070-EN.html,amiga-news.de,doener,230
+49272569,"Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",https://knownagents.com/insights,knownagents.com,gavinhking,226
+49275335,HTML over WebSockets: real-time SPAs with barely any JavaScript,https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/,en.andros.dev,redbell,140
+49271757,Shade Map,https://shademap.app,shademap.app,fredley,137
+49269090,Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials,https://discoveredmaterials.com/research/,discoveredmaterials.com,advaith08,113
+49274757,Pixel Watch 5,https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/,blog.google,ortusdux,95
+49274858,Lovable raises $400M Series C,https://lovable.dev/blog/series-c,lovable.dev,thoughtpeddler,89
+49232312,A Tale of Dynamic Programming (2022),https://iagoleal.com/posts/dynamic-programming/,iagoleal.com,Brajeshwar,67
+49277799,Breaking the WAL,https://antithesis.com/blog/2026/wal-reset-bug/,antithesis.com,wwilson,48
+49269429,Why Target Common Lisp for Code Generation?,http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html,funcall.blogspot.com,oumua_don17,22
+49280061,What's New in Flutter 3.47,https://flutter.dev/blog/whats-new-in-flutter-3-47,flutter.dev,gumby271,21
+49279928,Principia Mathematica is modern and insightful,https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html,okmij.org,matt_d,20
+49279197,Process as a Proxy for Motivation,https://bengodfrey.dev/blog/process/,bengodfrey.dev,sudo-bendg,20
+49231315,Debugging Information for Inlined Functions,https://lwn.net/Articles/1083985/,lwn.net,pykello,18
+49280103,Happy 45th Birthday to the IBM PC and Model F/XT,https://sharktastica.co.uk/articles/pc-fxt-45,sharktastica.co.uk,tart-lemonade,14
+49280184,Show HN: Ballet – Workflow automation that writes integrations against any API,https://www.ballet.dev/,ballet.dev,danielkimber,11
+49280047,"Build Wide, Ship Narrow",https://adapt.com/blog/build-wide-ship-narrow,adapt.com,ashumz,10

@@ -45,7 +45,7 @@
               "value": "mooreds"
             }
           ],
-          "unique": 573
+          "unique": 599
         },
         "domain": {
           "top": [
@@ -90,10 +90,10 @@
               "value": "en.wikipedia.org"
             }
           ],
-          "unique": 563
+          "unique": 582
         }
       },
-      "total_records": 719
+      "total_records": 746
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 819
+  "total_records": 846
 }
