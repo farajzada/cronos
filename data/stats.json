@@ -17,20 +17,20 @@
               "value": "rbanffy"
             },
             {
+              "count": 7,
+              "value": "tosh"
+            },
+            {
+              "count": 7,
+              "value": "theanonymousone"
+            },
+            {
               "count": 6,
               "value": "ibobev"
             },
             {
-              "count": 6,
-              "value": "theanonymousone"
-            },
-            {
               "count": 5,
               "value": "bookofjoe"
-            },
-            {
-              "count": 5,
-              "value": "tosh"
             },
             {
               "count": 5,
@@ -45,12 +45,12 @@
               "value": "mooreds"
             }
           ],
-          "unique": 599
+          "unique": 620
         },
         "domain": {
           "top": [
             {
-              "count": 57,
+              "count": 59,
               "value": "github.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "en.wikipedia.org"
             }
           ],
-          "unique": 582
+          "unique": 603
         }
       },
-      "total_records": 746
+      "total_records": 773
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 846
+  "total_records": 873
 }
