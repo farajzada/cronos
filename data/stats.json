@@ -9,7 +9,7 @@
               "value": "speckx"
             },
             {
-              "count": 17,
+              "count": 18,
               "value": "surprisetalk"
             },
             {
@@ -17,15 +17,19 @@
               "value": "rbanffy"
             },
             {
-              "count": 7,
+              "count": 8,
               "value": "tosh"
             },
             {
-              "count": 7,
+              "count": 8,
               "value": "theanonymousone"
             },
             {
-              "count": 6,
+              "count": 8,
+              "value": "Jimmc414"
+            },
+            {
+              "count": 7,
               "value": "ibobev"
             },
             {
@@ -34,23 +38,19 @@
             },
             {
               "count": 5,
-              "value": "Jimmc414"
+              "value": "gmays"
             },
             {
               "count": 4,
               "value": "zdw"
-            },
-            {
-              "count": 4,
-              "value": "mooreds"
             }
           ],
-          "unique": 638
+          "unique": 657
         },
         "domain": {
           "top": [
             {
-              "count": 61,
+              "count": 63,
               "value": "github.com"
             },
             {
@@ -67,11 +67,19 @@
             },
             {
               "count": 7,
+              "value": "spectrum.ieee.org"
+            },
+            {
+              "count": 7,
               "value": "openai.com"
             },
             {
               "count": 6,
-              "value": "spectrum.ieee.org"
+              "value": "science.org"
+            },
+            {
+              "count": 6,
+              "value": "en.wikipedia.org"
             },
             {
               "count": 5,
@@ -80,20 +88,12 @@
             {
               "count": 5,
               "value": "blog.google"
-            },
-            {
-              "count": 5,
-              "value": "science.org"
-            },
-            {
-              "count": 5,
-              "value": "blog.cloudflare.com"
             }
           ],
-          "unique": 622
+          "unique": 643
         }
       },
-      "total_records": 802
+      "total_records": 830
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 902
+  "total_records": 930
 }
