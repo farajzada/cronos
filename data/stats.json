@@ -17,20 +17,20 @@
               "value": "rbanffy"
             },
             {
-              "count": 8,
+              "count": 9,
               "value": "tosh"
             },
             {
-              "count": 8,
+              "count": 9,
               "value": "theanonymousone"
             },
             {
               "count": 8,
-              "value": "Jimmc414"
+              "value": "ibobev"
             },
             {
-              "count": 7,
-              "value": "ibobev"
+              "count": 8,
+              "value": "Jimmc414"
             },
             {
               "count": 5,
@@ -45,7 +45,7 @@
               "value": "zdw"
             }
           ],
-          "unique": 657
+          "unique": 671
         },
         "domain": {
           "top": [
@@ -54,11 +54,11 @@
               "value": "github.com"
             },
             {
-              "count": 14,
+              "count": 15,
               "value": "arxiv.org"
             },
             {
-              "count": 11,
+              "count": 12,
               "value": "news.ycombinator.com"
             },
             {
@@ -74,8 +74,12 @@
               "value": "openai.com"
             },
             {
-              "count": 6,
+              "count": 7,
               "value": "science.org"
+            },
+            {
+              "count": 6,
+              "value": "youtube.com"
             },
             {
               "count": 6,
@@ -83,17 +87,13 @@
             },
             {
               "count": 5,
-              "value": "youtube.com"
-            },
-            {
-              "count": 5,
               "value": "blog.google"
             }
           ],
-          "unique": 643
+          "unique": 662
         }
       },
-      "total_records": 830
+      "total_records": 857
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 930
+  "total_records": 957
 }
