@@ -5,7 +5,7 @@
         "author": {
           "top": [
             {
-              "count": 20,
+              "count": 21,
               "value": "speckx"
             },
             {
@@ -17,12 +17,12 @@
               "value": "rbanffy"
             },
             {
-              "count": 9,
-              "value": "tosh"
+              "count": 10,
+              "value": "theanonymousone"
             },
             {
               "count": 9,
-              "value": "theanonymousone"
+              "value": "tosh"
             },
             {
               "count": 8,
@@ -45,12 +45,12 @@
               "value": "gmays"
             }
           ],
-          "unique": 690
+          "unique": 710
         },
         "domain": {
           "top": [
             {
-              "count": 63,
+              "count": 65,
               "value": "github.com"
             },
             {
@@ -66,12 +66,12 @@
               "value": "twitter.com"
             },
             {
-              "count": 7,
-              "value": "spectrum.ieee.org"
+              "count": 8,
+              "value": "openai.com"
             },
             {
               "count": 7,
-              "value": "openai.com"
+              "value": "spectrum.ieee.org"
             },
             {
               "count": 7,
@@ -90,10 +90,10 @@
               "value": "blog.google"
             }
           ],
-          "unique": 678
+          "unique": 698
         }
       },
-      "total_records": 885
+      "total_records": 912
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 985
+  "total_records": 1012
 }
