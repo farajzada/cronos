@@ -45,16 +45,16 @@
               "value": "gmays"
             }
           ],
-          "unique": 710
+          "unique": 733
         },
         "domain": {
           "top": [
             {
-              "count": 65,
+              "count": 67,
               "value": "github.com"
             },
             {
-              "count": 16,
+              "count": 17,
               "value": "arxiv.org"
             },
             {
@@ -90,10 +90,10 @@
               "value": "blog.google"
             }
           ],
-          "unique": 698
+          "unique": 719
         }
       },
-      "total_records": 912
+      "total_records": 940
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1012
+  "total_records": 1040
 }
