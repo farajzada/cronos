@@ -939,3 +939,31 @@ item_id,title,url,domain,author,points
 49367836,Collaborative Human Agent Protocol (CHAP),https://github.com/BrightbeamAI/chap,github.com,arsalanshahid,16
 49368182,The Future of CSS: Target Multiple Classes with the Class Prefix Selector,https://www.bram.us/2026/08/20/the-future-of-css-target-multiple-classes-with-the-class-prefix-selector/,bram.us,cdrnsf,12
 49318377,Why travellers are obsessed with foreign supermarkets,https://www.bbc.com/travel/article/20260811-the-supermarket-is-becoming-a-tourist-attraction,bbc.com,edward,12
+49372583,AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint,https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html,blog.laserphile.com,emctech,858
+49379550,"Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/,blog.curiousquail.com,speckx,821
+49362689,HTML Can Do That,https://chrisburnell.com/html-can-do-that/,chrisburnell.com,encyclopedism,545
+49347543,I like 'em thick: an apology to my English teachers,https://www.experimental-history.com/p/i-like-em-thick,experimental-history.com,Ariarule,537
+49373456,Show HN: I trained a 125M model to autocomplete piano on-device,https://simedw.com/2026/08/20/midi-autocomplete/,simedw.com,simedw,483
+49374269,Malicious Rust crate Arrayref runs a build-time payload,https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/,safedep.io,abhisek,379
+49348079,Mojo is now open source,https://www.modular.com/blog/mojo-open-source,modular.com,visheshdembla,333
+49368886,CIA funding helped keep NeXT afloat in the 80s,https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink,wsj.com,EwanG,315
+49378957,"The August 17 outage, and the work ahead",https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/,github.blog,0xedb,283
+49348141,Git at any scale,https://cursor.com/blog/git-at-any-scale,cursor.com,meetpateltech,264
+49378768,Show HN: Huzzah – a novel approach to coding with AI,https://www.danielvaughn.dev/posts/huzzah/,danielvaughn.dev,danielvaughn,200
+49378243,Consumer Rights Wiki,https://consumerrights.wiki/w/Main_Page,consumerrights.wiki,gregsadetsky,196
+49376265,Linux 7.2,https://www.igalia.com/2026/08/19/Linux-72-Released.html,igalia.com,mariuz,188
+49377853,I should have loved biology (2020),https://jsomers.net/i-should-have-loved-biology/,jsomers.net,tyre,184
+49375996,Vomit: Clean up Claude 5's token output with a separate LLM,https://github.com/zachahn/vomit,github.com,Bluestein,173
+49374287,DiffusionGemma Technical Report,https://arxiv.org/abs/2608.00146,arxiv.org,gmays,132
+49376332,How to compromise your system with a job interview,https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview,codedge.de,codedge,115
+49375719,Anti-AI fonts are useless and harmful,https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/,blog.yaros.ae,speckx,106
+49374772,Hacking with Claude on a $27 smart watch,https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html,mikekasberg.com,speckx,80
+49378446,Why aren't smart people happier? (2022),https://www.experimental-history.com/p/why-arent-smart-people-happier,experimental-history.com,rafaelc,78
+49374635,Every Model Cheats,https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/,dreadnode.io,vga805,76
+49378933,SpacetimeDB: A Short Technical Review,https://strn.cat/posts/spacetime/,strn.cat,hurrrr,54
+49378950,Tidal Cycles – Live coding music with Algorithmic patterns,https://tidalcycles.org/,tidalcycles.org,gjvc,51
+49380491,The Citizen Developer,https://www.massdriver.cloud/blogs/the-citizen-developer,massdriver.cloud,metal13,39
+49380226,The Wonders of the Male Human Pelvis,https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947,nautil.us,littlexsparkee,34
+49295112,Speeding Up (Small) Ruby Hashes,https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html,byroot.github.io,arto,16
+49381311,Detecting scraper bots through scroll behaviour,https://niki.cat/detecting-scraper-bots-through-scroll-behaviour,niki.cat,theanonymousone,14
+49330246,Speeding Up the Plush Garbage Collector,https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/,pointersgonewild.com,maxime_cb,11
