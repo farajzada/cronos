@@ -5,11 +5,11 @@
         "author": {
           "top": [
             {
-              "count": 24,
+              "count": 25,
               "value": "speckx"
             },
             {
-              "count": 19,
+              "count": 21,
               "value": "surprisetalk"
             },
             {
@@ -25,7 +25,7 @@
               "value": "tosh"
             },
             {
-              "count": 8,
+              "count": 9,
               "value": "ibobev"
             },
             {
@@ -45,12 +45,12 @@
               "value": "mooreds"
             }
           ],
-          "unique": 748
+          "unique": 769
         },
         "domain": {
           "top": [
             {
-              "count": 68,
+              "count": 70,
               "value": "github.com"
             },
             {
@@ -75,6 +75,10 @@
             },
             {
               "count": 7,
+              "value": "youtube.com"
+            },
+            {
+              "count": 7,
               "value": "science.org"
             },
             {
@@ -82,18 +86,14 @@
               "value": "en.wikipedia.org"
             },
             {
-              "count": 6,
-              "value": "youtube.com"
-            },
-            {
               "count": 5,
               "value": "blog.google"
             }
           ],
-          "unique": 740
+          "unique": 763
         }
       },
-      "total_records": 968
+      "total_records": 998
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1068
+  "total_records": 1098
 }

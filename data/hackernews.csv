@@ -967,3 +967,33 @@ item_id,title,url,domain,author,points
 49295112,Speeding Up (Small) Ruby Hashes,https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html,byroot.github.io,arto,16
 49381311,Detecting scraper bots through scroll behaviour,https://niki.cat/detecting-scraper-bots-through-scroll-behaviour,niki.cat,theanonymousone,14
 49330246,Speeding Up the Plush Garbage Collector,https://pointersgonewild.com/2026-08-17-speeding-up-the-plush-garbage-collector/,pointersgonewild.com,maxime_cb,11
+49388154,Kagi added a setting for removing paywalled links from search results,https://kagi.com/changelog#11296,kagi.com,speckx,986
+49383026,AI companies destroy physical books – let's scan rare books before it's too late,https://annas-archive.gl/blog/physical-destruction.html,annas-archive.gl,Cider9986,515
+49386895,Felony charges for citizen deleting phone data at US Border,https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html,nytimes.com,floathub,506
+49389430,Felony Bench,https://www.felonybench.com/,felonybench.com,colinprince,484
+49386163,DeepSeek-v4-flash-vision-exp,https://api-docs.deepseek.com/guides/vision/,api-docs.deepseek.com,dares2573,450
+49387570,I accidentally logged hundreds of thousands of phone calls to military bases,https://lina.sh/blog/hijacking-e164-arpa,lina.sh,gavide,420
+49390427,Kobo can run apps now,https://bandarlabs.github.io/Cobalt/,bandarlabs.github.io,thepoet,397
+49386699,I'm becoming AI-blind,https://cymerys.com/w/im-becoming-ai-blind,cymerys.com,rcymerys,252
+49357530,"AI boosted homework scores, then exam scores dropped: study",https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning,economist.com,dash2,222
+49388752,Claudette: Make Claude stop talking like a BuzzFeed article,https://github.com/adnanakil/nobuzz/blob/main/README.md,github.com,aakil,184
+49346444,The coolest anti-surveillance tools at Defcon [video],https://www.youtube.com/watch?v=-2uAsJ5EPAw,youtube.com,neom,146
+49392200,Scientists release biggest 2D map of the universe,https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/,newscenter.lbl.gov,NKosmatos,135
+49389441,I ran Photoshop on a £0.60 computer chip,https://pointinthecloud.com/2026-08-19-144600.html,pointinthecloud.com,colinprince,114
+49389952,How we made a text-to-speech model respond in sub-50 ms,https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/,nari-labs.com,toebee,97
+49390308,What happens when a GPU reads memory,https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory,blog.doubleword.ai,ibobev,95
+49374853,A look under our trunk: what's in our compute,https://waymo.com/blog/2026/08/look-under-our-trunk/,waymo.com,ra7,88
+49327408,People of ACM – Russ Cox,https://www.acm.org/articles/people-of-acm/2026/russ-cox,acm.org,signa11,81
+49390463,"Building an (almost) fully self-hosted, sandboxed, agentic software factory",https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/,blog.jakesaunders.dev,jakelsaunders94,77
+49394373,'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them,https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e,wsj.com,bcaulfield,50
+49388095,"Kodak's ""pre-invented"" lunar orbiter camera; or, the fate of SAMOS readout",https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/,invertingvision.com,cainxinth,50
+49392465,Tumble Forth – from assembly to OS with C compiler,https://tumbleforth.hardcoded.net/,tumbleforth.hardcoded.net,vicek22,49
+49390206,Decayfmt – a file format that corrupts itself a little every time you open it,https://github.com/aravpanwar/decayfmt,github.com,unprovable,44
+49332812,Using an old Android phone as a music player,https://monocyte.blog/using-an-old-android-phone-as-a-music-player/,monocyte.blog,surprisetalk,34
+49392654,Rust Glancer,https://matklad.github.io/2026/08/21/rust-glancer.html,matklad.github.io,surprisetalk,26
+49293983,Quantifying the honey bee dance floor,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341456,journals.plos.org,Ariarule,23
+49394496,Three important steps in my maturation process,https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/,thomasdullien.github.io,tdullien,20
+49395040,Paul Atkins Misreads Adam Smith and the American Founding,https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/,sites.duke.edu,zaik,20
+49394827,"Show HN: OzBrain, a shared brain for knowledge between agents and your team",https://ozbrain.com,ozbrain.com,dariusmonsef,18
+49394028,Remotely Unlocking Electric Scooters,https://henriemategui.com/post/remotely-unlocking-electric-scooters,henriemategui.com,henriemategui,18
+49394985,"Electric shock gloves in use by police departments in Bellevue, Omaha",https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/,nebraskapublicmedia.org,rendx,15
