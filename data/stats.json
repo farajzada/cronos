@@ -5,11 +5,11 @@
         "author": {
           "top": [
             {
-              "count": 25,
+              "count": 26,
               "value": "speckx"
             },
             {
-              "count": 21,
+              "count": 22,
               "value": "surprisetalk"
             },
             {
@@ -21,7 +21,7 @@
               "value": "theanonymousone"
             },
             {
-              "count": 9,
+              "count": 10,
               "value": "tosh"
             },
             {
@@ -34,18 +34,18 @@
             },
             {
               "count": 6,
+              "value": "bookofjoe"
+            },
+            {
+              "count": 6,
               "value": "gmays"
             },
             {
               "count": 5,
-              "value": "bookofjoe"
-            },
-            {
-              "count": 5,
-              "value": "mooreds"
+              "value": "zdw"
             }
           ],
-          "unique": 769
+          "unique": 786
         },
         "domain": {
           "top": [
@@ -62,7 +62,7 @@
               "value": "news.ycombinator.com"
             },
             {
-              "count": 8,
+              "count": 9,
               "value": "twitter.com"
             },
             {
@@ -87,13 +87,13 @@
             },
             {
               "count": 5,
-              "value": "blog.google"
+              "value": "bbc.com"
             }
           ],
-          "unique": 763
+          "unique": 784
         }
       },
-      "total_records": 998
+      "total_records": 1027
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1098
+  "total_records": 1127
 }
