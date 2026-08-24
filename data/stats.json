@@ -13,16 +13,16 @@
               "value": "surprisetalk"
             },
             {
+              "count": 12,
+              "value": "tosh"
+            },
+            {
               "count": 11,
               "value": "rbanffy"
             },
             {
               "count": 11,
               "value": "theanonymousone"
-            },
-            {
-              "count": 10,
-              "value": "tosh"
             },
             {
               "count": 9,
@@ -34,18 +34,18 @@
             },
             {
               "count": 6,
+              "value": "zdw"
+            },
+            {
+              "count": 6,
               "value": "bookofjoe"
             },
             {
               "count": 6,
               "value": "gmays"
-            },
-            {
-              "count": 5,
-              "value": "zdw"
             }
           ],
-          "unique": 786
+          "unique": 795
         },
         "domain": {
           "top": [
@@ -86,14 +86,14 @@
               "value": "en.wikipedia.org"
             },
             {
-              "count": 5,
+              "count": 6,
               "value": "bbc.com"
             }
           ],
-          "unique": 784
+          "unique": 796
         }
       },
-      "total_records": 1027
+      "total_records": 1045
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1127
+  "total_records": 1145
 }
