@@ -13,15 +13,15 @@
               "value": "surprisetalk"
             },
             {
-              "count": 12,
+              "count": 14,
               "value": "tosh"
             },
             {
-              "count": 11,
+              "count": 12,
               "value": "rbanffy"
             },
             {
-              "count": 11,
+              "count": 12,
               "value": "theanonymousone"
             },
             {
@@ -33,11 +33,11 @@
               "value": "Jimmc414"
             },
             {
-              "count": 6,
+              "count": 7,
               "value": "zdw"
             },
             {
-              "count": 6,
+              "count": 7,
               "value": "bookofjoe"
             },
             {
@@ -45,12 +45,12 @@
               "value": "gmays"
             }
           ],
-          "unique": 795
+          "unique": 814
         },
         "domain": {
           "top": [
             {
-              "count": 70,
+              "count": 72,
               "value": "github.com"
             },
             {
@@ -62,12 +62,16 @@
               "value": "news.ycombinator.com"
             },
             {
-              "count": 9,
+              "count": 10,
               "value": "twitter.com"
             },
             {
               "count": 8,
               "value": "openai.com"
+            },
+            {
+              "count": 7,
+              "value": "bbc.com"
             },
             {
               "count": 7,
@@ -84,16 +88,12 @@
             {
               "count": 7,
               "value": "en.wikipedia.org"
-            },
-            {
-              "count": 6,
-              "value": "bbc.com"
             }
           ],
-          "unique": 796
+          "unique": 815
         }
       },
-      "total_records": 1045
+      "total_records": 1075
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1145
+  "total_records": 1175
 }
