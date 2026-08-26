@@ -5,11 +5,11 @@
         "author": {
           "top": [
             {
-              "count": 26,
+              "count": 28,
               "value": "speckx"
             },
             {
-              "count": 22,
+              "count": 23,
               "value": "surprisetalk"
             },
             {
@@ -17,7 +17,7 @@
               "value": "tosh"
             },
             {
-              "count": 12,
+              "count": 14,
               "value": "rbanffy"
             },
             {
@@ -25,16 +25,16 @@
               "value": "theanonymousone"
             },
             {
-              "count": 9,
+              "count": 10,
               "value": "ibobev"
+            },
+            {
+              "count": 9,
+              "value": "zdw"
             },
             {
               "count": 8,
               "value": "Jimmc414"
-            },
-            {
-              "count": 7,
-              "value": "zdw"
             },
             {
               "count": 7,
@@ -45,20 +45,20 @@
               "value": "gmays"
             }
           ],
-          "unique": 814
+          "unique": 835
         },
         "domain": {
           "top": [
             {
-              "count": 72,
+              "count": 77,
               "value": "github.com"
             },
             {
-              "count": 18,
+              "count": 19,
               "value": "arxiv.org"
             },
             {
-              "count": 13,
+              "count": 14,
               "value": "news.ycombinator.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "en.wikipedia.org"
             }
           ],
-          "unique": 815
+          "unique": 832
         }
       },
-      "total_records": 1075
+      "total_records": 1105
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1175
+  "total_records": 1205
 }

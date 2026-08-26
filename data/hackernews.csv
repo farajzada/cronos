@@ -1074,3 +1074,33 @@ item_id,title,url,domain,author,points
 49423077,Agent Lightning v1.0,https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1,github.com,qainsights,34
 49427001,Bookshelf – Self-hosted eBook library that runs on object storage,https://github.com/murerkinn/bookshelf,github.com,arbayi,14
 49423495,Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff,https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4,app.dover.com,adawg4,0
+49438052,Dolly Parton has died,https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead,theguardian.com,helsinkiandrew,1146
+49433292,Apple introduces M6 and M5 Ultra,https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/,apple.com,interpol_p,925
+49433316,New Mac Studio with M5 Max and M5 Ultra,https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/,apple.com,interpol_p,694
+49437283,Nitter project received cease and desist,https://github.com/zedeus/nitter/issues/1442,github.com,Banditoz,582
+49437069,My Friend Aaron,https://rorz.io/writing/my-friend-aaron,rorz.io,sarreph,423
+49433450,"New Mac mini, featuring M6 and M5 Pro",https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/,apple.com,runako,414
+49432319,Don't Wordle,https://dontwordle.com/,dontwordle.com,Hbruz0,294
+49434378,OpenAI Jalapeño: Better than Nvidia Blackwell,https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia,newsletter.semianalysis.com,bmulholland,293
+49437946,Firefox 157 will include JPEG XL by default on all platforms,https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1,groups.google.com,yboris,261
+49434820,Bomb fishing is wreaking havoc on Indonesia's coral reefs,https://e360.yale.edu/digest/bomb-fishing-coral-reefs,e360.yale.edu,speckx,253
+49434645,"Building a backyard office, the build and cost breakdown",https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown,imkylelambert.com,surprisetalk,249
+49439017,FDA authorizes first wearable device that monitors ketone and blood sugar levels,https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar,fda.gov,sunnynagra,226
+49436822,"Starbase, LA",https://www.spacex.com/sites/starbase-la,spacex.com,bilsbie,209
+49440786,"XCancel also down, at least for time being",https://news.ycombinator.com/item?id=49440786,news.ycombinator.com,orange999,191
+49437210,Black hole singularity is a surface not a point,https://arxiv.org/abs/2608.21590,arxiv.org,raattgift,176
+49441033,Python's pre-declared constants are kinda weird,https://sebsite.pw/w/20260801-pythonconstants.html,sebsite.pw,rbanffy,119
+49437483,Run OpenBSD on DigitalOcean for $4/month,https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/,nil.wallyjones.com,speckx,110
+49436786,"Tooltips need a delay, and then they need to skip it",https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/,blog.master.dev,ibobev,107
+49437049,Show HN: LatticeDB – Like SQLite but for graph databases,https://github.com/jeffhajewski/latticedb,github.com,smiths1999,100
+49435675,Show HN: I made a Raspberry with Qwen my local car AI,https://github.com/ThinkOffApp/CarWatch,github.com,petruspennanen,87
+49423878,Visualizing Binary Files,https://movq.de/blog/postings/2026-08-05/0/POSTING-en.html,movq.de,zdw,78
+49423045,Tracking Costco gas prices,https://www.jack.bio/blog/costco-gas-tracking,jack.bio,lafond,71
+49439499,C2PA Cameras Do Not Survive Contact with Reality,https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html,da.vidbuchanan.co.uk,Retr0id,68
+49436706,Fuzzing the Gleam Compiler,https://www.kurz.net/posts/fuzzing-gleam-compiler,kurz.net,crowdhailer,55
+49440410,When str.lower() is a security vulnerability in Python – Seth Larson,https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability,sethmlarson.dev,rbanffy,45
+49441375,"Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",https://github.com/swimmingbrain/texbrain,github.com,swimmingbrain,34
+49439296,A brief history of federal lift ticket regulation,https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket,zakpodmore.substack.com,CGMthrowaway,20
+49441666,"Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",https://github.com/runetes/maiao,github.com,zdw,16
+49430259,Show HN: I built self-hosted deployment automation tool for Windows and IIS,https://fdeploy.com/,fdeploy.com,dt3ft,13
+49437566,Clara (YC P26) is hiring a growth engineer to bring AI doctors to market,https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer,ycombinator.com,gfavvas,0
