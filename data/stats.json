@@ -9,11 +9,11 @@
               "value": "speckx"
             },
             {
-              "count": 23,
+              "count": 24,
               "value": "surprisetalk"
             },
             {
-              "count": 14,
+              "count": 15,
               "value": "tosh"
             },
             {
@@ -26,11 +26,11 @@
             },
             {
               "count": 10,
-              "value": "ibobev"
+              "value": "zdw"
             },
             {
-              "count": 9,
-              "value": "zdw"
+              "count": 10,
+              "value": "ibobev"
             },
             {
               "count": 8,
@@ -41,16 +41,16 @@
               "value": "bookofjoe"
             },
             {
-              "count": 6,
-              "value": "gmays"
+              "count": 7,
+              "value": "matt_d"
             }
           ],
-          "unique": 859
+          "unique": 878
         },
         "domain": {
           "top": [
             {
-              "count": 79,
+              "count": 83,
               "value": "github.com"
             },
             {
@@ -83,17 +83,17 @@
             },
             {
               "count": 7,
-              "value": "science.org"
+              "value": "blog.google"
             },
             {
               "count": 7,
-              "value": "en.wikipedia.org"
+              "value": "science.org"
             }
           ],
-          "unique": 852
+          "unique": 867
         }
       },
-      "total_records": 1135
+      "total_records": 1163
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1235
+  "total_records": 1263
 }
