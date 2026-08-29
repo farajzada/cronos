@@ -1162,3 +1162,33 @@ item_id,title,url,domain,author,points
 49474786,Sovereign Tech Agency invests €500k in Flatpak,https://modal.cx/blog/announcing-flatpak-sta/,modal.cx,eigenspace,23
 49473767,Show HN: IndexFlow – Open-source indexing infrastructure built with Rust,https://github.com/IndexFlowing/IndexFlow-core,github.com,mandarinclips,15
 49474060,GoGoGrandparent (YC S16) is hiring back end engineers,https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer,ycombinator.com,davidchl,0
+49479837,GUIs should be fully keyboard-driven,https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html,ckardaris.com,ckardaris,680
+49479878,GLM-5.3 is now open-weight,https://huggingface.co/zai-org/GLM-5.3,huggingface.co,jeudesprits,624
+49478178,Htmx 4.0,https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released,four.htmx.org,rmsaksida,571
+49477854,U.S. sanctions against the A/I Collective,https://www.inventati.org/,inventati.org,exiguus,521
+49477564,Inception-style curved map for turn-by-turn directions,https://www.orbify.eu/demo/,orbify.eu,smoser,449
+49480466,Just the rumour of a bug is enough to find an exploit these days,https://anil.recoil.org/notes/rumour-is-the-exploit,anil.recoil.org,avsm,280
+49472216,The Twelve-Factor App (2025),https://12factor.net/,12factor.net,jxmorris12,244
+49486172,Our decision on Cursor following its acquisition by SpaceX,https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/,openai.com,meetpateltech,216
+49477212,Migrating to HTTPX2,https://github.com/openai/openai-python/blob/main/httpx2.md,github.com,tosh,190
+49485267,Boot a Virtual iPhone via Apple's Virtualization.framework,https://github.com/Lakr233/vphone-cli,github.com,hentrep,162
+49479072,Verschlimmbesserung: The Word Your Software Updates Need,https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/,geekyschmidt.com,speckx,114
+49479924,EasyEffects can improve laptop speaker sound quality,https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/,osnews.com,birdculture,113
+49422743,Curvature Beziers: Improving on a timeless recipe,https://acko.net/blog/curvature-beziers/,acko.net,leephillips,92
+49485452,9th Circuit sides with states in Kalshi gambling fight,https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/,azmirror.com,hungryhobbit,90
+49481455,Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment,https://arxiv.org/abs/2608.23691,arxiv.org,stephenchung,88
+49454182,Processing in Memory: DRAM Is About to Do Math,https://ben3d.ca/blog/processing-in-memory,ben3d.ca,bhouston,81
+49485532,Does the Sumerian King List Align with Paleoclimate Events?,https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/,vectorian.be,dev_l1x_be,72
+49443783,Visual Analysis of Binary Files,https://binvis.io/#/,binvis.io,vismit2000,69
+49485416,I accidentally turned LLM memory into program analysis,https://pwning.systems/posts/llm-memory-program-analysis/,pwning.systems,matt_d,68
+49486081,"StemDeck, a free, open-source and local AI stem separator",https://github.com/stemdeckapp/stemdeck,github.com,thclpr,44
+49484925,Identifying fake cosmetics using AI,https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html,groverlab.org,wgrover,42
+49485504,PPWR lands another blow to an precarious tabletop industry,https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/,rascal.news,healsdata,38
+49483080,Aspirational Clownmaxxing and Joey's cadillac todo list,https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/,charlesleifer.com,farlight,35
+49486334,TurboKV: Insanely fast Rust key-value store,https://github.com/kingroryg/turbokv,github.com,rgbimbochamp,31
+49417298,Monzo Stand-In,https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in,monzo.com,coffeefuel,31
+49486176,Kumander Linux – A Linux Distro with a Windows 7 Desktop,https://www.kumander.org/,kumander.org,linuxkernal,23
+49419409,Experiments with Plotter Art,https://sometimes.digital/posts/experiments-with-plotter-art/,sometimes.digital,surprisetalk,23
+49418813,Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo,https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/,arstechnica.com,rbanffy,11
+49437936,"Flyway for freeloaders, rollback implemented in Python",https://aconcan.io/blog/flyway-for-freeloaders/,aconcan.io,aconcan,3
+49481423,Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research,https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering,ycombinator.com,kbanothu,0
