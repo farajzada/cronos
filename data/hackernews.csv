@@ -1192,3 +1192,31 @@ item_id,title,url,domain,author,points
 49418813,Review: Chuwi's $449 Unibook laptop is a funhouse-mirror MacBook Neo,https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/,arstechnica.com,rbanffy,11
 49437936,"Flyway for freeloaders, rollback implemented in Python",https://aconcan.io/blog/flyway-for-freeloaders/,aconcan.io,aconcan,3
 49481423,Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research,https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering,ycombinator.com,kbanothu,0
+49415386,"Tether: iMessage, SMS, etc. on Linux",https://zackbartel.com/blog/2026/08/tether/,zackbartel.com,zackb,363
+49492219,"DHS is using obscure law to snoop on journalists, non-profits, unions",https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits,theguardian.com,firefax,309
+49433328,EVE Online moves to Python 3,https://www.eveonline.com/news/view/the-move-to-python-3-begins,eveonline.com,TylerJaacks,304
+49424320,Glacier Mice,https://en.wikipedia.org/wiki/Glacier_mice,en.wikipedia.org,ostacke,262
+49491568,"Good Culture Is the Biggest Productivity Hack, Not AI",https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity,newsletter.eng-leadership.com,gpi,251
+49487341,Samsung's Processing-in-Memory (PIM),https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing,chipsandcheese.com,ingve,246
+49492632,Hy4 preview,https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/,tencent.com,shenli3514,197
+49426995,SQLite as a Document Database (2020),https://dgl.cx/2020/06/sqlite-json-support,dgl.cx,lioeters,172
+49490870,Nancy Grace Roman Space Telescope,https://science.nasa.gov/mission/roman-space-telescope/,science.nasa.gov,JumpCrisscross,130
+49491714,Calibrate Before You Accelerate: Bias Toward Action in a New Role,https://tucker.wales/writing/bias-towards-action/,tucker.wales,tuckerwales,108
+49494151,I co-founded Burning Man. The festival has lost its soul,https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/,sfstandard.com,lisper,102
+49494231,Highest-ever ocean temperature measured as powerful El Niño forms,https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms,latimes.com,measurablefunc,100
+49447178,Show HN: Typebase – A single-folder back end you write in TypeScript,https://typebase.io,typebase.io,andrewww-dev,98
+49494182,Lawmakers added $1 to car insurance policies. That money paid for Flock cameras,https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/,texastribune.org,DeepLogin,97
+49494036,Defrag98: Windows 98 Disk Defragmenter Simulator Online,https://defrag98.com,defrag98.com,throw0101a,89
+49490832,Quantifying Colour,https://ekunazanu.foo/lab/quantifying-colour/,ekunazanu.foo,vismit2000,72
+49479546,Creating the Aetheryte Radio,https://haz.ee/posts/aetheryte-radio.html,haz.ee,wonger_,68
+49490138,Indirect Calling of Nested Functions on GCC Without Executable Stack,https://uecker.codeberg.page/2026-08-29.html,uecker.codeberg.page,uecker,67
+49492584,Domain-Driven Agents,https://coldtake.dev/blog/domain-driven-agents,coldtake.dev,AlarQ,55
+49428756,Sleepwalker: Passive Backdoor with Its Own Command Language,https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/,r136a1.dev,defrost,54
+49492368,Functional State Machines in Rust: Typestate and Newtype Patterns,https://dl.acm.org/doi/10.1145/3830438.3830958,dl.acm.org,matt_d,50
+49494520,Bug Blindness,https://danluu.com/bug-blind/,danluu.com,davidmckenna,46
+49491175,Trees for a Changing Climate and Resilient Urban Forest (2022),https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest,coolboulder.org,mooreds,32
+49448583,Recovering Corrupt Zip Files,https://www.construct.net/en/blogs/ashleys-blog-2/recovering-corrupt-zip-files-1895,construct.net,AshleysBrain,31
+49425252,RISC-V is now officially supported by CPython,https://blog.python.org/2026/08/riscv-now-officially-supported/,blog.python.org,lumpa,17
+49494856,FreeCORE TrueNAS Core – Continued,https://freecore.org/,freecore.org,sashk,16
+49450248,Is it safe to call print in a Python signal handler?,https://iafisher.com/2026/08/sigprint,iafisher.com,hellerve,15
+49465250,The Wandering Yamamura Theater Troupe,https://cinemasojourns.com/2026/08/27/the-wandering-yamamura-theater-troupe/,cinemasojourns.com,jjgreen,8
