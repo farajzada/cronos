@@ -5,7 +5,7 @@
         "author": {
           "top": [
             {
-              "count": 32,
+              "count": 33,
               "value": "speckx"
             },
             {
@@ -21,7 +21,7 @@
               "value": "rbanffy"
             },
             {
-              "count": 13,
+              "count": 14,
               "value": "zdw"
             },
             {
@@ -41,16 +41,16 @@
               "value": "Jimmc414"
             },
             {
-              "count": 7,
-              "value": "bookofjoe"
+              "count": 8,
+              "value": "Bluestein"
             }
           ],
-          "unique": 953
+          "unique": 971
         },
         "domain": {
           "top": [
             {
-              "count": 89,
+              "count": 91,
               "value": "github.com"
             },
             {
@@ -58,7 +58,7 @@
               "value": "arxiv.org"
             },
             {
-              "count": 15,
+              "count": 18,
               "value": "news.ycombinator.com"
             },
             {
@@ -66,16 +66,16 @@
               "value": "twitter.com"
             },
             {
-              "count": 10,
+              "count": 11,
               "value": "openai.com"
+            },
+            {
+              "count": 10,
+              "value": "en.wikipedia.org"
             },
             {
               "count": 9,
               "value": "youtube.com"
-            },
-            {
-              "count": 9,
-              "value": "en.wikipedia.org"
             },
             {
               "count": 7,
@@ -90,10 +90,10 @@
               "value": "blog.google"
             }
           ],
-          "unique": 959
+          "unique": 975
         }
       },
-      "total_records": 1281
+      "total_records": 1311
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1381
+  "total_records": 1411
 }
