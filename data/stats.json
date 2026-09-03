@@ -21,7 +21,7 @@
               "value": "rbanffy"
             },
             {
-              "count": 14,
+              "count": 15,
               "value": "zdw"
             },
             {
@@ -45,12 +45,12 @@
               "value": "Bluestein"
             }
           ],
-          "unique": 971
+          "unique": 995
         },
         "domain": {
           "top": [
             {
-              "count": 91,
+              "count": 93,
               "value": "github.com"
             },
             {
@@ -70,7 +70,7 @@
               "value": "openai.com"
             },
             {
-              "count": 10,
+              "count": 11,
               "value": "en.wikipedia.org"
             },
             {
@@ -78,22 +78,22 @@
               "value": "youtube.com"
             },
             {
-              "count": 7,
+              "count": 8,
               "value": "bbc.com"
             },
             {
-              "count": 7,
-              "value": "spectrum.ieee.org"
+              "count": 8,
+              "value": "blog.google"
             },
             {
-              "count": 7,
-              "value": "blog.google"
+              "count": 8,
+              "value": "science.org"
             }
           ],
-          "unique": 975
+          "unique": 994
         }
       },
-      "total_records": 1311
+      "total_records": 1341
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1411
+  "total_records": 1441
 }
