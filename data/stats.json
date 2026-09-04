@@ -5,15 +5,15 @@
         "author": {
           "top": [
             {
-              "count": 33,
+              "count": 34,
               "value": "speckx"
             },
             {
-              "count": 26,
+              "count": 27,
               "value": "surprisetalk"
             },
             {
-              "count": 17,
+              "count": 18,
               "value": "tosh"
             },
             {
@@ -45,12 +45,12 @@
               "value": "Bluestein"
             }
           ],
-          "unique": 995
+          "unique": 1017
         },
         "domain": {
           "top": [
             {
-              "count": 93,
+              "count": 94,
               "value": "github.com"
             },
             {
@@ -58,15 +58,15 @@
               "value": "arxiv.org"
             },
             {
-              "count": 18,
+              "count": 21,
               "value": "news.ycombinator.com"
             },
             {
-              "count": 11,
+              "count": 12,
               "value": "twitter.com"
             },
             {
-              "count": 11,
+              "count": 12,
               "value": "openai.com"
             },
             {
@@ -74,7 +74,7 @@
               "value": "en.wikipedia.org"
             },
             {
-              "count": 9,
+              "count": 10,
               "value": "youtube.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "science.org"
             }
           ],
-          "unique": 994
+          "unique": 1011
         }
       },
-      "total_records": 1341
+      "total_records": 1370
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1441
+  "total_records": 1470
 }
