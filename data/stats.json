@@ -45,12 +45,12 @@
               "value": "Bluestein"
             }
           ],
-          "unique": 1017
+          "unique": 1041
         },
         "domain": {
           "top": [
             {
-              "count": 94,
+              "count": 96,
               "value": "github.com"
             },
             {
@@ -62,7 +62,7 @@
               "value": "news.ycombinator.com"
             },
             {
-              "count": 12,
+              "count": 13,
               "value": "twitter.com"
             },
             {
@@ -87,13 +87,13 @@
             },
             {
               "count": 8,
-              "value": "science.org"
+              "value": "anthropic.com"
             }
           ],
-          "unique": 1011
+          "unique": 1034
         }
       },
-      "total_records": 1370
+      "total_records": 1400
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1470
+  "total_records": 1500
 }
