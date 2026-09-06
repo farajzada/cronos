@@ -38,23 +38,23 @@
             },
             {
               "count": 8,
-              "value": "Jimmc414"
+              "value": "bookofjoe"
             },
             {
               "count": 8,
-              "value": "Bluestein"
+              "value": "gmays"
             }
           ],
-          "unique": 1041
+          "unique": 1059
         },
         "domain": {
           "top": [
             {
-              "count": 96,
+              "count": 98,
               "value": "github.com"
             },
             {
-              "count": 22,
+              "count": 23,
               "value": "arxiv.org"
             },
             {
@@ -71,11 +71,11 @@
             },
             {
               "count": 11,
-              "value": "en.wikipedia.org"
+              "value": "youtube.com"
             },
             {
-              "count": 10,
-              "value": "youtube.com"
+              "count": 11,
+              "value": "en.wikipedia.org"
             },
             {
               "count": 8,
@@ -90,10 +90,10 @@
               "value": "anthropic.com"
             }
           ],
-          "unique": 1034
+          "unique": 1051
         }
       },
-      "total_records": 1400
+      "total_records": 1426
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1500
+  "total_records": 1526
 }
