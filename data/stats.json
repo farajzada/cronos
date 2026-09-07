@@ -13,7 +13,7 @@
               "value": "surprisetalk"
             },
             {
-              "count": 18,
+              "count": 19,
               "value": "tosh"
             },
             {
@@ -33,28 +33,28 @@
               "value": "ibobev"
             },
             {
+              "count": 10,
+              "value": "Bluestein"
+            },
+            {
+              "count": 9,
+              "value": "gmays"
+            },
+            {
               "count": 9,
               "value": "matt_d"
-            },
-            {
-              "count": 8,
-              "value": "bookofjoe"
-            },
-            {
-              "count": 8,
-              "value": "gmays"
             }
           ],
-          "unique": 1059
+          "unique": 1078
         },
         "domain": {
           "top": [
             {
-              "count": 98,
+              "count": 100,
               "value": "github.com"
             },
             {
-              "count": 23,
+              "count": 24,
               "value": "arxiv.org"
             },
             {
@@ -62,20 +62,20 @@
               "value": "news.ycombinator.com"
             },
             {
-              "count": 13,
+              "count": 14,
               "value": "twitter.com"
             },
             {
-              "count": 12,
+              "count": 14,
               "value": "openai.com"
+            },
+            {
+              "count": 12,
+              "value": "en.wikipedia.org"
             },
             {
               "count": 11,
               "value": "youtube.com"
-            },
-            {
-              "count": 11,
-              "value": "en.wikipedia.org"
             },
             {
               "count": 8,
@@ -90,10 +90,10 @@
               "value": "anthropic.com"
             }
           ],
-          "unique": 1051
+          "unique": 1068
         }
       },
-      "total_records": 1426
+      "total_records": 1456
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1526
+  "total_records": 1556
 }
