@@ -13,16 +13,16 @@
               "value": "surprisetalk"
             },
             {
-              "count": 19,
+              "count": 20,
               "value": "tosh"
             },
             {
               "count": 16,
-              "value": "rbanffy"
+              "value": "zdw"
             },
             {
-              "count": 15,
-              "value": "zdw"
+              "count": 16,
+              "value": "rbanffy"
             },
             {
               "count": 12,
@@ -45,16 +45,16 @@
               "value": "matt_d"
             }
           ],
-          "unique": 1078
+          "unique": 1098
         },
         "domain": {
           "top": [
             {
-              "count": 100,
+              "count": 102,
               "value": "github.com"
             },
             {
-              "count": 24,
+              "count": 25,
               "value": "arxiv.org"
             },
             {
@@ -71,11 +71,11 @@
             },
             {
               "count": 12,
-              "value": "en.wikipedia.org"
+              "value": "youtube.com"
             },
             {
-              "count": 11,
-              "value": "youtube.com"
+              "count": 12,
+              "value": "en.wikipedia.org"
             },
             {
               "count": 8,
@@ -90,10 +90,10 @@
               "value": "anthropic.com"
             }
           ],
-          "unique": 1068
+          "unique": 1088
         }
       },
-      "total_records": 1456
+      "total_records": 1486
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1556
+  "total_records": 1586
 }
