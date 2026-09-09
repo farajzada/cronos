@@ -1485,3 +1485,33 @@ item_id,title,url,domain,author,points
 49604537,"Disconnect your LG television from the internet, now",https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now,appleinsider.com,harambae,11
 49560682,John Margolies' Photographs of Roadside America,https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/,publicdomainreview.org,duck,9
 49564064,Colorlight 5A-75B: A dive into a popular low-cost ECP5 (FPGA) development board,https://blog.yosyshq.com/p/colorlight-part-1/,blog.yosyshq.com,gregsadetsky,4
+49605915,Navier-Stokes – Tristan Buckmaster [pdf],https://cims.nyu.edu/~tristanb/statement.pdf,cims.nyu.edu,procedurecall,1253
+49613262,On the Navier–Stokes Millennium Prize Problem,https://openai.com/index/navier-stokes-solution/,openai.com,tedsanders,1121
+49611251,AlphaGenome Atlas: a high-resolution map of human DNA,https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/,blog.google,utiiiD,493
+49579443,We built our house for LAN parties (2024),https://lanparty.house/,lanparty.house,fittingopposite,413
+49610181,DaVinci Resolve 21.1,https://www.blackmagicdesign.com/media/release/20260908-03,blackmagicdesign.com,tosh,351
+49610631,I-have-ADHD: A skill to stop coding agents from burying the answer,https://github.com/ayghri/i-have-adhd,github.com,domhudson,322
+49615537,Muse – Meta’s personal AI agent,https://ai.meta.com/muse/,ai.meta.com,yks,303
+49611051,The two Christian saints who are the Buddha,https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/,signoregalilei.com,surprisetalk,220
+49611128,"Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/,quesma.com,stared,213
+49616257,"Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",https://github.com/argonautlabsai/deltafin,github.com,Argonautlabs,210
+49610059,Show HN: Copperhead – Cursor for circuit boards,https://copperhead.sh/,copperhead.sh,animeshchouhan,208
+49600901,The Helicopter with Radioactive Blades,https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/,hackaday.com,zdw,148
+49616968,Tao: Open math problems being non-renewably mined by AI,https://mathstodon.xyz/@tao/117237320796901560,mathstodon.xyz,_alternator_,146
+49591563,The 92-Year-Old Mathematician and the Teenage Apprentice,https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html,nytimes.com,robinhouston,141
+49617255,How to build a printer,https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/,nishantjosh.dev,cat-whisperer,136
+49613068,Show HN: LLM Attention Visualization,https://ishamf.dev/p/llm-attention-visualizer/,ishamf.dev,ifz,128
+49616354,Mercury 2.5,https://www.inceptionlabs.ai/blog/introducing-mercury-2-5,inceptionlabs.ai,Topfi,123
+49617581,Large language models develop novel social biases through adaptive exploration,https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH,openreview.net,paimapi,91
+49575914,Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster,https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/,pointersgonewild.com,metrofun,84
+49610641,AlphaGenome Atlas predictive map of every DNA letter change in the human genome,https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/,deepmind.google,fady0,80
+49612818,Connecting the machines,https://herdr.dev/blog/connecting-the-machines/,herdr.dev,collinmanderson,77
+49612191,C*: Unifying Programming and Verification in C (2025),https://arxiv.org/abs/2504.02246,arxiv.org,rramadass,71
+49575766,Implementation of GCC's Nested Functions (vs. C++ Lambdas),https://uecker.codeberg.page/2026-09-05.html,uecker.codeberg.page,uecker,57
+49618050,"A Topological Picture Book, Rendered",https://e-infinity.space/picture-book/,e-infinity.space,mathgenius,52
+49616272,Animation in Bevy: The Big Picture,https://glocq.com/en/blog/20260827/,glocq.com,ibobev,45
+49562430,"Tracing np.add, all the way down",https://blog.veitheller.de/numpy.html,blog.veitheller.de,luu,38
+49599825,Reverse Engineering an ASIC,https://kjartanvandriel.github.io/asic/,kjartanvandriel.github.io,burekqueen,32
+49591112,The Microeconomics of Artificial Intelligence (2025),https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence,direct.mit.edu,neehao,30
+49598921,Getting phpBB 1.4.4 working in Docker,https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html,thran.uk,HeckFeck,24
+49598009,"Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?",https://news.ycombinator.com/item?id=49598009,news.ycombinator.com,rietta,9
