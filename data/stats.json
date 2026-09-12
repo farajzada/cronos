@@ -9,7 +9,7 @@
               "value": "speckx"
             },
             {
-              "count": 29,
+              "count": 30,
               "value": "surprisetalk"
             },
             {
@@ -38,19 +38,19 @@
             },
             {
               "count": 10,
-              "value": "Bluestein"
+              "value": "matt_d"
             },
             {
-              "count": 9,
-              "value": "gmays"
+              "count": 10,
+              "value": "Bluestein"
             }
           ],
-          "unique": 1150
+          "unique": 1171
         },
         "domain": {
           "top": [
             {
-              "count": 104,
+              "count": 109,
               "value": "github.com"
             },
             {
@@ -70,7 +70,7 @@
               "value": "twitter.com"
             },
             {
-              "count": 13,
+              "count": 14,
               "value": "youtube.com"
             },
             {
@@ -87,13 +87,13 @@
             },
             {
               "count": 9,
-              "value": "blog.google"
+              "value": "spectrum.ieee.org"
             }
           ],
-          "unique": 1140
+          "unique": 1158
         }
       },
-      "total_records": 1575
+      "total_records": 1605
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1675
+  "total_records": 1705
 }
