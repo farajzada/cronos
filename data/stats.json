@@ -17,7 +17,7 @@
               "value": "tosh"
             },
             {
-              "count": 20,
+              "count": 21,
               "value": "zdw"
             },
             {
@@ -29,7 +29,7 @@
               "value": "ibobev"
             },
             {
-              "count": 13,
+              "count": 14,
               "value": "theanonymousone"
             },
             {
@@ -45,12 +45,12 @@
               "value": "matt_d"
             }
           ],
-          "unique": 1202
+          "unique": 1220
         },
         "domain": {
           "top": [
             {
-              "count": 112,
+              "count": 113,
               "value": "github.com"
             },
             {
@@ -86,14 +86,14 @@
               "value": "anthropic.com"
             },
             {
-              "count": 9,
-              "value": "spectrum.ieee.org"
+              "count": 10,
+              "value": "apple.com"
             }
           ],
-          "unique": 1194
+          "unique": 1216
         }
       },
-      "total_records": 1664
+      "total_records": 1693
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1764
+  "total_records": 1793
 }

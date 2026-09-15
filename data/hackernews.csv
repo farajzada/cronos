@@ -1663,3 +1663,32 @@ item_id,title,url,domain,author,points
 49690260,Open-Source AI and Open Models Reading List,https://www.interconnects.ai/p/open-source-ai-reading-list,interconnects.ai,simonpure,21
 49645547,I build a mechanical watch face: a real gear train for a watch with no gears,https://myday24.com/blog/how-a-mechanical-watch-face-is-built/,myday24.com,tomasslavicek,15
 49667916,"Necker, 1832: ""An optical phænomenon on viewing a figure of a geometrical solid""",https://zenodo.org/records/1430991,zenodo.org,akkartik,5
+49700661,Steam Frame starts at $1059,https://store.steampowered.com/hardware/steamframe,store.steampowered.com,bsimpson,510
+49694296,XCancel service is suspended until further notice,https://xcancel.com/#,xcancel.com,gaganyaan,466
+49701004,"iOS 27, iPadOS 27, and macOS 27",https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/,apple.com,throw0101d,383
+49695876,OpenAI bots knew about the RubyGems caching vulnerability,https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/,tenderlovemaking.com,gregnavis,379
+49700477,"Pion, an agent designed to run any company autonomously",https://andonlabs.com/blog/why-we-built-pion,andonlabs.com,lukaspetersson,293
+49697893,"Dario, Please",https://pop.rdi.sh/dario-please/,pop.rdi.sh,0x5FC3,285
+49699158,Distributed Systems Classics (2017),https://nvartolomei.com/dist-sys-classics/,nvartolomei.com,grep_it,235
+49699297,"Microsoft patches Windows and Excel – breaks audio, remote access, and paste",https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085,theregister.com,Alephinitesimal,206
+49704008,Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit,https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html,law.justia.com,neom,176
+49698699,A Beginning for Mathematics,https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/,daniellitt.com,robinhouston,174
+49698607,Principles for Fast Tokio Applications,https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/,dial9-rs.github.io,carllerche,165
+49699489,How my e-reader lost its stripes,https://www.serpentine.com/posts/2026/x3-stripes/,serpentine.com,simonmic,153
+49699159,Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme,https://www.neobrutalism.dev/,neobrutalism.dev,samke-,143
+49697014,Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama,https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/,patrickmccanna.net,0o_MrPatrick_o0,115
+49703003,GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?,https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review,entelligence.ai,theanonymousone,110
+49699648,Why don't machine learning research agents overfit?,https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit,amazon.science,Betelbuddy,107
+49704246,Charts built for Chat,https://dbtcharts.com/blog/charts-built-for-chat/,dbtcharts.com,thingsilearned,100
+49696453,People who can't picture anything are rewriting the science of imagination,https://dailyneuron.com/aphantasia-mental-imagery-brain-network/,dailyneuron.com,giuliomagnifico,96
+49700255,Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%,https://blog.cloudflare.com/automatic-key-exchange-for-origins/,blog.cloudflare.com,iamsyr,88
+49638555,Trying to Make a Loop Auto-Vectorize,https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/,jsgroth.dev,zdw,72
+49699267,"Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/,narilabs.com,toebee,70
+49673689,Compressing a Flag to 11 Bits,https://read.vantezzen.io/miniflags,read.vantezzen.io,bennett_dev,69
+49701182,Backprop Alternative: Augmented Lagrangian Predictive Coding,https://pub.sakana.ai/pc-alm/,pub.sakana.ai,guld,45
+49670699,Optimizing a Spin-Lock,https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/,david.alvarezrosa.com,signa11,44
+49705442,Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS,https://github.com/JamesRyanATX/fcbnerd,github.com,fretlessjazz,36
+49697477,Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen),https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/,nathannaveen.dev,nathannaveen,32
+49675817,"4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/,arkeonews.net,arunbahl,16
+49690084,The biggest dinosaurs couldn't sit on their eggs,https://www.cbc.ca/news/science/titanosaur-eggs-9.7336841,cbc.ca,BiraIgnacio,8
+49700218,Cua (YC P25) Is Hiring a Founding Technical GTM Lead,https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead,ycombinator.com,frabonacci,0
