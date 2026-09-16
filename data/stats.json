@@ -17,7 +17,7 @@
               "value": "tosh"
             },
             {
-              "count": 21,
+              "count": 22,
               "value": "zdw"
             },
             {
@@ -25,7 +25,7 @@
               "value": "rbanffy"
             },
             {
-              "count": 15,
+              "count": 16,
               "value": "ibobev"
             },
             {
@@ -38,19 +38,19 @@
             },
             {
               "count": 11,
-              "value": "Bluestein"
+              "value": "matt_d"
             },
             {
-              "count": 10,
-              "value": "matt_d"
+              "count": 11,
+              "value": "Bluestein"
             }
           ],
-          "unique": 1220
+          "unique": 1240
         },
         "domain": {
           "top": [
             {
-              "count": 113,
+              "count": 116,
               "value": "github.com"
             },
             {
@@ -78,22 +78,22 @@
               "value": "en.wikipedia.org"
             },
             {
-              "count": 10,
+              "count": 11,
               "value": "bbc.com"
             },
             {
               "count": 10,
-              "value": "anthropic.com"
+              "value": "spectrum.ieee.org"
             },
             {
               "count": 10,
-              "value": "apple.com"
+              "value": "blog.google"
             }
           ],
-          "unique": 1216
+          "unique": 1235
         }
       },
-      "total_records": 1693
+      "total_records": 1723
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1793
+  "total_records": 1823
 }
