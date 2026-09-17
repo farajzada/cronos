@@ -33,28 +33,28 @@
               "value": "theanonymousone"
             },
             {
-              "count": 11,
-              "value": "bookofjoe"
+              "count": 14,
+              "value": "matt_d"
             },
             {
               "count": 11,
-              "value": "matt_d"
+              "value": "bookofjoe"
             },
             {
               "count": 11,
               "value": "Bluestein"
             }
           ],
-          "unique": 1240
+          "unique": 1258
         },
         "domain": {
           "top": [
             {
-              "count": 116,
+              "count": 117,
               "value": "github.com"
             },
             {
-              "count": 28,
+              "count": 31,
               "value": "arxiv.org"
             },
             {
@@ -90,10 +90,10 @@
               "value": "blog.google"
             }
           ],
-          "unique": 1235
+          "unique": 1254
         }
       },
-      "total_records": 1723
+      "total_records": 1752
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1823
+  "total_records": 1852
 }
