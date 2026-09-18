@@ -21,12 +21,12 @@
               "value": "zdw"
             },
             {
-              "count": 16,
-              "value": "rbanffy"
+              "count": 17,
+              "value": "ibobev"
             },
             {
               "count": 16,
-              "value": "ibobev"
+              "value": "rbanffy"
             },
             {
               "count": 14,
@@ -37,7 +37,7 @@
               "value": "matt_d"
             },
             {
-              "count": 11,
+              "count": 12,
               "value": "bookofjoe"
             },
             {
@@ -45,20 +45,20 @@
               "value": "Bluestein"
             }
           ],
-          "unique": 1258
+          "unique": 1277
         },
         "domain": {
           "top": [
             {
-              "count": 117,
+              "count": 119,
               "value": "github.com"
             },
             {
-              "count": 31,
+              "count": 32,
               "value": "arxiv.org"
             },
             {
-              "count": 23,
+              "count": 24,
               "value": "news.ycombinator.com"
             },
             {
@@ -70,15 +70,15 @@
               "value": "twitter.com"
             },
             {
-              "count": 15,
+              "count": 16,
               "value": "openai.com"
             },
             {
-              "count": 12,
+              "count": 13,
               "value": "en.wikipedia.org"
             },
             {
-              "count": 11,
+              "count": 12,
               "value": "bbc.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "blog.google"
             }
           ],
-          "unique": 1254
+          "unique": 1276
         }
       },
-      "total_records": 1752
+      "total_records": 1782
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1852
+  "total_records": 1882
 }
