@@ -9,7 +9,7 @@
               "value": "speckx"
             },
             {
-              "count": 32,
+              "count": 33,
               "value": "surprisetalk"
             },
             {
@@ -21,15 +21,15 @@
               "value": "zdw"
             },
             {
-              "count": 17,
+              "count": 18,
               "value": "ibobev"
             },
             {
-              "count": 16,
+              "count": 17,
               "value": "rbanffy"
             },
             {
-              "count": 14,
+              "count": 15,
               "value": "theanonymousone"
             },
             {
@@ -45,7 +45,7 @@
               "value": "Bluestein"
             }
           ],
-          "unique": 1277
+          "unique": 1295
         },
         "domain": {
           "top": [
@@ -54,7 +54,7 @@
               "value": "github.com"
             },
             {
-              "count": 32,
+              "count": 34,
               "value": "arxiv.org"
             },
             {
@@ -62,7 +62,7 @@
               "value": "news.ycombinator.com"
             },
             {
-              "count": 17,
+              "count": 18,
               "value": "youtube.com"
             },
             {
@@ -82,7 +82,7 @@
               "value": "bbc.com"
             },
             {
-              "count": 10,
+              "count": 11,
               "value": "spectrum.ieee.org"
             },
             {
@@ -90,10 +90,10 @@
               "value": "blog.google"
             }
           ],
-          "unique": 1276
+          "unique": 1292
         }
       },
-      "total_records": 1782
+      "total_records": 1812
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1882
+  "total_records": 1912
 }

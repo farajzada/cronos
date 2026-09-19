@@ -1781,3 +1781,33 @@ item_id,title,url,domain,author,points
 49749019,Claude Code from Source,https://claude-code-from-source.com/,claude-code-from-source.com,pykello,12
 49723544,I Put Nam A2-Lite Inside an iRig HD X,https://playtaurus.com/blog/i-put-nam-a2-lite-inside-an-irig-hd-x,playtaurus.com,arbayi,6
 49743567,Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI,https://zscc.ai/careers?job_id=109821,zscc.ai,el_al,0
+49754785,Cloudflare Quick Tunnels,https://try.cloudflare.com/,try.cloudflare.com,jcbhmr,578
+49752041,OpenJev,https://openjev.com/,openjev.com,ilreb,557
+49758736,Android 17 is the first since 3.x to add new APIs without releasing to the AOSP,https://grapheneos.social/@GrapheneOS/117282080803799576,grapheneos.social,theanonymousone,536
+49760187,Claude Code now reads AGENTS.md if there is no Claude.md,https://code.claude.com/docs/en/changelog,code.claude.com,datadrivenangel,513
+49747070,How to Write with an LLM,https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/,sockpuppet.org,joeriddles,391
+49750694,Inside ZCode: Silently uploading your Git history to the cloud,https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/,blog.ferstar.org,csmantle,255
+49758580,Saving another 100TB of RAM,https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/,blog.cloudflare.com,f311a,228
+49755024,I vibed a proof of Conway's conjecture,https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/,overreacted.io,m-hodges,211
+49749369,Minimal Phone 2,https://minimalcompany.com/,minimalcompany.com,nashashmi,188
+49755160,North Korean nuclear test sets off years of earthquakes,https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes,science.org,rbanffy,183
+49744704,The first new cat species discovered in 100 years,https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years,nationalgeographic.com,ohjeez,171
+49748553,Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash,https://cactuscompute.com/needle,cactuscompute.com,HenryNdubuaku,164
+49746626,How SpaceX streamlined the Raptor engine,https://www.construction-physics.com/p/how-spacex-streamlined-the-raptor,construction-physics.com,JumpCrisscross,163
+49757050,Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug,https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/,donjon.ledger.com,synack,154
+49746406,C++26: Trivial infinite loops are no longer undefined behaviour,https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops,sandordargo.com,ibobev,148
+49758419,Xcode 27.1 Beta Release Notes,https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes,developer.apple.com,CameronBanga,113
+49749724,Warez: The Infrastructure and Aesthetics of Piracy (2021),https://archive.org/details/b904a8eb-9c98-4bb1-bf25-3cb9d075b157,archive.org,succinct_ideas,106
+49755533,Two parallel neural ectoderm progenitors contribute to the developing brain,https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/,newscientist.com,Jimmc414,103
+49758615,Cache-to-Cache: Direct Semantic Communication Between LLMs (2025),https://arxiv.org/abs/2510.03215,arxiv.org,rochansinha,66
+49761432,How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip,https://spectrum.ieee.org/llms-for-chip-design,spectrum.ieee.org,maxall4,57
+49714157,A search-and-inference database from scratch in pure Zig,https://antfly.io/research/antfly-zig,antfly.io,kingcauchy,54
+49758689,The Implications of Linguistic Illegibility for LLM Security,https://arxiv.org/abs/2609.02852,arxiv.org,tomjakubowski,52
+49731413,Cyclomatic Complexity in C#,https://blog.ndepend.com/understanding-cyclomatic-complexity/,blog.ndepend.com,gone35,34
+49740371,From Geometry to Algebra and Back Again: 4000 Years of Papers (2023) [video],https://www.youtube.com/watch?v=1cRFfYQYGxE,youtube.com,surprisetalk,28
+49744036,The Farnese letter,https://simonklee.dk/farnese-letter,simonklee.dk,grigolin,27
+49761840,Alibaba open-sources AI model that can detect cancer and nearly 150 conditions,https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions,scmp.com,yogthos,24
+49729631,Column built an issuer processor from scratch,https://column.com/card-issuing/,column.com,Matthalp,22
+49735057,Size-Specialized Memory Allocation,https://go.dev/blog/size-specialized-allocations,go.dev,spacey,17
+49762099,Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe,https://liveworld.info/,liveworld.info,harisingh1612,8
+49733523,LispBM is a concurrent Lisp for microcontrollers with message passing,https://www.lispbm.com/,lispbm.com,so-cal-schemer,5
