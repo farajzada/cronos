@@ -14,11 +14,11 @@
             },
             {
               "count": 23,
-              "value": "tosh"
+              "value": "zdw"
             },
             {
-              "count": 22,
-              "value": "zdw"
+              "count": 23,
+              "value": "tosh"
             },
             {
               "count": 18,
@@ -29,7 +29,7 @@
               "value": "rbanffy"
             },
             {
-              "count": 15,
+              "count": 16,
               "value": "theanonymousone"
             },
             {
@@ -41,20 +41,20 @@
               "value": "bookofjoe"
             },
             {
-              "count": 11,
+              "count": 12,
               "value": "Bluestein"
             }
           ],
-          "unique": 1295
+          "unique": 1314
         },
         "domain": {
           "top": [
             {
-              "count": 119,
+              "count": 120,
               "value": "github.com"
             },
             {
-              "count": 34,
+              "count": 35,
               "value": "arxiv.org"
             },
             {
@@ -90,10 +90,10 @@
               "value": "blog.google"
             }
           ],
-          "unique": 1292
+          "unique": 1312
         }
       },
-      "total_records": 1812
+      "total_records": 1841
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1912
+  "total_records": 1941
 }
