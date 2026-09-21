@@ -13,7 +13,7 @@
               "value": "surprisetalk"
             },
             {
-              "count": 23,
+              "count": 24,
               "value": "zdw"
             },
             {
@@ -45,12 +45,12 @@
               "value": "Bluestein"
             }
           ],
-          "unique": 1314
+          "unique": 1331
         },
         "domain": {
           "top": [
             {
-              "count": 120,
+              "count": 124,
               "value": "github.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "blog.google"
             }
           ],
-          "unique": 1312
+          "unique": 1330
         }
       },
-      "total_records": 1841
+      "total_records": 1870
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1941
+  "total_records": 1970
 }
