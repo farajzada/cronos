@@ -17,11 +17,11 @@
               "value": "zdw"
             },
             {
-              "count": 23,
+              "count": 24,
               "value": "tosh"
             },
             {
-              "count": 18,
+              "count": 19,
               "value": "ibobev"
             },
             {
@@ -45,12 +45,12 @@
               "value": "Bluestein"
             }
           ],
-          "unique": 1331
+          "unique": 1347
         },
         "domain": {
           "top": [
             {
-              "count": 124,
+              "count": 125,
               "value": "github.com"
             },
             {
@@ -82,18 +82,18 @@
               "value": "bbc.com"
             },
             {
-              "count": 11,
+              "count": 12,
               "value": "spectrum.ieee.org"
             },
             {
-              "count": 10,
-              "value": "blog.google"
+              "count": 11,
+              "value": "science.org"
             }
           ],
-          "unique": 1330
+          "unique": 1346
         }
       },
-      "total_records": 1870
+      "total_records": 1900
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 1970
+  "total_records": 2000
 }
