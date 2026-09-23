@@ -6,11 +6,11 @@
           "top": [
             {
               "count": 34,
-              "value": "speckx"
+              "value": "surprisetalk"
             },
             {
-              "count": 33,
-              "value": "surprisetalk"
+              "count": 34,
+              "value": "speckx"
             },
             {
               "count": 24,
@@ -21,15 +21,15 @@
               "value": "tosh"
             },
             {
-              "count": 19,
+              "count": 20,
               "value": "ibobev"
             },
             {
-              "count": 17,
+              "count": 18,
               "value": "rbanffy"
             },
             {
-              "count": 16,
+              "count": 17,
               "value": "theanonymousone"
             },
             {
@@ -45,16 +45,16 @@
               "value": "Bluestein"
             }
           ],
-          "unique": 1347
+          "unique": 1364
         },
         "domain": {
           "top": [
             {
-              "count": 125,
+              "count": 128,
               "value": "github.com"
             },
             {
-              "count": 35,
+              "count": 36,
               "value": "arxiv.org"
             },
             {
@@ -66,12 +66,12 @@
               "value": "youtube.com"
             },
             {
-              "count": 16,
-              "value": "twitter.com"
+              "count": 17,
+              "value": "openai.com"
             },
             {
               "count": 16,
-              "value": "openai.com"
+              "value": "twitter.com"
             },
             {
               "count": 13,
@@ -87,13 +87,13 @@
             },
             {
               "count": 11,
-              "value": "science.org"
+              "value": "anthropic.com"
             }
           ],
-          "unique": 1346
+          "unique": 1362
         }
       },
-      "total_records": 1900
+      "total_records": 1930
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2000
+  "total_records": 2030
 }
