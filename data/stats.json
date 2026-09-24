@@ -5,11 +5,11 @@
         "author": {
           "top": [
             {
-              "count": 34,
+              "count": 35,
               "value": "surprisetalk"
             },
             {
-              "count": 34,
+              "count": 35,
               "value": "speckx"
             },
             {
@@ -45,7 +45,7 @@
               "value": "Bluestein"
             }
           ],
-          "unique": 1364
+          "unique": 1386
         },
         "domain": {
           "top": [
@@ -86,14 +86,14 @@
               "value": "spectrum.ieee.org"
             },
             {
-              "count": 11,
+              "count": 12,
               "value": "anthropic.com"
             }
           ],
-          "unique": 1362
+          "unique": 1378
         }
       },
-      "total_records": 1930
+      "total_records": 1959
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2030
+  "total_records": 2059
 }

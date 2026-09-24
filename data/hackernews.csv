@@ -1929,3 +1929,32 @@ item_id,title,url,domain,author,points
 49800566,Show HN: Training a model to identify AI web content from structure alone,https://arxiv.org/abs/2609.15369,arxiv.org,jochenmadler,42
 49808816,The current balance of power in open models,https://www.interconnects.ai/p/the-current-balance-of-power-in-open,interconnects.ai,gmays,40
 49809404,Augustofaces: Pareidolia Fine Art,https://augusto.at/augustosfaces/,augusto.at,luu,4
+49819221,Italian parliament votes for return to nuclear energy,https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567,apnews.com,geox,592
+49820134,Claude discovers a novel enzyme system with CRISPR-like repeats,https://www.anthropic.com/news/claude-discovers-novel-enzyme-system,anthropic.com,raahelb,499
+49814947,Claude Code reads AGENTS.md only when telemetry is on [fixed],https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/,blog.szypowi.cz,pszypowicz,453
+49817469,Fixing the Portobello Police Station Clock,https://pointinthecloud.com/2026-04-11-211700.html,pointinthecloud.com,avidly,380
+49815466,I don't want the details,https://michaelheap.com/i-dont-want-the-details/,michaelheap.com,mooreds,356
+49817615,Gemini 3.8 text-to-speech,https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/,blog.google,swolpers,253
+49813482,Tokens too cheap to meter,https://jyn.dev/tokens-too-cheap-to-meter/,jyn.dev,teoruiz,239
+49824268,Meta VR Glasses,https://www.meta.com/vr-glasses/,meta.com,polymorph1sm,213
+49821196,"Once Claude can measure something, it can make it faster",https://claude.dev/blog/how-we-made-claude-ai-faster/,claude.dev,matthieu_bl,176
+49814236,Z80 REPL (2018),https://abagames.github.io/z80-repl/index.html,abagames.github.io,adunk,148
+49823582,Linux support is coming to Snapdragon X2 Series,https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux,qualcomm.com,aaronday,146
+49822555,VSCode's SSH Agent Is Bananas (2025),https://fly.io/blog/vscode-ssh-wtf/,fly.io,Rapzid,128
+49817524,Radicle: Disclosure of Vulnerability in the Network Protocol,https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol,radicle.dev,lostmsu,125
+49820065,A brief history of Windows scroll bar shortcuts,https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/,devblogs.microsoft.com,tybulewicz,110
+49823195,We just shipped support for the ugliest part of HTTP: Vary,https://blog.cloudflare.com/vary-support/,blog.cloudflare.com,thisisfatih,76
+49819880,Making Tailscale Faster,https://tailscale.com/blog/making-tailscale-faster,tailscale.com,yarapavan,74
+49820496,"LensVLM: Compressing long context as images, expanding only relevant pages",https://huggingface.co/apple/LensVLM-9B,huggingface.co,victormustar,57
+49823664,ArXiv receives multiyear commitments to support it as an independent nonprofit,https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/,blog.arxiv.org,JohnHammersley,56
+49799855,The mystery animal on an ancient god's head,https://signoregalilei.com/2026/09/13/the-mystery-animal-on-an-ancient-gods-head/,signoregalilei.com,surprisetalk,55
+49823348,Mercury 2.5 LLM hits 770 tokens per second,https://artificialanalysis.ai/models/mercury-2-5,artificialanalysis.ai,Retro_Dev,51
+49796372,"The ""Windows XP Box"" (2003)",https://www.mini-itx.com/projects/windowsxpbox/,mini-itx.com,doubletwoyou,45
+49820136,"Swap, ZRAM, Zswap and Hibernate on NixOS",https://blog.matthewbrunelle.com/swap-zram-zswap-and-hibernate-on-nixos/,blog.matthewbrunelle.com,speckx,38
+49821086,Show HN: I built a post-mortem debugger for native Windows x64/x86 crashes,https://www.forensicdbg.com,forensicdbg.com,Loren_SL,29
+49806413,The Curious Power of Punctuation,https://www.newyorker.com/magazine/2026/09/28/on-the-mark-louis-menand-book-review,newyorker.com,pepys,25
+49781492,A refined phylochronology of the second plague pandemic in Western Eurasia,https://www.pnas.org/doi/10.1073/pnas.2534899123,pnas.org,Thevet,14
+49824969,FLAWED's Flaws and What This Means for Industry Research,https://suhacker.ai/p/flaweds-flaws-and-what-this-means-for-industry-research/,suhacker.ai,tob_scott_a,8
+49824715,Show HN: An open-source manufacturing ERP/MES/QMS,https://carbon.ms/self-hosted,carbon.ms,barbinbrad,7
+49790937,Show HN: Combinators in Array Languages,https://blog.softwarewrighter.com/2026/09/21/rabbit-hole-sage-y-combinator/,blog.softwarewrighter.com,softwarewright,3
+49814780,QuestDB (YC S20) Is Hiring a Sales Engineer,https://questdb.com/careers/pre-sales-engineer-north-america/,questdb.com,nhourcard,0
