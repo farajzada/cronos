@@ -5,7 +5,7 @@
         "author": {
           "top": [
             {
-              "count": 35,
+              "count": 36,
               "value": "surprisetalk"
             },
             {
@@ -29,7 +29,7 @@
               "value": "rbanffy"
             },
             {
-              "count": 17,
+              "count": 18,
               "value": "theanonymousone"
             },
             {
@@ -45,12 +45,12 @@
               "value": "Bluestein"
             }
           ],
-          "unique": 1386
+          "unique": 1408
         },
         "domain": {
           "top": [
             {
-              "count": 128,
+              "count": 130,
               "value": "github.com"
             },
             {
@@ -62,7 +62,7 @@
               "value": "news.ycombinator.com"
             },
             {
-              "count": 18,
+              "count": 19,
               "value": "youtube.com"
             },
             {
@@ -87,13 +87,13 @@
             },
             {
               "count": 12,
-              "value": "anthropic.com"
+              "value": "blog.google"
             }
           ],
-          "unique": 1378
+          "unique": 1398
         }
       },
-      "total_records": 1959
+      "total_records": 1989
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2059
+  "total_records": 2089
 }
