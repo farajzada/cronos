@@ -21,7 +21,7 @@
               "value": "tosh"
             },
             {
-              "count": 20,
+              "count": 21,
               "value": "ibobev"
             },
             {
@@ -45,12 +45,12 @@
               "value": "Bluestein"
             }
           ],
-          "unique": 1408
+          "unique": 1426
         },
         "domain": {
           "top": [
             {
-              "count": 130,
+              "count": 131,
               "value": "github.com"
             },
             {
@@ -62,7 +62,7 @@
               "value": "news.ycombinator.com"
             },
             {
-              "count": 19,
+              "count": 20,
               "value": "youtube.com"
             },
             {
@@ -75,6 +75,10 @@
             },
             {
               "count": 13,
+              "value": "spectrum.ieee.org"
+            },
+            {
+              "count": 13,
               "value": "en.wikipedia.org"
             },
             {
@@ -83,17 +87,13 @@
             },
             {
               "count": 12,
-              "value": "spectrum.ieee.org"
-            },
-            {
-              "count": 12,
               "value": "blog.google"
             }
           ],
-          "unique": 1398
+          "unique": 1417
         }
       },
-      "total_records": 1989
+      "total_records": 2019
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2089
+  "total_records": 2119
 }

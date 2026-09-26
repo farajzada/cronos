@@ -1988,3 +1988,33 @@ item_id,title,url,domain,author,points
 49802510,Writing Parquet files using Haskell,https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html,datahaskell.org,cosmic_quanta,18
 49823113,The Bayeux Tapestry: Woven by the Victors,https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors,historytoday.com,prismatic,6
 49834893,Stable (YC W20) Is Hiring Product Engineers,https://www.usestable.com/careers/product-engineer,usestable.com,collinpham,0
+49845977,U.S. appeals court upholds designation of Anthropic as supply chain risk,https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html,cnbc.com,cramer4next,391
+49843269,Platform-independent SIMD in Go,https://go.dev/blog/simd-experiment,go.dev,yurivish,361
+49848269,"Ollaya – Ollama for open-source, Jev-style decision models",https://ollaya.dev/,ollaya.dev,Ardakilic,340
+49843174,"Git-bug: Distributed, offline-first bug tracker embedded in Git",https://github.com/git-bug/git-bug,github.com,alentred,313
+49849985,Revealing the details of how OpenAI agents hacked Hugging Face,https://swarmtraces.org/,swarmtraces.org,specked-citrus,226
+49844736,First Principles Thinking,https://sunilsadasivan.com/writing/first-principles-thinking/,sunilsadasivan.com,sunils34,221
+49845172,Show HN: Jev Plays Pokémon Red,https://jev-pokemon.vercel.app/,jev-pokemon.vercel.app,pancomplex,156
+49841309,Amiga Screens: A Primer,https://www.datagubbe.se/amscr/,datagubbe.se,msephton,130
+49848295,Alan Kay: Shannon gave us a way of dealing with noisy channels [video],https://www.youtube.com/watch?v=Cjntrqhn8pk,youtube.com,behoove,125
+49845998,Gravity seems holographic. What does that mean for reality?,https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/,quantamagazine.org,ibobev,121
+49849141,How we learned to stop worrying and love campus surveillance,https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/,fnl.mit.edu,cdrnsf,119
+49848095,Meta's Muse appears to use an OpenAI model labeled muse-special,https://mouse.dev/blog/muse-special/,mouse.dev,Aeroi,113
+49849832,Excel now supports multiple values in a single cell,https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395,techcommunity.microsoft.com,luispa,106
+49777121,How video games inspire great UX (2019),https://jenson.org/games/,jenson.org,andsoitis,99
+49840054,Plan mode is dead,"https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",aymannadeem.com,jmvldz,97
+49850305,What even is an OS now?,https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/,sockpuppet.org,fratellobigio,86
+49844896,Microsoft abandons personal AI chatbot race with Copilot reboot,https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot,bloomberg.com,sbulaev,83
+49788014,Show HN: Make math automatic with Mathy,https://gmays.com/making-math-automatic-with-mathy/,gmays.com,gmays,73
+49838247,Remembering Johannes Doerfert,https://blog.llvm.org/posts/2026-09-24-rememberingjohannesdoerfert/,blog.llvm.org,sdko,53
+49842462,An airport cooled by natural ventilation,https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion,theguardian.com,Geekette,49
+49844642,What happens when you analyze your favorite college football team like the CIA?,https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia,cultivatelabs.com,adam,37
+49852065,One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days,https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide,jezebel.com,HotGarbage,36
+49842409,I wrote a ray tracer in Brainfuck,https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/,epestr.com,epestr,34
+49852302,Jury finds Facebook liable for deceiving users in Cambridge Analytica case,https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/,cbsnews.com,pseudolus,20
+49819244,Why didn't anybody tell me about Redis hash slots?,https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/23/why-didnt-anybody-tell-me-about-hash-slots/,blog.verygoodsoftwarenotvirus.dev,badrequest,19
+49844497,Show HN: Hacker Atlas - A map of what Hacker News talks about,https://hackeratlas.com/,hackeratlas.com,andrearitossa,11
+49850781,Lab on a Contact Lens Can Measure Stress Through Serotonin,https://spectrum.ieee.org/serotonin-stress-smart-contact-lens,spectrum.ieee.org,marc__1,9
+49849986,Show HN: Ekselio – Loveable for finance workflows (local first),https://www.gptbeyond.com/try?home=1,gptbeyond.com,kdautaj,8
+49851776,Show HN: A game about fake news and memes,https://unspin.app/,unspin.app,azermite,6
+49829472,Fourier Analysis: Drawing Llamas with Circles,https://adekau.github.io/posts/2020/llamas.html,adekau.github.io,cebert,4
