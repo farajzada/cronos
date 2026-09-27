@@ -45,16 +45,16 @@
               "value": "Bluestein"
             }
           ],
-          "unique": 1426
+          "unique": 1441
         },
         "domain": {
           "top": [
             {
-              "count": 131,
+              "count": 133,
               "value": "github.com"
             },
             {
-              "count": 36,
+              "count": 37,
               "value": "arxiv.org"
             },
             {
@@ -74,12 +74,12 @@
               "value": "twitter.com"
             },
             {
-              "count": 13,
-              "value": "spectrum.ieee.org"
+              "count": 14,
+              "value": "en.wikipedia.org"
             },
             {
               "count": 13,
-              "value": "en.wikipedia.org"
+              "value": "spectrum.ieee.org"
             },
             {
               "count": 12,
@@ -90,10 +90,10 @@
               "value": "blog.google"
             }
           ],
-          "unique": 1417
+          "unique": 1437
         }
       },
-      "total_records": 2019
+      "total_records": 2049
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2119
+  "total_records": 2149
 }
