@@ -5,7 +5,7 @@
         "author": {
           "top": [
             {
-              "count": 36,
+              "count": 38,
               "value": "surprisetalk"
             },
             {
@@ -21,36 +21,36 @@
               "value": "tosh"
             },
             {
-              "count": 21,
+              "count": 22,
               "value": "ibobev"
+            },
+            {
+              "count": 19,
+              "value": "theanonymousone"
             },
             {
               "count": 18,
               "value": "rbanffy"
             },
             {
-              "count": 18,
-              "value": "theanonymousone"
-            },
-            {
               "count": 14,
               "value": "matt_d"
             },
             {
-              "count": 12,
-              "value": "bookofjoe"
+              "count": 13,
+              "value": "gmays"
             },
             {
               "count": 12,
-              "value": "Bluestein"
+              "value": "bookofjoe"
             }
           ],
-          "unique": 1441
+          "unique": 1454
         },
         "domain": {
           "top": [
             {
-              "count": 133,
+              "count": 135,
               "value": "github.com"
             },
             {
@@ -62,7 +62,7 @@
               "value": "news.ycombinator.com"
             },
             {
-              "count": 20,
+              "count": 21,
               "value": "youtube.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "blog.google"
             }
           ],
-          "unique": 1437
+          "unique": 1457
         }
       },
-      "total_records": 2049
+      "total_records": 2079
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2149
+  "total_records": 2179
 }
