@@ -21,7 +21,7 @@
               "value": "tosh"
             },
             {
-              "count": 22,
+              "count": 24,
               "value": "ibobev"
             },
             {
@@ -38,19 +38,19 @@
             },
             {
               "count": 13,
-              "value": "gmays"
+              "value": "bookofjoe"
             },
             {
-              "count": 12,
-              "value": "bookofjoe"
+              "count": 13,
+              "value": "gmays"
             }
           ],
-          "unique": 1454
+          "unique": 1471
         },
         "domain": {
           "top": [
             {
-              "count": 135,
+              "count": 137,
               "value": "github.com"
             },
             {
@@ -67,11 +67,11 @@
             },
             {
               "count": 17,
-              "value": "openai.com"
+              "value": "twitter.com"
             },
             {
-              "count": 16,
-              "value": "twitter.com"
+              "count": 17,
+              "value": "openai.com"
             },
             {
               "count": 14,
@@ -82,18 +82,18 @@
               "value": "spectrum.ieee.org"
             },
             {
-              "count": 12,
-              "value": "bbc.com"
+              "count": 13,
+              "value": "anthropic.com"
             },
             {
               "count": 12,
-              "value": "blog.google"
+              "value": "bbc.com"
             }
           ],
-          "unique": 1457
+          "unique": 1477
         }
       },
-      "total_records": 2079
+      "total_records": 2109
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2179
+  "total_records": 2209
 }
