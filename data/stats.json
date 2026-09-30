@@ -13,12 +13,12 @@
               "value": "speckx"
             },
             {
-              "count": 24,
-              "value": "zdw"
+              "count": 25,
+              "value": "tosh"
             },
             {
               "count": 24,
-              "value": "tosh"
+              "value": "zdw"
             },
             {
               "count": 24,
@@ -26,11 +26,11 @@
             },
             {
               "count": 19,
-              "value": "theanonymousone"
+              "value": "rbanffy"
             },
             {
-              "count": 18,
-              "value": "rbanffy"
+              "count": 19,
+              "value": "theanonymousone"
             },
             {
               "count": 14,
@@ -45,12 +45,12 @@
               "value": "gmays"
             }
           ],
-          "unique": 1471
+          "unique": 1485
         },
         "domain": {
           "top": [
             {
-              "count": 137,
+              "count": 140,
               "value": "github.com"
             },
             {
@@ -58,7 +58,7 @@
               "value": "arxiv.org"
             },
             {
-              "count": 24,
+              "count": 25,
               "value": "news.ycombinator.com"
             },
             {
@@ -66,12 +66,16 @@
               "value": "youtube.com"
             },
             {
+              "count": 19,
+              "value": "openai.com"
+            },
+            {
               "count": 17,
               "value": "twitter.com"
             },
             {
-              "count": 17,
-              "value": "openai.com"
+              "count": 14,
+              "value": "spectrum.ieee.org"
             },
             {
               "count": 14,
@@ -79,21 +83,17 @@
             },
             {
               "count": 13,
-              "value": "spectrum.ieee.org"
+              "value": "bbc.com"
             },
             {
               "count": 13,
               "value": "anthropic.com"
-            },
-            {
-              "count": 12,
-              "value": "bbc.com"
             }
           ],
-          "unique": 1477
+          "unique": 1493
         }
       },
-      "total_records": 2109
+      "total_records": 2139
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2209
+  "total_records": 2239
 }
