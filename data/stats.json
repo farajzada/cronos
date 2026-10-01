@@ -13,6 +13,10 @@
               "value": "speckx"
             },
             {
+              "count": 26,
+              "value": "ibobev"
+            },
+            {
               "count": 25,
               "value": "tosh"
             },
@@ -21,11 +25,7 @@
               "value": "zdw"
             },
             {
-              "count": 24,
-              "value": "ibobev"
-            },
-            {
-              "count": 19,
+              "count": 20,
               "value": "rbanffy"
             },
             {
@@ -34,23 +34,23 @@
             },
             {
               "count": 14,
-              "value": "matt_d"
+              "value": "bookofjoe"
             },
             {
-              "count": 13,
-              "value": "bookofjoe"
+              "count": 14,
+              "value": "matt_d"
             },
             {
               "count": 13,
               "value": "gmays"
             }
           ],
-          "unique": 1485
+          "unique": 1501
         },
         "domain": {
           "top": [
             {
-              "count": 140,
+              "count": 141,
               "value": "github.com"
             },
             {
@@ -70,11 +70,11 @@
               "value": "openai.com"
             },
             {
-              "count": 17,
+              "count": 18,
               "value": "twitter.com"
             },
             {
-              "count": 14,
+              "count": 15,
               "value": "spectrum.ieee.org"
             },
             {
@@ -87,13 +87,13 @@
             },
             {
               "count": 13,
-              "value": "anthropic.com"
+              "value": "blog.google"
             }
           ],
-          "unique": 1493
+          "unique": 1510
         }
       },
-      "total_records": 2139
+      "total_records": 2169
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2239
+  "total_records": 2269
 }
