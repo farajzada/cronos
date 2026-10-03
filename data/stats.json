@@ -13,7 +13,7 @@
               "value": "speckx"
             },
             {
-              "count": 27,
+              "count": 28,
               "value": "ibobev"
             },
             {
@@ -33,7 +33,7 @@
               "value": "theanonymousone"
             },
             {
-              "count": 14,
+              "count": 15,
               "value": "bookofjoe"
             },
             {
@@ -45,12 +45,12 @@
               "value": "matt_d"
             }
           ],
-          "unique": 1517
+          "unique": 1534
         },
         "domain": {
           "top": [
             {
-              "count": 143,
+              "count": 145,
               "value": "github.com"
             },
             {
@@ -62,7 +62,7 @@
               "value": "news.ycombinator.com"
             },
             {
-              "count": 21,
+              "count": 22,
               "value": "youtube.com"
             },
             {
@@ -79,21 +79,21 @@
             },
             {
               "count": 14,
+              "value": "blog.google"
+            },
+            {
+              "count": 14,
               "value": "blog.cloudflare.com"
             },
             {
               "count": 14,
               "value": "en.wikipedia.org"
-            },
-            {
-              "count": 13,
-              "value": "bbc.com"
             }
           ],
-          "unique": 1526
+          "unique": 1542
         }
       },
-      "total_records": 2199
+      "total_records": 2229
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2299
+  "total_records": 2329
 }
