@@ -17,7 +17,7 @@
               "value": "ibobev"
             },
             {
-              "count": 25,
+              "count": 26,
               "value": "zdw"
             },
             {
@@ -33,7 +33,7 @@
               "value": "theanonymousone"
             },
             {
-              "count": 15,
+              "count": 16,
               "value": "bookofjoe"
             },
             {
@@ -45,12 +45,12 @@
               "value": "matt_d"
             }
           ],
-          "unique": 1550
+          "unique": 1565
         },
         "domain": {
           "top": [
             {
-              "count": 146,
+              "count": 151,
               "value": "github.com"
             },
             {
@@ -62,7 +62,7 @@
               "value": "news.ycombinator.com"
             },
             {
-              "count": 23,
+              "count": 25,
               "value": "youtube.com"
             },
             {
@@ -83,17 +83,17 @@
             },
             {
               "count": 14,
-              "value": "blog.google"
+              "value": "nytimes.com"
             },
             {
               "count": 14,
-              "value": "en.wikipedia.org"
+              "value": "blog.google"
             }
           ],
-          "unique": 1560
+          "unique": 1574
         }
       },
-      "total_records": 2259
+      "total_records": 2286
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2359
+  "total_records": 2386
 }
