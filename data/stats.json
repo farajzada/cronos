@@ -9,11 +9,11 @@
               "value": "surprisetalk"
             },
             {
-              "count": 36,
+              "count": 37,
               "value": "speckx"
             },
             {
-              "count": 28,
+              "count": 31,
               "value": "ibobev"
             },
             {
@@ -21,7 +21,7 @@
               "value": "zdw"
             },
             {
-              "count": 25,
+              "count": 26,
               "value": "tosh"
             },
             {
@@ -45,12 +45,12 @@
               "value": "matt_d"
             }
           ],
-          "unique": 1565
+          "unique": 1580
         },
         "domain": {
           "top": [
             {
-              "count": 151,
+              "count": 154,
               "value": "github.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "blog.google"
             }
           ],
-          "unique": 1574
+          "unique": 1594
         }
       },
-      "total_records": 2286
+      "total_records": 2316
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2386
+  "total_records": 2416
 }
