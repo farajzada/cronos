@@ -5,11 +5,11 @@
         "author": {
           "top": [
             {
-              "count": 39,
+              "count": 41,
               "value": "surprisetalk"
             },
             {
-              "count": 37,
+              "count": 38,
               "value": "speckx"
             },
             {
@@ -37,28 +37,28 @@
               "value": "bookofjoe"
             },
             {
-              "count": 14,
+              "count": 16,
               "value": "gmays"
             },
             {
-              "count": 14,
+              "count": 15,
               "value": "matt_d"
             }
           ],
-          "unique": 1580
+          "unique": 1594
         },
         "domain": {
           "top": [
             {
-              "count": 154,
+              "count": 158,
               "value": "github.com"
             },
             {
-              "count": 38,
+              "count": 39,
               "value": "arxiv.org"
             },
             {
-              "count": 29,
+              "count": 30,
               "value": "news.ycombinator.com"
             },
             {
@@ -66,7 +66,7 @@
               "value": "youtube.com"
             },
             {
-              "count": 19,
+              "count": 20,
               "value": "openai.com"
             },
             {
@@ -79,21 +79,21 @@
             },
             {
               "count": 15,
+              "value": "blog.google"
+            },
+            {
+              "count": 15,
               "value": "blog.cloudflare.com"
             },
             {
               "count": 14,
               "value": "nytimes.com"
-            },
-            {
-              "count": 14,
-              "value": "blog.google"
             }
           ],
-          "unique": 1594
+          "unique": 1604
         }
       },
-      "total_records": 2316
+      "total_records": 2346
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2416
+  "total_records": 2446
 }
