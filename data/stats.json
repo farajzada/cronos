@@ -17,12 +17,12 @@
               "value": "ibobev"
             },
             {
-              "count": 26,
-              "value": "zdw"
+              "count": 27,
+              "value": "tosh"
             },
             {
               "count": 26,
-              "value": "tosh"
+              "value": "zdw"
             },
             {
               "count": 20,
@@ -41,16 +41,16 @@
               "value": "gmays"
             },
             {
-              "count": 15,
+              "count": 16,
               "value": "matt_d"
             }
           ],
-          "unique": 1618
+          "unique": 1635
         },
         "domain": {
           "top": [
             {
-              "count": 162,
+              "count": 163,
               "value": "github.com"
             },
             {
@@ -70,7 +70,7 @@
               "value": "openai.com"
             },
             {
-              "count": 18,
+              "count": 19,
               "value": "twitter.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "blog.cloudflare.com"
             }
           ],
-          "unique": 1634
+          "unique": 1652
         }
       },
-      "total_records": 2405
+      "total_records": 2435
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2505
+  "total_records": 2535
 }
