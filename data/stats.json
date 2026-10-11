@@ -9,7 +9,7 @@
               "value": "surprisetalk"
             },
             {
-              "count": 41,
+              "count": 42,
               "value": "speckx"
             },
             {
@@ -17,7 +17,7 @@
               "value": "ibobev"
             },
             {
-              "count": 27,
+              "count": 28,
               "value": "tosh"
             },
             {
@@ -29,28 +29,28 @@
               "value": "rbanffy"
             },
             {
-              "count": 19,
+              "count": 20,
               "value": "theanonymousone"
+            },
+            {
+              "count": 18,
+              "value": "gmays"
             },
             {
               "count": 17,
               "value": "bookofjoe"
             },
             {
-              "count": 17,
-              "value": "gmays"
-            },
-            {
               "count": 16,
               "value": "matt_d"
             }
           ],
-          "unique": 1635
+          "unique": 1649
         },
         "domain": {
           "top": [
             {
-              "count": 163,
+              "count": 167,
               "value": "github.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "blog.cloudflare.com"
             }
           ],
-          "unique": 1652
+          "unique": 1670
         }
       },
-      "total_records": 2435
+      "total_records": 2464
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2535
+  "total_records": 2564
 }

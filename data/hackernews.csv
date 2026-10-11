@@ -2434,3 +2434,32 @@ item_id,title,url,domain,author,points
 50028062,Has the Autonomous Trucking Revolution Arrived?,https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/,phenomenalworld.org,demonsthenes,10
 50002114,Smart contracts: Ship the parachute in v1,https://medium.com/@giladha/ship-the-parachute-in-v1-why-upgradeability-and-disaster-recovery-are-not-v2-features-88191f35ba1c,medium.com,giladha,5
 49997481,Eye of Sauron: Long-Range Hidden Spy Camera Detection,https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo,usenix.org,ortusdux,4
+50029123,Telegram Desktop vulnerability allowed any user's file to be stolen,https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/,beaksec.github.io,g-b-r,422
+49991852,2D Vehicles,https://patkerr.co.uk/2d-vehicles/,patkerr.co.uk,Michelangelo11,368
+49980880,Grieving the loss of details,https://purplesyringa.moe/blog/grieving-the-loss-of-details/,purplesyringa.moe,signa11,358
+50029487,The Lightbulb Computer,https://lightbulbcomputer.com/,lightbulbcomputer.com,oskarth,265
+50031614,Talorys – A self-hosted personal AI agent on Cloudflare's free tier,https://github.com/rociiu/talorys,github.com,rociiu,258
+50036864,A city-building game in which the city would prefer you didn't,https://housing.over.pizza/,housing.over.pizza,JumpCrisscross,183
+50016956,Mxc: Microsoft Execution Containers version 1.0.0,https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/,blogs.windows.com,smokel,165
+50035530,Why DuckDB 2.0 is faster,https://motherduck.com/blog/why-duckdb-20-is-faster/,motherduck.com,tosh,152
+50034081,Knuth reward check,https://www.thomas-huehn.com/knuth-reward-check/,thomas-huehn.com,Curiositry,150
+50017247,Nix wrote half of my debugger,https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger,fzakaria.com,ingve,142
+49986919,Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years,https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html,phys.org,geox,137
+50035886,Nvidia in talks to acquire US 'open' model startup Reflection AI,https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a,ft.com,arkj,127
+50037949,Build your own decision model,https://nishtahir.com/build-your-own-decision-model/,nishtahir.com,softwaredoug,125
+50029830,Food processing influences metabolism and brain activity,https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html,news.vt.edu,gmays,112
+49984349,OpenSCAD the Programmers Solid 3D CAD Modeller,https://openscad.org/,openscad.org,b-man,110
+50033357,Unikernels were hard. key word: were,https://ghuntley.com/unikernels/,ghuntley.com,ghuntley,106
+50005743,C for Rust programmers,https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/,bd103.dev,xyproto,105
+50038634,"WallHop – 12ft.io is gone, so I built a replacement",https://wallhop.io/,wallhop.io,TheWaffleHax,98
+50027257,Recent AI models struggled to match a human algorithmic innovation,https://epoch.ai/publications/innovationeval,epoch.ai,merksittich,79
+50024242,Rampart: Browser native on-device PII radaction,https://ndstudio.gov/posts/say-hello-to-rampart,ndstudio.gov,nateb2022,78
+50021899,Five months treating bugs like patients and coding agents like a medical team,https://www.cockroachlabs.com/blog/experiment-running-hospital-code/,cockroachlabs.com,rafiss,71
+50020901,Getting old Macromedia Director Games to run on modern Hardware,https://werwolv.net/posts/macromedia_copy_protection/,werwolv.net,speckx,46
+50038865,Anthropic asks users to stop being mean to Claude,https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218,theregister.com,alex_young,28
+50038640,Generative AI scandal has come to one of Nikon's competitions,https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/,dpreview.com,DASD,23
+50038473,Veda: The First Agentic Hobby Operating System,https://github.com/vahmoh25/Veda,github.com,vahmohh,15
+50006930,"Show HN: Diffle, a keyboard-centric diff viewer with LSP support",https://github.com/moritzwilksch/diffle,github.com,mwil1000,14
+50038623,PSPi 6 – Raspberry Pi in a PSP,https://github.com/othermod/PSPi-Version-6,github.com,therepanic,13
+50039092,500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter,https://momo5502.com/posts/2026-10-09-game-decompilation/,momo5502.com,davikr,8
+50001234,Retrofitting language models to operate over bytes,https://www.nature.com/articles/s41586-026-11111-4,nature.com,theanonymousone,7
