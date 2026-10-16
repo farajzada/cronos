@@ -5,11 +5,11 @@
         "author": {
           "top": [
             {
-              "count": 46,
+              "count": 47,
               "value": "speckx"
             },
             {
-              "count": 43,
+              "count": 44,
               "value": "surprisetalk"
             },
             {
@@ -25,7 +25,7 @@
               "value": "zdw"
             },
             {
-              "count": 20,
+              "count": 21,
               "value": "rbanffy"
             },
             {
@@ -45,12 +45,12 @@
               "value": "matt_d"
             }
           ],
-          "unique": 1719
+          "unique": 1737
         },
         "domain": {
           "top": [
             {
-              "count": 177,
+              "count": 180,
               "value": "github.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "bbc.com"
             }
           ],
-          "unique": 1738
+          "unique": 1761
         }
       },
-      "total_records": 2582
+      "total_records": 2612
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2682
+  "total_records": 2712
 }
