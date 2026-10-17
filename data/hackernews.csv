@@ -2611,3 +2611,32 @@ item_id,title,url,domain,author,points
 50111742,BeBox is a Haiku application that emulates Be Inc.'s BeBox,https://github.com/johnrash/bebox,github.com,rguiscard,25
 50111708,U.K. Sanctions Cryptomus for RU Money Laundering,https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/,krebsonsecurity.com,Bender,16
 50070510,Speculative Sauropods,https://svpow.com/2026/10/02/speculative-sauropods/,svpow.com,surprisetalk,4
+50122800,Claude reveals ECDSA curve origins,https://www.anthropic.com/research/ecdsa-curve-origins,anthropic.com,ahlCVA,680
+50121179,90% of US working hours are spent on tasks not covered well by AI benchmarks,https://www.mercor.com/research/labor-index/benchmark-map/,mercor.com,speckx,401
+50117746,I Love Software Rendering,https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/,jamesfmackenzie.com,speckx,289
+50118981,Waymo in Toronto,https://waymo.com/blog/2026/10/waymo-in-toronto/,waymo.com,ChrisArchitect,267
+50118320,Apple ML Research: Muse Spark Open with MLX on Mac Studio,https://machinelearning.apple.com/research/mlx-distributed-inference,machinelearning.apple.com,antipaul,266
+50122951,How the Claude Code team does code review,https://claude.dev/blog/solving-code-review-at-anthropic/,claude.dev,pretext,234
+50120224,JPEG XL vs. AVIF for web use-cases,https://jakearchibald.com/2026/jpeg-xl-vs-avif/,jakearchibald.com,farlight,200
+50122431,Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console,https://github.com/cobanov/PS5LM,github.com,Anon84,199
+50124251,I never authorized an integration that scans my secrets,https://github.com/home-assistant/home-assistant.io/issues/49314,github.com,trvrprkr,190
+50118688,Show HN: Gemini 4 Argon plays StarCraft,https://starskirmish.com/bench/v0-2/,starskirmish.com,__cayenne__,186
+50122034,"eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear,arrl.org,7402,172
+50118977,Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD,https://calif.io/research/big-fish,calif.io,rs_rs_rs_rs_rs,164
+50122878,You could have invented transformers from memory,https://alexwang.ai/posts/associative-memory/,alexwang.ai,speckx,139
+50121004,/dev/null: social network for developers,https://dev-null.sh,dev-null.sh,mnapoli,129
+50118828,What on Earth Is Dekton?,https://www.worksinprogress.news/p/porcelain,worksinprogress.news,wawayanda,127
+50123580,FLUX 3 Image Klein,https://bfl.ai/blog/flux-3-image-klein,bfl.ai,gmays,115
+50074322,"Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/,cbsnews.com,ohjeez,105
+50121939,Designing more efficient quantum circuits with Claude,https://www.anthropic.com/research/designing-efficient-quantum-circuits,anthropic.com,pretext,99
+50118318,What was a Token Ring network?,https://dfarq.homeip.net/what-was-a-token-ring-network/,dfarq.homeip.net,ibobev,97
+50076089,Monte-Carlo Simulations,https://eli.thegreenplace.net/2026/monte-carlo-simulations/,eli.thegreenplace.net,ibobev,71
+50083673,Wireless magnetic millirobots that deliver medicine inside the beating heart,https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/,hub.jhu.edu,giuliomagnifico,68
+50122736,C++26: The New Debugging Header,https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging,sandordargo.com,jandeboevrie,66
+50080246,"Show HN: Wonderhop – A daily game: guess what most people say, or what none do",https://wonderhop.io/en/,wonderhop.io,mtlduo,59
+50121601,GifCities,https://gifcities.org/,gifcities.org,augury,55
+50124642,Why harnesses matter for energy (and token) efficiency,https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency,neuralwatt.com,ccgibson,37
+50125545,Nine-Inch Snails,https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/,theatlantic.com,zdw,25
+50090453,PGO or not PGO this is the dilemma. Step 2,https://www.percona.com/blog/pgo-or-not-pgo-this-is-the-dilemma-step-2/,percona.com,hnp9j9qtda,18
+50088748,I built the RealWorld app in Lean 4,https://leangineer.com/blog/realworld-in-lean/,leangineer.com,saviorand,7
+50126774,Flexport Is Hiring a Biz Ops Leader in Office of CEO,https://www.flexport.com/company/careers/,flexport.com,thedogeye,0

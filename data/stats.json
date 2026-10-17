@@ -5,7 +5,7 @@
         "author": {
           "top": [
             {
-              "count": 47,
+              "count": 50,
               "value": "speckx"
             },
             {
@@ -13,7 +13,7 @@
               "value": "surprisetalk"
             },
             {
-              "count": 32,
+              "count": 34,
               "value": "ibobev"
             },
             {
@@ -21,7 +21,7 @@
               "value": "tosh"
             },
             {
-              "count": 28,
+              "count": 29,
               "value": "zdw"
             },
             {
@@ -29,7 +29,7 @@
               "value": "rbanffy"
             },
             {
-              "count": 20,
+              "count": 21,
               "value": "gmays"
             },
             {
@@ -45,12 +45,12 @@
               "value": "matt_d"
             }
           ],
-          "unique": 1737
+          "unique": 1750
         },
         "domain": {
           "top": [
             {
-              "count": 180,
+              "count": 182,
               "value": "github.com"
             },
             {
@@ -74,6 +74,10 @@
               "value": "twitter.com"
             },
             {
+              "count": 17,
+              "value": "anthropic.com"
+            },
+            {
               "count": 16,
               "value": "nytimes.com"
             },
@@ -84,16 +88,12 @@
             {
               "count": 16,
               "value": "blog.cloudflare.com"
-            },
-            {
-              "count": 15,
-              "value": "bbc.com"
             }
           ],
-          "unique": 1761
+          "unique": 1777
         }
       },
-      "total_records": 2612
+      "total_records": 2641
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2712
+  "total_records": 2741
 }
