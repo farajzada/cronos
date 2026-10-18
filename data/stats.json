@@ -13,7 +13,7 @@
               "value": "surprisetalk"
             },
             {
-              "count": 34,
+              "count": 35,
               "value": "ibobev"
             },
             {
@@ -33,7 +33,7 @@
               "value": "gmays"
             },
             {
-              "count": 20,
+              "count": 21,
               "value": "theanonymousone"
             },
             {
@@ -45,12 +45,12 @@
               "value": "matt_d"
             }
           ],
-          "unique": 1750
+          "unique": 1767
         },
         "domain": {
           "top": [
             {
-              "count": 182,
+              "count": 188,
               "value": "github.com"
             },
             {
@@ -67,11 +67,11 @@
             },
             {
               "count": 21,
-              "value": "openai.com"
+              "value": "twitter.com"
             },
             {
-              "count": 20,
-              "value": "twitter.com"
+              "count": 21,
+              "value": "openai.com"
             },
             {
               "count": 17,
@@ -90,10 +90,10 @@
               "value": "blog.cloudflare.com"
             }
           ],
-          "unique": 1777
+          "unique": 1791
         }
       },
-      "total_records": 2641
+      "total_records": 2670
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2741
+  "total_records": 2770
 }
