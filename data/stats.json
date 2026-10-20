@@ -25,11 +25,11 @@
               "value": "zdw"
             },
             {
-              "count": 22,
+              "count": 23,
               "value": "gmays"
             },
             {
-              "count": 21,
+              "count": 22,
               "value": "rbanffy"
             },
             {
@@ -45,12 +45,12 @@
               "value": "matt_d"
             }
           ],
-          "unique": 1781
+          "unique": 1798
         },
         "domain": {
           "top": [
             {
-              "count": 192,
+              "count": 193,
               "value": "github.com"
             },
             {
@@ -58,11 +58,11 @@
               "value": "arxiv.org"
             },
             {
-              "count": 33,
+              "count": 34,
               "value": "news.ycombinator.com"
             },
             {
-              "count": 27,
+              "count": 29,
               "value": "youtube.com"
             },
             {
@@ -83,17 +83,17 @@
             },
             {
               "count": 16,
-              "value": "blog.google"
+              "value": "spectrum.ieee.org"
             },
             {
               "count": 16,
-              "value": "blog.cloudflare.com"
+              "value": "blog.google"
             }
           ],
-          "unique": 1806
+          "unique": 1827
         }
       },
-      "total_records": 2700
+      "total_records": 2729
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2800
+  "total_records": 2829
 }
