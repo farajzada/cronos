@@ -5,7 +5,7 @@
         "author": {
           "top": [
             {
-              "count": 51,
+              "count": 52,
               "value": "speckx"
             },
             {
@@ -45,12 +45,12 @@
               "value": "matt_d"
             }
           ],
-          "unique": 1798
+          "unique": 1816
         },
         "domain": {
           "top": [
             {
-              "count": 193,
+              "count": 196,
               "value": "github.com"
             },
             {
@@ -58,11 +58,11 @@
               "value": "arxiv.org"
             },
             {
-              "count": 34,
+              "count": 35,
               "value": "news.ycombinator.com"
             },
             {
-              "count": 29,
+              "count": 30,
               "value": "youtube.com"
             },
             {
@@ -82,18 +82,18 @@
               "value": "anthropic.com"
             },
             {
-              "count": 16,
-              "value": "spectrum.ieee.org"
+              "count": 17,
+              "value": "blog.cloudflare.com"
             },
             {
               "count": 16,
-              "value": "blog.google"
+              "value": "spectrum.ieee.org"
             }
           ],
-          "unique": 1827
+          "unique": 1844
         }
       },
-      "total_records": 2729
+      "total_records": 2758
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2829
+  "total_records": 2858
 }
