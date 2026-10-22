@@ -2757,3 +2757,33 @@ item_id,title,url,domain,author,points
 50175075,T3 Code now synced between GitHub and GitCafe,https://git.cafe/pingdotgg/t3code,git.cafe,versecafe,7
 50175063,GitHub package firewall,https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/,github.blog,soheilpro,6
 50143360,"To Make, or to Buy: The Economics of Decision Models",https://pncnmnp.github.io/blogs/economics-decision-models.html,pncnmnp.github.io,pncnmnp,4
+50180873,PHP 8.2.35,https://github.com/php/php-src/releases/tag/php-8.2.35,github.com,tuyuri,974
+50182987,"Today's PHP security release, and how we're strengthening security",https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/,thephp.foundation,ejohnso49,682
+50184586,EA is shutting down BioWare,https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware,theverge.com,aaronbrethorst,535
+50181114,Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor,https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/,safedep.io,abhisek,440
+50184820,Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case,https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html,cnbc.com,cbg0,386
+50181136,DuckDB 2.0.0 LTS “Cinnamon Teal”,https://duckdb.org/2026/10/21/announcing-duckdb-200,duckdb.org,nnx,367
+50188228,Railway Security Disclosure,https://blog.railway.com/p/security-disclosure-wednesday-october-21st,blog.railway.com,passenger,319
+50186037,Claude Duet,https://claude.com/product/claude-duet,claude.com,kuberwastaken,318
+50185869,GitLab Critical Patch Release,https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/,docs.gitlab.com,artooro,254
+50180079,OpenAI models are coming to Google Cloud,https://openai.com/index/openai-models-google-cloud/,openai.com,armcat,242
+50181175,Patch the Planet: global response coordination as agents uncover vulnerabilities,https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/,openai.com,nr378,236
+50186010,Google's Rust Style Guide,https://google.github.io/styleguide/rustguide.html,google.github.io,kaycebasques,211
+50189232,mitmproxy adds --emudhra option,https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b,github.com,ahlCVA,197
+50161346,No More Icons in Every Menu by Default,https://blog.jim-nielsen.com/2026/icons-in-every-menu/,blog.jim-nielsen.com,riffraff,182
+50182526,Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin,https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488,apnews.com,surprisetalk,172
+50188948,There isn't an easy exploit for this PHP vulnerability,https://eliastaylor.com/noexploit/,eliastaylor.com,zkldi,162
+50162044,Tiny possum and glider thought extinct for 6000 years found in remote West Papua,https://www.bbc.com/news/articles/cp814l80pw2o,bbc.com,bryanrasmussen,159
+50159726,Why Windows 11 still ships with Windows 95's memory manager hidden inside it,https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/,windowslatest.com,khalidkhair,138
+50180752,Using thousands of AI agents to uncover new leads in biological data,https://openai.com/index/scaling-ai-research-for-complex-biological-data/,openai.com,raahelb,135
+50187708,PHP web runtimes (CVE-2026-109618 and CVE-2026-109619),https://aws.amazon.com/security/security-bulletins/2026-143-aws/,aws.amazon.com,hayd,110
+50189150,Airbnb bans making guests do dishes and take out the trash,https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update,theverge.com,babelfish,109
+50183512,New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic,https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs,oist.jp,giuliomagnifico,101
+50153531,Code is clay now,https://www.albertodenia.com/writing/code-is-clay-now,albertodenia.com,albertodenia,94
+50176908,Launch HN: Alter (YC S25) – Access control for multi-user agents,https://alterauth.com/,alterauth.com,simfinii,52
+50152847,The Rise and Fall of the Plasma Screen,https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen,construction-physics.com,surprisetalk,36
+50154100,Chain of Thought for Humans,https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/,boristhebrave.com,ibobev,28
+50189023,Κ = 0.003 for integer multiplication crossed,https://github.com/CrocSwap/integer-mult-bounds/pull/4441,github.com,aleph_minus_one,26
+50189666,The era of speedball capitalism has dawned,https://www.economist.com/business/2026/09/30/the-era-of-speedball-capitalism-has-dawned,economist.com,mikhael,19
+50189278,When Do We Become the Person We Ought to Be?,https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought,graphsaboutreligion.com,toomuchtodo,16
+50166590,Beyond the &,https://lwn.net/Articles/1096028/,lwn.net,PaulHoule,9
