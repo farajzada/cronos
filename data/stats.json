@@ -13,7 +13,7 @@
               "value": "surprisetalk"
             },
             {
-              "count": 37,
+              "count": 40,
               "value": "ibobev"
             },
             {
@@ -25,7 +25,7 @@
               "value": "zdw"
             },
             {
-              "count": 23,
+              "count": 24,
               "value": "gmays"
             },
             {
@@ -45,7 +45,7 @@
               "value": "gumby"
             }
           ],
-          "unique": 1855
+          "unique": 1866
         },
         "domain": {
           "top": [
@@ -66,20 +66,20 @@
               "value": "youtube.com"
             },
             {
-              "count": 24,
+              "count": 25,
               "value": "openai.com"
             },
             {
-              "count": 21,
+              "count": 22,
               "value": "twitter.com"
             },
             {
               "count": 18,
-              "value": "anthropic.com"
+              "value": "nytimes.com"
             },
             {
-              "count": 17,
-              "value": "nytimes.com"
+              "count": 18,
+              "value": "anthropic.com"
             },
             {
               "count": 17,
@@ -90,10 +90,10 @@
               "value": "bbc.com"
             }
           ],
-          "unique": 1873
+          "unique": 1893
         }
       },
-      "total_records": 2818
+      "total_records": 2848
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2918
+  "total_records": 2948
 }
