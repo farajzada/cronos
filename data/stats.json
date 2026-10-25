@@ -33,7 +33,7 @@
               "value": "rbanffy"
             },
             {
-              "count": 21,
+              "count": 22,
               "value": "theanonymousone"
             },
             {
@@ -41,16 +41,16 @@
               "value": "bookofjoe"
             },
             {
-              "count": 16,
-              "value": "gumby"
+              "count": 17,
+              "value": "matt_d"
             }
           ],
-          "unique": 1866
+          "unique": 1881
         },
         "domain": {
           "top": [
             {
-              "count": 202,
+              "count": 203,
               "value": "github.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "bbc.com"
             }
           ],
-          "unique": 1893
+          "unique": 1912
         }
       },
-      "total_records": 2848
+      "total_records": 2876
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 2948
+  "total_records": 2976
 }
