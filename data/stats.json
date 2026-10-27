@@ -21,7 +21,7 @@
               "value": "tosh"
             },
             {
-              "count": 30,
+              "count": 31,
               "value": "zdw"
             },
             {
@@ -45,12 +45,12 @@
               "value": "matt_d"
             }
           ],
-          "unique": 1894
+          "unique": 1911
         },
         "domain": {
           "top": [
             {
-              "count": 204,
+              "count": 209,
               "value": "github.com"
             },
             {
@@ -62,15 +62,15 @@
               "value": "news.ycombinator.com"
             },
             {
-              "count": 31,
+              "count": 32,
               "value": "youtube.com"
             },
             {
-              "count": 25,
+              "count": 27,
               "value": "openai.com"
             },
             {
-              "count": 23,
+              "count": 24,
               "value": "twitter.com"
             },
             {
@@ -82,18 +82,18 @@
               "value": "anthropic.com"
             },
             {
-              "count": 17,
+              "count": 18,
               "value": "blog.cloudflare.com"
             },
             {
-              "count": 16,
+              "count": 17,
               "value": "bbc.com"
             }
           ],
-          "unique": 1933
+          "unique": 1946
         }
       },
-      "total_records": 2905
+      "total_records": 2935
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3005
+  "total_records": 3035
 }

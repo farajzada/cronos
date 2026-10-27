@@ -2904,3 +2904,33 @@ item_id,title,url,domain,author,points
 50235639,Focused Company Operating Principles,https://focused.io/operating-principles,focused.io,mooreds,20
 50199199,Retired decorator's Pokémon cards sell for £1.5M,https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo,bbc.co.uk,HelloUsername,14
 50180612,Chip Builder is a puzzle and strategy game that teaches you chip design,https://chipbuilder.org/,chipbuilder.org,laurentiurad,13
+50242939,Anthropic S-1,https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm,sec.gov,SiNTEx,1496
+50245524,Microsoft offers mass buyouts for roughly a quarter of its workforce,https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/,seattletimes.com,doctorzook,791
+50245138,Sebastian Raschka's from-scratch video course on building reasoning models,https://magazine.sebastianraschka.com/p/building-reasoning-models,magazine.sebastianraschka.com,sgiannopoulos,578
+50251344,"Three new discoveries in mathematics, computer science, and physics",https://openai.com/index/building-scientific-understanding-with-academic-communities/,openai.com,jonluca,531
+50248124,GPT-6.1 Terra,https://openai.com/index/introducing-gpt-6-1-terra/,openai.com,meetpateltech,520
+50245831,CSS-Tricks has a new owner,https://css-tricks.com/css-tricks-has-a-new-owner/,css-tricks.com,edent,391
+50251661,The Exponential Time Hypothesis Is False [pdf],https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf,github.com,vok,336
+50248055,Oldest GUI application that still runs on Windows 11,https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/,blog.enlyth.com,enlyth,312
+50241664,Websites Should Be Printable,https://brennenputh.me/blog/printable-websites/,brennenputh.me,bagatelle,279
+50200152,Blaise Pascal invented fixed route public transport (2024),https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html,humantransit.org,skadamat,266
+50249275,The EPA Is Quietly Killing Its Web Archive,https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/,motherjones.com,robtherobber,258
+50241925,Pharo 14,https://pharo.org/news/2026-10-26-Pharo14Release.html,pharo.org,xkriva11,241
+50248371,Type Server Protocol,https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md,github.com,adamnemecek,198
+50236681,SIMD-accelerated computer vision on a $2 microcontroller,https://shraiwi.com/blog/simd-fast-esp32s3/,shraiwi.com,zdw,178
+50245385,Solar power is becoming bigger than nuclear,https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear,bbc.com,geox,158
+50242870,Fixing Tool-Call Accuracy in vLLM,https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm,ubicloud.com,coffeemug,149
+50243061,New iPad mini,https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/,apple.com,soheilpro,141
+50247493,Nietzschian Debugger,https://github.com/DilawarShafiq/nietzschian-debugger,github.com,dilawargopang,134
+50209525,Diamond Transistor,https://www.df.com/diamond-transistor,df.com,Gravityloss,128
+50247928,A Man from the Future: Why Johnny Can't Stop Abstracting,http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html,muratbuffalo.blogspot.com,aray07,126
+50246238,"Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",https://github.com/FrigadeHQ/hob,github.com,pancomplex,123
+50252159,Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses),https://blog.cloudflare.com/kv-cache-exposure-remediation/,blog.cloudflare.com,wondersky,83
+50204697,A Printer Printing onto Paper,https://twitter.com/macrofying/status/2112904628509528219,twitter.com,MrBuddyCasino,68
+50211780,"Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/,petapixel.com,thm,45
+50213502,Native Prometheus Integration with Nginx,https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/,categorica.io,foxhill,37
+50231041,LISPy things you can do in 64K bytes of core (2019),https://t3x.org/lisp64k/index.html,t3x.org,andsoitis,31
+50252008,"Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it,gregoryalexander.com,rmason,28
+50253529,"16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",https://github.com/otya128/winevdm,github.com,doener,22
+50213147,In Context [video],https://www.youtube.com/watch?v=P5eO7BNyJao,youtube.com,adityaathalye,14
+50226808,Virtual and Real World Combine at LAN Party (1998),https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html,latimes.com,npunt,7
