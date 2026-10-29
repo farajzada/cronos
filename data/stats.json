@@ -9,11 +9,11 @@
               "value": "speckx"
             },
             {
-              "count": 50,
+              "count": 51,
               "value": "surprisetalk"
             },
             {
-              "count": 41,
+              "count": 42,
               "value": "ibobev"
             },
             {
@@ -42,10 +42,10 @@
             },
             {
               "count": 17,
-              "value": "matt_d"
+              "value": "gumby"
             }
           ],
-          "unique": 1926
+          "unique": 1936
         },
         "domain": {
           "top": [
@@ -83,17 +83,17 @@
             },
             {
               "count": 18,
-              "value": "blog.cloudflare.com"
+              "value": "blog.google"
             },
             {
-              "count": 17,
-              "value": "bbc.com"
+              "count": 18,
+              "value": "blog.cloudflare.com"
             }
           ],
-          "unique": 1959
+          "unique": 1976
         }
       },
-      "total_records": 2965
+      "total_records": 2995
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3065
+  "total_records": 3095
 }
