@@ -6,11 +6,11 @@
           "top": [
             {
               "count": 53,
-              "value": "speckx"
+              "value": "surprisetalk"
             },
             {
-              "count": 52,
-              "value": "surprisetalk"
+              "count": 53,
+              "value": "speckx"
             },
             {
               "count": 43,
@@ -45,12 +45,12 @@
               "value": "gumby"
             }
           ],
-          "unique": 1956
+          "unique": 1972
         },
         "domain": {
           "top": [
             {
-              "count": 217,
+              "count": 221,
               "value": "github.com"
             },
             {
@@ -70,7 +70,7 @@
               "value": "openai.com"
             },
             {
-              "count": 24,
+              "count": 25,
               "value": "twitter.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "blog.cloudflare.com"
             }
           ],
-          "unique": 1993
+          "unique": 2009
         }
       },
-      "total_records": 3025
+      "total_records": 3055
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3125
+  "total_records": 3155
 }
