@@ -45,12 +45,12 @@
               "value": "gumby"
             }
           ],
-          "unique": 1972
+          "unique": 1987
         },
         "domain": {
           "top": [
             {
-              "count": 221,
+              "count": 223,
               "value": "github.com"
             },
             {
@@ -70,7 +70,7 @@
               "value": "openai.com"
             },
             {
-              "count": 25,
+              "count": 26,
               "value": "twitter.com"
             },
             {
@@ -82,7 +82,7 @@
               "value": "nytimes.com"
             },
             {
-              "count": 18,
+              "count": 19,
               "value": "blog.google"
             },
             {
@@ -90,10 +90,10 @@
               "value": "blog.cloudflare.com"
             }
           ],
-          "unique": 2009
+          "unique": 2029
         }
       },
-      "total_records": 3055
+      "total_records": 3085
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3155
+  "total_records": 3185
 }

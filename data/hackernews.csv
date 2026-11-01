@@ -3054,3 +3054,33 @@ item_id,title,url,domain,author,points
 50277518,Wonderful Weather: Floods and Foreboding in 17th-Century Britain,https://publicdomainreview.org/essay/wonderful-weather/,publicdomainreview.org,Thevet,12
 50291812,Show HN: I rebuilt Kubernetes for ESP32 microcontrollers,https://github.com/arterialist/kube32,github.com,Arterialist,10
 50276355,Trapped in the Technologist Factory,https://ideolalia.com/essays/trapped-in-the-technologist-factory.html,ideolalia.com,luu,9
+50314654,Serbia just elected the world's brainiest parliament,https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament,science.org,input_sh,822
+50319510,HackerTube: YouTube built from videos recommended by HN,https://karpathy.bearblog.dev/hacker-tube/,karpathy.bearblog.dev,karpathy,795
+50319143,TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8,https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf,atlasum.net,oger,366
+50314666,Molly (Signal fork) has not been updated since 3 months and is vulnerable,https://piefed.world/post/1503394,piefed.world,DeepLogin,311
+50314699,Do the math: How we took over ChatGPT accounts,https://www.parameter.ai/labs/we-found-a-gap-at-openai,parameter.ai,armcat,304
+50261253,Simple circuits can create complex behaviors,https://aatishb.com/myriad/lets-build-a-brain/,aatishb.com,aatish,218
+50319358,Anthropic blocks users for anything touching training larger models,https://twitter.com/jiahaoshao1/status/2116475922190922088,twitter.com,pretext,215
+50316100,Jepsen: ParticleDB 1.1.4,https://jepsen.io/analyses/particledb-1.1.4,jepsen.io,aphyr,210
+50314085,Switch Lowering in GCC,https://xoranth.net/gcc-switch/,xoranth.net,signa11,201
+50320963,An Italian farmer found some unknown seeds in his attic and planted them,https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/,smithsonianmag.com,ecares,185
+50318720,"It's the memory latency, stupid",https://pivotlake.io/blog/its-the-memory-latency-stupid/,pivotlake.io,ntur1337,138
+50320995,Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard,https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve,github.com,guregodevo,98
+50319061,The Duty of a Scholar,https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html,daemonology.net,gslin,91
+50271052,Reading and writing are less symmetric than you (probably) think,https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/,fgiesen.wordpress.com,luu,85
+50319563,"Surviving ""The Graduate""",https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate,newyorker.com,samizdis,67
+50315782,Show HN: A language model that lives in a boot sector,https://github.com/kerlenton/bootgpt,github.com,kerlenton,61
+50318376,William Nordhaus has died,https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale,news.yale.edu,ilreb,60
+50319169,Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly),https://epoyraz.github.io/nes-contra-us/,epoyraz.github.io,tevlon,58
+50297068,Much Ado About None: Sentinel Values in Python,https://florianwilhelm.info/2026/10/sentinel_values/,florianwilhelm.info,sebg,56
+50321048,Altoids Project,https://uvdn7.github.io/altoids-project/,uvdn7.github.io,uvdn7,53
+50321130,When electric cars were for women,https://spectrum.ieee.org/early-electric-vehicles,spectrum.ieee.org,dverlaeckt80,45
+50311045,Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020,https://maketecheasier.com/arecibo-zinc-creep-collapse/,maketecheasier.com,ohjeez,39
+50313051,First response from the Project Suncatcher prototype satellite,https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/,blog.google,praccu,38
+50319110,Electrification Could Cut Global Energy Use in Half,https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/,fullycharged.show,toomuchtodo,35
+50320599,AI text watermarking and quality loss,https://blog.keyvan.net/p/ai-text-watermarking-and-quality,blog.keyvan.net,danielfoster,25
+50301723,Sculpture re-creates odd optical effects of famed Lycurgus Cup,https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/,arstechnica.com,dverlaeckt80,21
+50321522,"Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",https://bbrouter.com/bbrouter/ben-eater-sap-1,bbrouter.com,creack,9
+50321436,Constructing a Quine from Kleene's Second Recursion Theorem,https://emarzion.github.io/KSRT/,emarzion.github.io,mkckto,7
+50302686,Decode kernel panic from QR Code photo,https://gist.github.com/skorotkiewicz/c59e591c26661cb52b06afc42d8ac546,gist.github.com,modinfo,7
+50284789,"Edgar Allan Poe, Quintessential American Writer",https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html,slate.com,samclemens,3
