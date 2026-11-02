@@ -25,7 +25,7 @@
               "value": "zdw"
             },
             {
-              "count": 24,
+              "count": 25,
               "value": "gmays"
             },
             {
@@ -45,20 +45,20 @@
               "value": "gumby"
             }
           ],
-          "unique": 1987
+          "unique": 1999
         },
         "domain": {
           "top": [
             {
-              "count": 223,
+              "count": 225,
               "value": "github.com"
             },
             {
-              "count": 44,
+              "count": 45,
               "value": "arxiv.org"
             },
             {
-              "count": 37,
+              "count": 38,
               "value": "news.ycombinator.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "blog.cloudflare.com"
             }
           ],
-          "unique": 2029
+          "unique": 2045
         }
       },
-      "total_records": 3085
+      "total_records": 3114
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3185
+  "total_records": 3214
 }
