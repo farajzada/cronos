@@ -3143,3 +3143,33 @@ item_id,title,url,domain,author,points
 50347464,Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities,https://arxiv.org/abs/2608.25820,arxiv.org,teleforce,7
 50347574,"Own Your HackerTube,an AI Curator Inspired by Karpathy's HackerTube",https://ownhackertube.cc/,ownhackertube.cc,RileyMorgan093,3
 50339827,Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus),https://bitmovin.com/careers/8660599002/,bitmovin.com,slederer,0
+50354960,Postman silently auto-installs AI plugins and attempts to share all API data,https://github.com/postmanlabs/postman-app-support/issues/14370,github.com,sidgarimella,1085
+50351111,The 'Astra can read and write weights to improve Qwen' post is misleading,https://honnibal.dev/blog/astra-read-write-misleading,honnibal.dev,syllogism,923
+50339288,Jailbreaking my car's navigation system just so I can change the time,https://blog.nns.ee/2026/11/02/renault-hack/,blog.nns.ee,xx_ns,649
+50355251,"Qwen 3.8 27B on my laptop can interpret model weights, too",https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/,simonwillison.net,theanonymousone,516
+50354358,"Stringman, an $800 open-source room scale gripper robot",https://neufangled.com/,neufangled.com,nharada,434
+50336918,Fujifilm to boost tape production 5x as AI fuels archiving demand,https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/,arstechnica.com,bookofjoe,403
+50358562,Safari introduces Adaptive Dark Mode in 27.3,https://webkit.org/blog/18541/introducing-adaptive-dark-mode/,webkit.org,paddingtone,330
+50358582,The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer,https://arxiv.org/abs/2605.29713,arxiv.org,ibobev,261
+50346755,Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels,https://hackertv.org,hackertv.org,dsalzman,218
+50358702,The Internals of PostgreSQL,https://www.interdb.jp/pg/index.html,interdb.jp,ibobev,161
+50333131,Japan's Jimi 'Mundane' Halloween Costumes of 2026,https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/,spoon-tamago.com,zdw,132
+50342119,"Writing seen in PHerc. 306B, for the first time in 2000 years",https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the,scrollprize.substack.com,benbreen,118
+50334363,Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables (2015),https://www.mattkeeter.com/projects/antimony/3/,mattkeeter.com,pmkary,107
+50355767,How I use AI (Oct 2026),https://ben.stolovitz.com/posts/how-use-ai-oct-2026/,ben.stolovitz.com,citelao,102
+50322603,We're training a Figma-fluent editing model,https://www.figma.com/blog/training-a-figma-fluent-editing-model/,figma.com,gmays,84
+50358314,Show HN: Kairos – Open-source risk and fraud decisioning platform,https://github.com/finic-ai/kairos,github.com,ayanb9440,70
+50360164,C++26 Disapproved,https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/,andreasfertig.com,thatxliner,58
+50356913,Introduction to Programming in ATS,https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html,ats-lang.sourceforge.net,ibobev,58
+50338334,Curiosity Traps,https://www.autodidacts.io/curiosity-traps/,autodidacts.io,surprisetalk,54
+50357457,Pratt parsing is a black box,https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/,vinipsmaker.github.io,ibobev,43
+50352641,There is no posttraining data commons,https://openathena.ai/blog/there-is-no-posttraining-data-commons/,openathena.ai,lukasschwab,38
+50337980,Killing what can't be handled – putting a spaghetti demon to eternal rest,https://themaister.net/blog/2026/10/29/killing-what-cant-be-handled-putting-a-spaghetti-demon-to-eternal-rest/,themaister.net,ibobev,36
+50342931,Union Types and Option Types (2025),https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html,tibleiz.net,g0xA52A2A,29
+50360573,Giant canyon on Mars is still tectonically active,https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today,lamont.columbia.edu,gmays,24
+50351463,Microsoft fixes a Windows 11 annoyance as PC revenue declines,https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/,arstechnica.com,rbanffy,21
+50351298,Why Clip Art Was Everywhere Until It Wasn't [video],https://www.youtube.com/watch?v=XfLlpxE6AYM,youtube.com,surprisetalk,9
+50361107,"Arrows to arrows, categories to queries (2025)",https://reasonablypolymorphic.com/blog/arrows-to-arrows/,reasonablypolymorphic.com,firstbase,6
+50358352,"Show HN: Uncracked City, detective game where you question LLM suspects that lie",https://uncracked.city,uncracked.city,passkey1510,5
+50357973,The Pnyx and the Agora (2016),https://www.readingdesign.org/the-pnyx-and-the-agora,readingdesign.org,apophatic,4
+50354582,Ashby (YC W19) Is Hiring EMs,https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn,ashbyhq.com,abhikp,0

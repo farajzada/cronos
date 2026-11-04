@@ -5,7 +5,7 @@
         "author": {
           "top": [
             {
-              "count": 53,
+              "count": 55,
               "value": "surprisetalk"
             },
             {
@@ -13,31 +13,31 @@
               "value": "speckx"
             },
             {
-              "count": 44,
+              "count": 49,
               "value": "ibobev"
+            },
+            {
+              "count": 32,
+              "value": "zdw"
             },
             {
               "count": 32,
               "value": "tosh"
             },
             {
-              "count": 31,
-              "value": "zdw"
-            },
-            {
-              "count": 26,
+              "count": 28,
               "value": "gmays"
             },
             {
-              "count": 23,
+              "count": 24,
               "value": "rbanffy"
             },
             {
-              "count": 23,
+              "count": 24,
               "value": "theanonymousone"
             },
             {
-              "count": 19,
+              "count": 20,
               "value": "bookofjoe"
             },
             {
@@ -45,16 +45,16 @@
               "value": "gumby"
             }
           ],
-          "unique": 2014
+          "unique": 2027
         },
         "domain": {
           "top": [
             {
-              "count": 228,
+              "count": 230,
               "value": "github.com"
             },
             {
-              "count": 46,
+              "count": 47,
               "value": "arxiv.org"
             },
             {
@@ -62,7 +62,7 @@
               "value": "news.ycombinator.com"
             },
             {
-              "count": 33,
+              "count": 34,
               "value": "youtube.com"
             },
             {
@@ -87,13 +87,13 @@
             },
             {
               "count": 19,
-              "value": "blog.cloudflare.com"
+              "value": "arstechnica.com"
             }
           ],
-          "unique": 2063
+          "unique": 2082
         }
       },
-      "total_records": 3144
+      "total_records": 3174
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3244
+  "total_records": 3274
 }
