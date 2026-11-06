@@ -5,7 +5,7 @@
         "author": {
           "top": [
             {
-              "count": 55,
+              "count": 56,
               "value": "surprisetalk"
             },
             {
@@ -25,7 +25,7 @@
               "value": "tosh"
             },
             {
-              "count": 29,
+              "count": 31,
               "value": "gmays"
             },
             {
@@ -45,12 +45,12 @@
               "value": "gumby"
             }
           ],
-          "unique": 2043
+          "unique": 2061
         },
         "domain": {
           "top": [
             {
-              "count": 231,
+              "count": 236,
               "value": "github.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "blog.google"
             }
           ],
-          "unique": 2095
+          "unique": 2112
         }
       },
-      "total_records": 3204
+      "total_records": 3234
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3304
+  "total_records": 3334
 }

@@ -3203,3 +3203,33 @@ item_id,title,url,domain,author,points
 50371090,Show HN: Gauge – Open-Source CLI to recursively improve your docs,https://github.com/gauge-sh/gauge-cli,github.com,0x63_Problems,24
 50342219,PageScribe: Handwriting and offline dictionary audio for KOReader,https://aspireai.kiranadimatyam.com/builds/pagescribe/,aspireai.kiranadimatyam.com,seshakiran,16
 50363353,11 Nanoseconds per Word: Over-Optimizing Anagrams,https://wiredream.com/anagram-fun/,wiredream.com,ColinWright,5
+50378228,sshole,https://sshhole.com,sshhole.com,josemrb,2410
+50385272,Claude Code sends your email address to websites,https://github.com/anthropics/claude-code/issues/107757,github.com,motoroco,667
+50379704,Alpine Linux Security Advisory: OpenSSH-server password authentication bypass,https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/,alpinelinux.org,pantalaimon,611
+50383740,Search for everyone,https://kagi.com/changelog#11820,kagi.com,elashri,588
+50383739,Goodbye from Salon,https://www.salon.com/2026/11/05/goodbye-from-salon/,salon.com,mkeeter,487
+50380810,Motorola Signature 27 with GrapheneOS support,https://motorolanews.com/motorola-signature-27-2/,motorolanews.com,monneyboi,414
+50384233,MS Paint Remote Code Execution Vulnerability,https://www.cve.org/CVERecord?id=CVE-2026-83844,cve.org,kuberwastaken,370
+50378942,I wish tech companies knew more about me,https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me,rakhim.exotext.com,freetonik,332
+50376313,GPT-6 Astra covertly underperforms on safety research,https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/,alignment.openai.com,lucrbvi,312
+50378571,Download your favourite YouTube videos,https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/,criminallyvulgar.dev,surprisetalk,294
+50381383,Window Sweaters,https://github.com/saragordic/window-sweaters,github.com,nickswalker,270
+50379249,MCP Explained,https://mcp-explained.com/,mcp-explained.com,rwilinski,260
+50377976,OpenSSH 10.6p2 Critical workaround for alpine without PAM,https://www.openssh.org/releasenotes.html#10.6p2,openssh.org,selckin,246
+50383057,The Hackintosh Reborn,https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/,naut.ca,rubatuga,238
+50378508,Obscure audio codec is a perfect fit for the N64,https://phoboslab.org/log/2026/11/n64-ulc-codec,phoboslab.org,frostbyte7,207
+50379576,"September in Servo: <progress>, rounded rectangles, and more",https://servo.org/blog/2026/11/05/september-in-servo/,servo.org,iamnothere,200
+50368208,Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights),https://www.linum.ai/field-notes/pjit-21k,linum.ai,schopra909,173
+50385870,Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue,https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html,finance.yahoo.com,randycupertino,165
+50386338,Inkling 2 Small,https://thinkingmachines.ai/news/inkling-2-small/,thinkingmachines.ai,Philpax,100
+50381687,Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3,https://github.com/rivet-dev/rivet,github.com,NathanFlurry,81
+50383294,Introducing Pangram Image 1.0,https://www.pangram.com/blog/introducing-pangram-image-1-0,pangram.com,gmays,76
+50380979,"The Stacks Project, Formalized in Lean",https://axiommath.ai/research/the-stacks-project-formalized/,axiommath.ai,namanbnsl,74
+50378643,"Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",https://firenook.dev/,firenook.dev,sanjevirau,60
+50386104,Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data,https://www.fgc.org.br/comunicado,fgc.org.br,doodlesdev,27
+50386789,MoofTCP – A modern replacement for MacTCP on 68k Macs,https://github.com/matthewmrichter/mooftcp,github.com,marcusbasant,18
+50387623,Claude was faster and cheaper. We took the scenic route anyway,https://blog.grainulation.org/verify-then-vote/,blog.grainulation.org,aid-ninja,10
+50387738,Nvidia Kubernetes Engine (NVKE),https://github.com/dsx-ai-factory/nvke,github.com,gkapur,10
+50387546,Closed AI models dominate the price-performance frontier,https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/,village.dev,kevin_hu,10
+50387470,Castration extends life span in mice,https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests,science.org,gmays,7
+50381512,Bild AI (YC W25) Is Hiring Founding Product Engineers,https://www.ycombinator.com/companies/bild-ai/jobs,ycombinator.com,rooppal,0
