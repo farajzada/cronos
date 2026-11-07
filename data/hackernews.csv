@@ -3233,3 +3233,33 @@ item_id,title,url,domain,author,points
 50387546,Closed AI models dominate the price-performance frontier,https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/,village.dev,kevin_hu,10
 50387470,Castration extends life span in mice,https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests,science.org,gmays,7
 50381512,Bild AI (YC W25) Is Hiring Founding Product Engineers,https://www.ycombinator.com/companies/bild-ai/jobs,ycombinator.com,rooppal,0
+50391456,Tesla to wind down Cybertruck production,https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817,nbcnews.com,PLenz,886
+50397429,A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost,https://hightouch.com/blog/llm-judges-identity-resolution,hightouch.com,theanomaly,364
+50388122,From Linux to Wikipedia: How Volunteers Build the Internet,https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/,thereader.mitpress.mit.edu,jonbaer,305
+50392118,Gemini Omni 1.2 Flash,https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/,blog.google,thisisauserid,303
+50399933,Libghostty 1.0,https://mitchellh.com/writing/libghostty-1-0,mitchellh.com,mfiguiere,295
+50388001,US FAA says it will phase out floppy disks from air traffic control by 2028,https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/,reuters.com,ChrisArchitect,291
+50394906,Anthropic IPO buyers see valuation as low as $1.1T,https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout,bloomberg.com,dgellow,251
+50397994,AI is dramatically accelerating AI research,https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai,planned-obsolescence.org,yurivish,223
+50394855,First steps in bare-metal programming using UEFI,https://kevinboone.me/efitest_index.html,kevinboone.me,LaSombra,200
+50397219,Firecracker VM Escape: PwnEscape Part 2,https://pwn.ai/blog/firecracker-escape,pwn.ai,SerCe,185
+50399657,Sodium-ion batteries approach cost parity with LFP,https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/,pv-magazine.com,doener,143
+50395450,Devvm.dev: One VM for every project,https://devvm.dev/,devvm.dev,luispa,126
+50389570,Chomsky and the two cultures of statistical learning (2011),https://www.norvig.com/chomsky.html,norvig.com,andsoitis,105
+50397017,Restaurant Delivery Payment-Skimming Campaign,https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming,infohawk.com,fiej,100
+50395919,Memorilla: Latent Semantic Memory for LLMs,https://arxiv.org/abs/2610.21375,arxiv.org,handfuloflight,92
+50399569,ChatGPT silently passes data between connectors and the bounty wants an ID card,https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053,community.openai.com,Aldipower,83
+50397099,GitHub's new Git storage architecture,https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/,github.blog,DAlperin,81
+50395869,Size-It-Up (Game),https://magnitudle.com/size-it-up,magnitudle.com,whoishiding,74
+50396834,Replit rebuilt its sandbox engine with microVMs,https://frontier.replit.com/sandbox-engine-microvms-part-1/,frontier.replit.com,gaplong,73
+50392348,How octopuses squeeze through too small gaps,https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps,journals.biologists.com,bookofjoe,55
+50354097,Can GROUP BY still be optimized after all these years?,https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/,pivotlake.io,ntur1337,51
+50400597,I Toured Unitree's Factory. I'm More Bullish on the West,https://josef.cn/blog/unitree,josef.cn,josefchen,46
+50379221,Show HN: Waymark – A workflow engine that compiles jobs instead of replaying,https://github.com/piercefreeman/waymark,github.com,icyfox,46
+50396108,40C3 halfnarp – Submit talk preferences to aid scheduling,https://halfnarp.events.ccc.de,halfnarp.events.ccc.de,hanemile,46
+50397711,Google has acquired Crusoe's data center site in southeast Wyoming,https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update,crusoe.ai,rexbee,46
+50399991,RealPage rent-pricing case wraps with nearly $360M to renters,https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/,multifamilydive.com,raybb,44
+50360810,Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE,https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/,smithsonianmag.com,derbOac,36
+50356722,Panthera: Ampere's CPU Performance Model,https://github.com/AmpereComputing/panthera,github.com,mshockwave,14
+50355009,Show HN: Tmux-restore saves tmux windows and agent sessions across reboots,https://github.com/andrewboldi/tmux-restore,github.com,boldi,12
+50395043,UpCodes (YC S17) is hiring SDR's to sell AI compliance software,https://up.codes/careers?utm_source=HN,up.codes,Old_Thrashbarg,0
