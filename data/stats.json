@@ -25,11 +25,11 @@
               "value": "tosh"
             },
             {
-              "count": 31,
+              "count": 32,
               "value": "gmays"
             },
             {
-              "count": 25,
+              "count": 26,
               "value": "rbanffy"
             },
             {
@@ -41,16 +41,16 @@
               "value": "bookofjoe"
             },
             {
-              "count": 17,
+              "count": 20,
               "value": "andsoitis"
             }
           ],
-          "unique": 2076
+          "unique": 2091
         },
         "domain": {
           "top": [
             {
-              "count": 239,
+              "count": 240,
               "value": "github.com"
             },
             {
@@ -78,22 +78,22 @@
               "value": "anthropic.com"
             },
             {
-              "count": 20,
-              "value": "blog.google"
+              "count": 21,
+              "value": "arstechnica.com"
             },
             {
               "count": 20,
-              "value": "arstechnica.com"
+              "value": "blog.google"
             },
             {
               "count": 19,
               "value": "nytimes.com"
             }
           ],
-          "unique": 2127
+          "unique": 2147
         }
       },
-      "total_records": 3264
+      "total_records": 3294
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3364
+  "total_records": 3394
 }
