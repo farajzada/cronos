@@ -17,7 +17,7 @@
               "value": "ibobev"
             },
             {
-              "count": 32,
+              "count": 33,
               "value": "zdw"
             },
             {
@@ -37,20 +37,20 @@
               "value": "theanonymousone"
             },
             {
-              "count": 21,
+              "count": 22,
               "value": "bookofjoe"
             },
             {
-              "count": 20,
+              "count": 21,
               "value": "andsoitis"
             }
           ],
-          "unique": 2091
+          "unique": 2106
         },
         "domain": {
           "top": [
             {
-              "count": 240,
+              "count": 241,
               "value": "github.com"
             },
             {
@@ -58,7 +58,7 @@
               "value": "arxiv.org"
             },
             {
-              "count": 44,
+              "count": 46,
               "value": "news.ycombinator.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "nytimes.com"
             }
           ],
-          "unique": 2147
+          "unique": 2169
         }
       },
-      "total_records": 3294
+      "total_records": 3323
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3394
+  "total_records": 3423
 }
