@@ -9,7 +9,7 @@
               "value": "surprisetalk"
             },
             {
-              "count": 55,
+              "count": 56,
               "value": "speckx"
             },
             {
@@ -21,11 +21,11 @@
               "value": "zdw"
             },
             {
-              "count": 32,
+              "count": 33,
               "value": "tosh"
             },
             {
-              "count": 32,
+              "count": 33,
               "value": "gmays"
             },
             {
@@ -45,12 +45,12 @@
               "value": "andsoitis"
             }
           ],
-          "unique": 2128
+          "unique": 2144
         },
         "domain": {
           "top": [
             {
-              "count": 243,
+              "count": 245,
               "value": "github.com"
             },
             {
@@ -86,14 +86,14 @@
               "value": "arstechnica.com"
             },
             {
-              "count": 19,
+              "count": 20,
               "value": "nytimes.com"
             }
           ],
-          "unique": 2187
+          "unique": 2201
         }
       },
-      "total_records": 3353
+      "total_records": 3383
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3453
+  "total_records": 3483
 }
