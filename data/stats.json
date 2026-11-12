@@ -45,12 +45,12 @@
               "value": "andsoitis"
             }
           ],
-          "unique": 2144
+          "unique": 2164
         },
         "domain": {
           "top": [
             {
-              "count": 245,
+              "count": 249,
               "value": "github.com"
             },
             {
@@ -58,7 +58,7 @@
               "value": "arxiv.org"
             },
             {
-              "count": 46,
+              "count": 47,
               "value": "news.ycombinator.com"
             },
             {
@@ -75,25 +75,25 @@
             },
             {
               "count": 22,
+              "value": "blog.google"
+            },
+            {
+              "count": 22,
               "value": "anthropic.com"
             },
             {
               "count": 21,
-              "value": "blog.google"
+              "value": "nytimes.com"
             },
             {
               "count": 21,
               "value": "arstechnica.com"
-            },
-            {
-              "count": 20,
-              "value": "nytimes.com"
             }
           ],
-          "unique": 2201
+          "unique": 2216
         }
       },
-      "total_records": 3383
+      "total_records": 3413
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3483
+  "total_records": 3513
 }
