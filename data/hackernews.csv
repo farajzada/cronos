@@ -3412,3 +3412,33 @@ item_id,title,url,domain,author,points
 50412715,How to make a CNC plasma cutter with high-frequency start,https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html,incoherency.co.uk,edward,22
 50435712,Stingray Fish Laser,https://www.stingray.no/en/technology/,stingray.no,tptacek,12
 50462375,Lean Grimoire,https://terrytao.wordpress.com/2026/11/11/lean-grimoire/,terrytao.wordpress.com,smilelamp,12
+50467087,Jensen Huang resigns,https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f,apnews.com,lldb,3116
+50465829,Anthropic IPO,https://ipo.anthropic.com/us/,ipo.anthropic.com,josephljohnston,847
+50471731,Service degradation on Microsoft 365,https://status.cloud.microsoft/,status.cloud.microsoft,dkpk,589
+50472038,Rust 1.100,https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/,blog.rust-lang.org,mbStavola,494
+50471431,Gemini 4 Hydrogen,https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/,blog.google,dvaplima,482
+50470488,"Show HN: My $300 embroidery machine needed a subscription, so I built my own app",https://github.com/simpsoka/zigzag,github.com,simpsoka,381
+50472260,Gemini 4 Hydrogen and Orchestrator,https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/,antigravity.google,jonbaer,337
+50468888,I'm making LLMs work on small and old devices,https://github.com/hyperionaidev/smolmaxxing/,github.com,mrashad74,294
+50467618,Abandoned Quake 4 expansion finished by modders and now playable,https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64,moddb.com,klaussilveira,248
+50472490,Dwarf planet candidate appears which takes roughly 280 years to orbit our sun,https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/,smithsonianmag.com,cybermango,220
+50467460,Talking Zen 6 with Mike Clark at AMD In-Depth,https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at,chipsandcheese.com,dverlaeckt80,202
+50474883,Chinese frontier AI models carry the fingerprint of export-controlled GPUs,https://unemploymentlabs.com/checkpoint-forensics,unemploymentlabs.com,firloop,201
+50467297,Our software engineering interviews are changing a little,https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/,blog.janestreet.com,maitland,182
+50477231,Nvidia employees petition to bring back Jensen Huang,https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/,wired.com,lavendermon,161
+50471761,Turning a 22-year-old Postgres type-confusion primitive into RCE,https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/,mehmetince.net,ozirus,155
+50474361,Foundation Models framework,https://developer.apple.com/foundation-models-framework/,developer.apple.com,kermatt,154
+50473190,"Former Nvidia CEO Huang had a relationship with a second employee, sources say",https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/,reuters.com,jbredeche,133
+50458849,Relax: JIT compiler for Rust to reduce build times,https://makepad.github.io/relax/,makepad.github.io,adamnemecek,130
+50474311,AI is turning Apple's app review process into a nightmare for synth developers,https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html,synthanatomy.com,anigbrowl,122
+50468944,ExcalidrawZ: Local Native Excalidraw on macOS/iOS,https://github.com/chocoford/ExcalidrawZ,github.com,Qision,113
+50475713,Edge0-145B: Frontier AI Capabilities on Your Own Computer,https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer,edge0.ai,sroussey,104
+50471650,"Show HN: AgentRun – open-source, Self-improving Managed Agents",https://github.com/Parcha-ai/agentrun/blob/main/README.md,github.com,miguelrios,84
+50477331,Africa's solar revolution is vast and speedy,https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy,economist.com,andsoitis,83
+50466410,Adapting CPython for Yk,https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html,tratt.net,frostbyte7,55
+50471281,Show HN: Kapso – Iterative learning from enterprise data,https://news.ycombinator.com/item?id=50471281,news.ycombinator.com,alirezamshi,40
+50439283,Safety in Algae Home Experiments,https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments,chillphysicsenjoyer.substack.com,surprisetalk,31
+50460263,"Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",https://github.com/jjba23/sift,github.com,jjba23,24
+50477155,NYC Council passes ban on 'surveillance pricing',https://gothamist.com/news/nyc-council-passes-ban-on-surveillance-pricing-that-relies-on-personal-data,gothamist.com,jonbaer,22
+50473888,Announcement: Conductor Is Back,https://twitter.com/charlieholtz/status/2120973052024598620,twitter.com,jahala,20
+50454700,Before Pixels: Speed-Minder,https://unsung.aresluna.org/before-pixels-speed-minder/,unsung.aresluna.org,surprisetalk,20

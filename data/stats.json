@@ -5,7 +5,7 @@
         "author": {
           "top": [
             {
-              "count": 57,
+              "count": 59,
               "value": "surprisetalk"
             },
             {
@@ -41,25 +41,25 @@
               "value": "bookofjoe"
             },
             {
-              "count": 21,
+              "count": 22,
               "value": "andsoitis"
             }
           ],
-          "unique": 2164
+          "unique": 2180
         },
         "domain": {
           "top": [
             {
-              "count": 249,
+              "count": 254,
               "value": "github.com"
             },
             {
               "count": 48,
-              "value": "arxiv.org"
+              "value": "news.ycombinator.com"
             },
             {
-              "count": 47,
-              "value": "news.ycombinator.com"
+              "count": 48,
+              "value": "arxiv.org"
             },
             {
               "count": 34,
@@ -70,11 +70,11 @@
               "value": "openai.com"
             },
             {
-              "count": 27,
+              "count": 28,
               "value": "twitter.com"
             },
             {
-              "count": 22,
+              "count": 23,
               "value": "blog.google"
             },
             {
@@ -90,10 +90,10 @@
               "value": "arstechnica.com"
             }
           ],
-          "unique": 2216
+          "unique": 2228
         }
       },
-      "total_records": 3413
+      "total_records": 3443
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3513
+  "total_records": 3543
 }
