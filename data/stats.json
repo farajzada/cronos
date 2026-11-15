@@ -29,7 +29,7 @@
               "value": "tosh"
             },
             {
-              "count": 26,
+              "count": 27,
               "value": "rbanffy"
             },
             {
@@ -45,12 +45,12 @@
               "value": "andsoitis"
             }
           ],
-          "unique": 2196
+          "unique": 2209
         },
         "domain": {
           "top": [
             {
-              "count": 255,
+              "count": 256,
               "value": "github.com"
             },
             {
@@ -82,18 +82,18 @@
               "value": "anthropic.com"
             },
             {
-              "count": 21,
-              "value": "nytimes.com"
+              "count": 22,
+              "value": "arstechnica.com"
             },
             {
               "count": 21,
-              "value": "arstechnica.com"
+              "value": "nytimes.com"
             }
           ],
-          "unique": 2249
+          "unique": 2263
         }
       },
-      "total_records": 3473
+      "total_records": 3503
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3573
+  "total_records": 3603
 }
