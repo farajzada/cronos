@@ -3532,3 +3532,33 @@ item_id,title,url,domain,author,points
 50484998,Do we still have to denormalize? Have your schema and search it too,https://www.paradedb.com/blog/joins,paradedb.com,philippemnoel,18
 50512933,Agentic AI Designs an Analog Synthesizer,https://cpldcpu.github.io/2026/11/14/touchsynth/,cpldcpu.github.io,oidar,5
 50485275,Artificial Intelligence for the Z80,https://www.dfsantos.com/en/libro-ia-z80,dfsantos.com,AlexeyBrin,5
+50522980,Carnegie Mellon is putting computer science courses on YouTube for free,https://www.cs.cmu.edu/learn/,cs.cmu.edu,pcompeau,1048
+50521045,Technical issue at JPMorgan Chase triggers online banking delays for US banks,https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda,apnews.com,samk3nny,742
+50523601,BugMeNot has closed,https://www.bugmenot.com/,bugmenot.com,lode,421
+50524736,Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use,https://xusheng.dev/posts/windows-coding-agent-telemetry/,xusheng.dev,cwaffles,400
+50519354,"Frame – 31.5"" color ePaper display",https://trmnl.com/blog/introducing-frame,trmnl.com,geerlingguy,352
+50519744,Jiff 1.0: A datetime library for Rust,https://burntsushi.net/jiff/,burntsushi.net,burntsushi,349
+50517321,Microsoft blames monster email outage on software defect introduced in July fix,https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026,theregister.com,Bender,261
+50520182,Grazing sheep in fields with solar arrays,https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains,news.cornell.edu,PaulHoule,248
+50522563,Rust changed me as a developer,https://blog.startifact.com/posts/how-rust-changed-me/,blog.startifact.com,speckx,225
+50524165,"United Airlines experiencing a widespread system outage, airline says",https://www.cnn.com/2026/11/16/us/united-airlines-outage,cnn.com,bearsyankees,220
+50524767,"Optimizely compromised, served malware on Zoom, GitLab",https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/,blog.report-uri.com,kristjansson,210
+50523459,OpenCode Browse,https://opencode.ai/product/browse,opencode.ai,mfiguiere,181
+50522643,Chemistry is Actually Geometry,https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry,chillphysicsenjoyer.substack.com,sebg,172
+50515151,Squircles,https://linebender.org/wiki/curves/squircle/,linebender.org,raphlinus,158
+50523291,My Quest to push native Three.js quality match AAA Game Engines,https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs,ben3d.ca,bhouston,118
+50523025,"Comcast's ""fiber-powered Wi-Fi"" is cable, AT&T says in false advertising case",https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/,arstechnica.com,jaredwiener,95
+50524225,"How to Break into Security, Ptacek Edition (2012)",https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/,krebsonsecurity.com,ronfriedhaber,94
+50497621,Formal Verification Is Not Verifiable,https://alperenkeles.com/posts/formal-verification-is-not-verifiable/,alperenkeles.com,zdw,92
+50525658,Pentagon fails ninth straight audit despite progress in organizing finances,https://www.reuters.com/business/aerospace-defense/pentagon-fails-ninth-straight-audit-despite-progress-organizing-finances-2026-11-16/,reuters.com,petethomas,86
+50523784,Spamhaus new email sender requirements in November,https://www.spamhaus.org/sender-guidelines/,spamhaus.org,computer23,84
+50526152,Running coding agents without handing them my credentials,https://blog.antonio.cx/running-agents-with-lend,blog.antonio.cx,antoniomika,75
+50526560,If an App Asks for Full Disk Access or System and App Protection Override,https://support.apple.com/en-us/149699,support.apple.com,jshier,61
+50516689,Do Repeat Yourself,https://arcentry.com/blog/do-repeat-yourself/,arcentry.com,max_sendfeld,56
+50525575,Why 3dfx 1 cards had such a washed out color output?,https://twitter.com/id_aa_carmack/status/2122478083319992513,twitter.com,mfiguiere,55
+50525052,Show HN: Sutra-OS – A self-hosted ontology platform,https://github.com/0nelight/sutra-os,github.com,0nelight,46
+50522776,Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force,https://news.ycombinator.com/item?id=50522776,news.ycombinator.com,arshpatankar,35
+50514680,Atomic Nuked Veteran,https://www.armscontrolwonk.com/archive/201309/atomic-nuked-veteran/,armscontrolwonk.com,hubraumhugo,33
+50510969,Why did modems have speakers? (2019),https://retrocomputing.stackexchange.com/questions/11765,retrocomputing.stackexchange.com,Skyfall106,21
+50515035,Test/verification technique effectiveness with Astra,https://danluu.com/astra-testing/,danluu.com,luu,4
+50527311,Unkernel: Linux kernel in WASM,https://unkernel.dev,unkernel.dev,dvrp,3
