@@ -13,11 +13,11 @@
               "value": "speckx"
             },
             {
-              "count": 50,
+              "count": 51,
               "value": "ibobev"
             },
             {
-              "count": 36,
+              "count": 37,
               "value": "gmays"
             },
             {
@@ -45,20 +45,20 @@
               "value": "andsoitis"
             }
           ],
-          "unique": 2250
+          "unique": 2272
         },
         "domain": {
           "top": [
             {
-              "count": 260,
+              "count": 262,
               "value": "github.com"
             },
             {
-              "count": 49,
+              "count": 50,
               "value": "news.ycombinator.com"
             },
             {
-              "count": 49,
+              "count": 50,
               "value": "arxiv.org"
             },
             {
@@ -66,7 +66,7 @@
               "value": "youtube.com"
             },
             {
-              "count": 32,
+              "count": 33,
               "value": "openai.com"
             },
             {
@@ -74,12 +74,12 @@
               "value": "twitter.com"
             },
             {
-              "count": 23,
-              "value": "nytimes.com"
+              "count": 25,
+              "value": "blog.google"
             },
             {
               "count": 23,
-              "value": "blog.google"
+              "value": "nytimes.com"
             },
             {
               "count": 23,
@@ -90,10 +90,10 @@
               "value": "anthropic.com"
             }
           ],
-          "unique": 2307
+          "unique": 2323
         }
       },
-      "total_records": 3593
+      "total_records": 3623
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3693
+  "total_records": 3723
 }
