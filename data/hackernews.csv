@@ -3622,3 +3622,33 @@ item_id,title,url,domain,author,points
 50554908,Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction,https://arxiv.org/abs/2607.29378,arxiv.org,dalmo3,25
 50554941,FailTrace – Reproduce a failed GitHub Actions run locally from its URL,https://github.com/Ri4dH/failtrace,github.com,ri4dh,14
 50542441,Mosquitoes are Ladakh's latest tourists,https://ruralindiaonline.org/article/mosquitoes-are-ladakh-s-latest-tourists,ruralindiaonline.org,akbarnama,11
+50562754,Anthropic’s Nasdaq debut,https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/,reuters.com,wslh,1004
+50519231,Garage Door Spam,https://blog.harrison.page/garage-door-spam/,blog.harrison.page,harrisonpage,790
+50558533,How the European Commission rolled out Matrix to more than 40k staff,https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/,element.io,liotier,677
+50563066,Pancreatic cancer halted by virus injection in three patients,https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/,newscientist.com,cybermango,673
+50562113,UK government forced to admit it issued Apple a secret encryption order,https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/,macanorak.com,Terretta,567
+50563148,Claude solves two open problems in the physics of black holes,https://www.anthropic.com/research/claude-black-hole-physics,anthropic.com,cybermango,433
+50558906,Someone reported java4shell bug in September 2026,https://github.com/openjdk/jdk/pull/32781,github.com,notmine1337,392
+50557661,"Do not buy RAM, compress",https://curiousbits.nl/blog/do-not-buy-ram-compress/,curiousbits.nl,Ecno92,271
+50568130,Gemini 4 Neon is the new #1 on the Models Engineering Index,https://git-aarvin.github.io/mei/,git-aarvin.github.io,hn-aarvin,271
+50547048,Nintendo takes Picofly firmware down from GitHub [video],https://www.youtube.com/watch?v=-TLCGUpoD6c,youtube.com,cowlevel,267
+50559719,Making 8-page foldable zines from a single A4 sheet in the browser,https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/,krthr.co,krthr,264
+50564159,The 98% Slot Machine: How Paid Advertising Became an Extraction Tax,https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine,globalcommercegraph.com,dev1one1,233
+50536950,An Oregon library ditched Dewey Decimal and got people excited about books again,https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system,fastcompany.com,bookofjoe,213
+50561515,Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest,https://cornholenews.news,cornholenews.news,cornholemedia,201
+50528119,How to CAD Almost Anything,https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/,ocw.mit.edu,o4c,177
+50568082,"Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87,wsj.com,mikhael,140
+50567209,Synology Security Advisory,https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21,synology.com,choult,120
+50562320,Launch HN: Onlook (YC W25) – An open-source developer tool for designers,https://github.com/onlook-dev/onlook/,github.com,D_R_Farrell,96
+50564366,Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video],https://www.youtube.com/watch?v=lwfewYL7X0o,youtube.com,sandslash,90
+50566261,Rebuilding my local voice assistant pipeline,https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline,blog.platypush.tech,todsacerdoti,76
+50569226,"OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",https://github.com/openssl/openssl/pull/33652,github.com,JacobHenner,64
+50567374,RegExr: Temporarily Offline,https://regexr.com/,regexr.com,somebudyelse,63
+50568861,Vint Cerf on why TCP/IP was never patented,https://seremot.com/p/vint-cerf-on-why-tcpip-was-never,seremot.com,emot,51
+50538977,Weight-Space Programming builds neural networks like a 1990s researcher,https://notesbylex.com/weight-space-programming-1990s,notesbylex.com,lexandstuff,36
+50568643,"Postgres 19 is out, and it's available on Neon and Databricks Lakebase",https://www.databricks.com/blog/postgresql-19-available-lakebase,databricks.com,sp_from_db,29
+50569519,What Comes After AGI?,https://institute.deepmind.com/essays/what-comes-after-agi/,institute.deepmind.com,jdkee,26
+50530132,Talking Venice with Mahesh Subramony at AMD In-Depth,https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony,chipsandcheese.com,rbanffy,22
+50569516,"Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/,snowflake.com,craigkerstiens,15
+50544546,"IRA Velinsky, industrial designer for Commodore and Atari",https://dfarq.homeip.net/ira-velinsky-industrial-designer-of-the-commodore-64/,dfarq.homeip.net,onename,12
+50537492,Automatic Checking of Compiler Correctness with E-Graphs,https://stng.substack.com/p/automatic-checking-of-compiler-correctness,stng.substack.com,g0xA52A2A,4
