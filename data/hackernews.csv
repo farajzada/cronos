@@ -3652,3 +3652,33 @@ item_id,title,url,domain,author,points
 50569516,"Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/,snowflake.com,craigkerstiens,15
 50544546,"IRA Velinsky, industrial designer for Commodore and Atari",https://dfarq.homeip.net/ira-velinsky-industrial-designer-of-the-commodore-64/,dfarq.homeip.net,onename,12
 50537492,Automatic Checking of Compiler Correctness with E-Graphs,https://stng.substack.com/p/automatic-checking-of-compiler-correctness,stng.substack.com,g0xA52A2A,4
+50574968,Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf],https://alpo.ge/remark.pdf,alpo.ge,iamronaldo,2452
+50579568,Hurried Announcement: Alessandro Masullo GRH,https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/,math216.wordpress.com,jasondavies,1748
+50581260,Inkling 2 Mini,https://thinkingmachines.ai/news/inkling-2-mini/,thinkingmachines.ai,jasondavies,802
+50572348,Restricting AI agents in mobile operating systems platforms from capturing data,https://signal.org/blog/protecting-your-privacy/,signal.org,dotcoma,529
+50578358,Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis,https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/,terrytao.wordpress.com,archon1410,380
+50577265,Language Models Can Rewrite Their Own Weights,https://arxiv.org/abs/2611.21885,arxiv.org,lwhsiao,365
+50579331,We promoted developers into architects without informing them,https://manidoraisamy.com/developer-to-architect.html,manidoraisamy.com,QueensGambit,343
+50576232,Finite-time blow-up for the Navier–Stokes equations,https://github.com/tristanbuckmaster/navier-stokes/,github.com,trotro,268
+50581438,US SEC's Nvidia probe is examining potential accounting issues – sources,https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627,marketscreener.com,ftchd,262
+50526023,Show HN: I made an audio-to-MIDI model 60x more efficient,https://kobi.music/research/dettato,kobi.music,hidude562,258
+50581084,The stochastic parrots have apparently proved the Riemann Hypothesis,https://scottaaronson.blog/?p=10344,scottaaronson.blog,stratos123,241
+50583982,Re: Riemann,https://borretti.me/article/re-riemann,borretti.me,_dain_,176
+50583274,NINLIVE: The Nine Inch Nails live archive,https://ninlive.com/,ninlive.com,CharlesW,170
+50581110,DreamCoder: Coding harness and IDE from the author of Mastering Emacs,https://www.masteringemacs.org/article/announcing-dreamcoder,masteringemacs.org,facundo_olano,144
+50579297,Vibecoding an inference chip,https://ankitg.me/blog/vibecoding-inference-chip/,ankitg.me,ankitvgupta,126
+50581177,"And yet, it moves",https://signoregalilei.com/2026/11/20/and-yet-it-moves/,signoregalilei.com,notfried,117
+50580536,Winedroid – run Android apps without Android (WASM demo),https://winedroid.soham.sh/demo/,winedroid.soham.sh,sohzm,116
+50577613,"I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",https://news.ycombinator.com/item?id=50577613,news.ycombinator.com,proberts,104
+50495392,Why the Airbus A321XLR often gets stuck climbing for first few hours of flight,https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/,simpleflying.com,edward,99
+50581403,Show HN: OpenComputer – an open source alternative to Devin,https://github.com/diggerhq/opencomputer,github.com,iacguy,77
+50534387,"Valkey kills the skiplist, cuts sorted set overhead by up to 43%",https://valkey.io/blog/from-skiplist-to-b+tree/,valkey.io,reconditerose,75
+50583768,Sir Brian May adds new dimension to Hera asteroid,https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid,esa.int,mooreds,59
+50521550,I can’t believe it’s 1!,https://aperiodical.com/2026/11/i-cant-believe-its-1/,aperiodical.com,ColinWright,53
+50583856,Serious cyberattack thought backed by wealthy operators,https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411,ruv.is,Bender,36
+50585593,BlackBlaze now explicitly states selling your data for advertisement,https://www.backblaze.com/company/policy/privacy,backblaze.com,meysamazad,28
+50551619,How to Bypass Rust's Orphan Rule,https://edvong.com/bypass-orphan-rule/,edvong.com,todsacerdoti,25
+50583117,The Hungry Butler Effect: Concealed Commercial Incentives in LLMs,https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models,researchgate.net,undefinedmethod,23
+50585376,Clojure will affect the way you think about programming (2017),https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/,eli.thegreenplace.net,sammatilda,16
+50584429,I Don't Trust Visual Recordings Anymore. But One Day I Will Again,https://spectrum.ieee.org/fighting-back-against-deep-fakes,spectrum.ieee.org,jnord,15
+50535187,Substrate: A Lisp for WebAssembly,https://substrate-lang.com,substrate-lang.com,unignorant,8
