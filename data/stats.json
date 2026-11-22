@@ -45,16 +45,16 @@
               "value": "andsoitis"
             }
           ],
-          "unique": 2307
+          "unique": 2321
         },
         "domain": {
           "top": [
             {
-              "count": 267,
+              "count": 271,
               "value": "github.com"
             },
             {
-              "count": 51,
+              "count": 52,
               "value": "news.ycombinator.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "arstechnica.com"
             }
           ],
-          "unique": 2358
+          "unique": 2373
         }
       },
-      "total_records": 3683
+      "total_records": 3712
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3783
+  "total_records": 3812
 }
