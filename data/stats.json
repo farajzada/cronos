@@ -5,11 +5,11 @@
         "author": {
           "top": [
             {
-              "count": 59,
+              "count": 60,
               "value": "surprisetalk"
             },
             {
-              "count": 59,
+              "count": 60,
               "value": "speckx"
             },
             {
@@ -21,7 +21,7 @@
               "value": "gmays"
             },
             {
-              "count": 35,
+              "count": 36,
               "value": "zdw"
             },
             {
@@ -45,16 +45,16 @@
               "value": "andsoitis"
             }
           ],
-          "unique": 2321
+          "unique": 2336
         },
         "domain": {
           "top": [
             {
-              "count": 271,
+              "count": 273,
               "value": "github.com"
             },
             {
-              "count": 52,
+              "count": 53,
               "value": "news.ycombinator.com"
             },
             {
@@ -66,7 +66,7 @@
               "value": "youtube.com"
             },
             {
-              "count": 33,
+              "count": 34,
               "value": "openai.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "arstechnica.com"
             }
           ],
-          "unique": 2373
+          "unique": 2391
         }
       },
-      "total_records": 3712
+      "total_records": 3742
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3812
+  "total_records": 3842
 }
