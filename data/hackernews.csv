@@ -3741,3 +3741,32 @@ item_id,title,url,domain,author,points
 50606704,Advanced Character Physics (2001) [pdf],https://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf,cs.cmu.edu,tomatofu,6
 50606499,Treemap of the Riemann Hypothesis Lean Proof,https://pengowray.github.io/riemann-zeta-proof-visualizer/,pengowray.github.io,pengowray,6
 50577353,Verifying formal models of Raft implementations,https://antithesis.com/blog/2026/verifying-formal-models/,antithesis.com,alpaylan,6
+50611576,Nvidia Reinstates Jensen Huang as CEO,https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html,cnbc.com,jaz,2453
+50614249,Ladybird is now in alpha,https://ladybird.org/posts/alpha/,ladybird.org,janvdberg,1722
+50615308,"""Dario is hyping the dangers so OSS models are illegal and he stays in control""",https://twitter.com/ylecun/status/2124550037912920090,twitter.com,MrBuddyCasino,1536
+50609685,GLM-5.4: Toward generalized coding with our first loop transformer,https://z.ai/blog/glm-5.4,z.ai,foohis,1102
+50617499,"Per Arm's request, this site will be discontinued on 4 December 2026 :(",https://arm.jonpalmisc.com/,arm.jonpalmisc.com,tech234a,977
+50615481,Kagi Mail (public beta),https://blog.kagi.com/kagi-mail-public-beta,blog.kagi.com,rdmuser,400
+50620349,Stalwart is now a drop-in replacement for Microsoft Exchange,https://stalw.art/blog/microsoft-exchange-replacement/,stalw.art,shaunpud,386
+50622774,New York Bans Subscription and Post-Purchase Fees on Cars,https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription,governor.ny.gov,DeepLogin,231
+50610743,Win4wine – Run Windows Shell as the Linux Desktop on Wine,https://github.com/mikuta0407/win4wine,github.com,hard_times,228
+50619103,GPUI is getting its own repository,https://github.com/zed-industries/gpui,github.com,EvilGoose,224
+50619207,"Bored.com: Fun, interesting and cool websites to explore when bored",https://www.bored.com/,bored.com,susam,201
+50611402,NariQ: BF16-level Qwen3.8-27B in a 10 GB file,https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF,huggingface.co,toebee,157
+50600838,C++26 is done (again): ISO C++ meeting trip report,https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/,herbsutter.com,dverlaeckt80,113
+50620721,Freeing the iPod Nano 5G,https://viktorkrapivin.com/blog/nano5g-priv-prvd,viktorkrapivin.com,rpm_conservatio,91
+50624487,India's opposition storms Meta's offices to get its Instagram accounts back,https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html,korben.info,thisislife2,78
+50604710,Modernizing iperf/iperf3 and introducing fireperf,https://blog.daniel-baumann.ch/posts/20261122-1.html,blog.daniel-baumann.ch,edward,65
+50619630,Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux,https://openai.com/index/introducing-shirudo/,openai.com,acossta,63
+50620328,Latent Introspection: LLMs Can Detect Prior Concept Injections,https://arxiv.org/abs/2602.20031,arxiv.org,joecobb,53
+50623515,Drone Maps of Salvage Yards,https://salvageyarddrone.wordpress.com/,salvageyarddrone.wordpress.com,uptrails,50
+50622934,Making a dumb TV just smart enough,https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/,qsantos.fr,andai,47
+50621466,"The Power of GraphQL, Without GraphQL",https://cobalt27.dev/,cobalt27.dev,Shoetp,41
+50582698,How photos were transmitted by wire in the 1930s (2024),https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s,kottke.org,sammatilda,41
+50622854,Declare is a UI language for you and your AI,https://davidtemkin.github.io/declarelang/,davidtemkin.github.io,ilamont,40
+50620831,The search for a top dark matter candidate,https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/,smithsonianmag.com,apophatic,40
+50622804,Rune: Rust VM for Emacs,https://github.com/CeleritasCelery/rune,github.com,whacked_new,27
+50607512,Lowering Perplexity Without Scaling,https://micjm.com/blog/lowering-perplexity-without-scaling/,micjm.com,qlte,21
+50610170,New material gets stronger the more it bends,https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/,source.washu.edu,giuliomagnifico,20
+50624061,AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years,https://www.phoronix.com/review/amd-epyc-9006-7601,phoronix.com,zdw,17
+50592307,Arctic: A Practical Lock-Free Adaptive Radix Tree,https://www.usenix.org/conference/osdi26/presentation/ni,usenix.org,grep_it,7
