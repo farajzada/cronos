@@ -3800,3 +3800,33 @@ item_id,title,url,domain,author,points
 50638478,Taking over US Treasury subdomains for $3 each,https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each,intruder.io,negura,9
 50638811,"Invisible Wave Hits California, Oregon and Canada as Towns Evacuate",https://www.abovethenormnews.com/2026/11/24/king-tides-california/,abovethenormnews.com,madihaa,8
 50627891,Adding some funk to an old Vtech toy,https://boyesm.ca/vtech,boyesm.ca,PennRobotics,6
+50644817,1Password Security Incident,https://1password.com/blog/update-on-nov-2026-security-incident,1password.com,lxhrstn,1294
+50646108,Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening,https://scottaaronson.blog/?p=10379,scottaaronson.blog,Kotlopou,1198
+50642086,"Google releases Cogentic papers on integer factorization, discrete logs and more",https://github.com/google-research/google-research/tree/master/cogentic_research_papers,github.com,rgwohlbold,472
+50643129,A few questions for the guy who went snorkeling in a Home Depot retention pond,https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts,vox.com,gumby,458
+50648050,Much shorter version of GRH Lean verification from Anthropic,https://github.com/lsernau/grh-lean,github.com,nb-t,370
+50641171,"Windows Loudness Equalization, reverse-engineered and ported to PipeWire",https://github.com/xoxorwr/pw-loudness-eq,github.com,ThrowNotAway,329
+50601280,GPT-6.2 Astra is the first model to beat Googlers' code golf records,https://bjin.github.io/go-codegolf-benchmark/#leaderboard,bjin.github.io,bjin,320
+50647673,The New York Times warns photographers not to update Photoshop over AI features,https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features,theverge.com,rmason,281
+50624446,Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs,https://jayd.ml/2026/11/14/rockbox-on-yp3.html,jayd.ml,jaydenmilne,245
+50647181,Slow Ubuntu security response times,https://www.openwall.com/lists/oss-security/2026/11/25/9,openwall.com,gslin,216
+50642939,I checked Clojure's core with Lean and found unreported bugs,https://s.conao3.com/blog/2026/e4f733,s.conao3.com,encyclopedism,204
+50649864,Tell HN: Lots of Ask HNs again,https://news.ycombinator.com/item?id=50649864,news.ycombinator.com,dang,180
+50589784,SSH is a GUI framework,https://zydra.sh/articles/ssh-is-a-gui-framework/,zydra.sh,teledream,163
+50644980,The polynomial Hirsch conjecture is false [pdf],https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf,github.com,acossta,143
+50647161,Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server,https://opensec.in/blog/nfs2root-cve-2026-99362,opensec.in,dm,114
+50648365,Bare Metal Qwen,https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os,github.com,miohtama,102
+50651117,"OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",https://twitter.com/thsottiaux/status/2125784147889393806,twitter.com,Herrera,75
+50649834,Collection of preserved UI style guides,https://aresluna.org/ui-style-guides/,aresluna.org,sohkamyung,75
+50648323,Deploying a payphone on a tiny Pacific Island for fun and zero profit,https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/,nickvsnetworking.com,qzervaas,74
+50644814,Deriving Black-Scholes,https://david.alvarezrosa.com/posts/deriving-black-scholes/,david.alvarezrosa.com,meysamazad,58
+50626466,What VP ≠ VNP Means (In 3 Minutes),https://www.friedgil.com/vpvnp,friedgil.com,vinhnx,53
+50637448,How did pinwheel calculators work?,https://blog.coredump.cx/p/how-did-pinwheel-calculators-work,blog.coredump.cx,surprisetalk,48
+50623020,Hacking radiators,https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/,qsantos.fr,andai,45
+50608175,Can a TV be too large? An investigation,https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/,techcrunch.com,jomon003,40
+50598636,"The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf,gwern.net,Michelangelo11,39
+50616473,The trouble with serendipity: Scientific discoveries don't happen how you think,https://www.worksinprogress.news/p/the-trouble-with-serendipity,worksinprogress.news,crescit_eundo,31
+50650892,Minipg: PostgreSQL as a Single Executable,https://progrium.github.io/minipg/,progrium.github.io,rguiscard,26
+50620991,Hkust 3D Prints a Titanium Alloy That Keeps Hardening,https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/,3dprinting.com,rbanffy,21
+50651158,Qualcomm's Oryon 3 Reaches the Top,https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top,chipsandcheese.com,wmf,17
+50634381,Marginal Grains,https://asteriskmag.com/issues/16/marginal-grains,asteriskmag.com,NaOH,5

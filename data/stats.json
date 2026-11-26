@@ -5,7 +5,7 @@
         "author": {
           "top": [
             {
-              "count": 61,
+              "count": 62,
               "value": "surprisetalk"
             },
             {
@@ -29,7 +29,7 @@
               "value": "tosh"
             },
             {
-              "count": 28,
+              "count": 29,
               "value": "rbanffy"
             },
             {
@@ -45,16 +45,16 @@
               "value": "andsoitis"
             }
           ],
-          "unique": 2360
+          "unique": 2374
         },
         "domain": {
           "top": [
             {
-              "count": 279,
+              "count": 284,
               "value": "github.com"
             },
             {
-              "count": 54,
+              "count": 55,
               "value": "news.ycombinator.com"
             },
             {
@@ -70,7 +70,7 @@
               "value": "openai.com"
             },
             {
-              "count": 31,
+              "count": 32,
               "value": "twitter.com"
             },
             {
@@ -90,10 +90,10 @@
               "value": "arstechnica.com"
             }
           ],
-          "unique": 2426
+          "unique": 2438
         }
       },
-      "total_records": 3801
+      "total_records": 3831
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3901
+  "total_records": 3931
 }
