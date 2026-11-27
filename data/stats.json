@@ -18,11 +18,11 @@
             },
             {
               "count": 38,
-              "value": "gmays"
+              "value": "zdw"
             },
             {
-              "count": 37,
-              "value": "zdw"
+              "count": 38,
+              "value": "gmays"
             },
             {
               "count": 33,
@@ -45,20 +45,20 @@
               "value": "andsoitis"
             }
           ],
-          "unique": 2374
+          "unique": 2393
         },
         "domain": {
           "top": [
             {
-              "count": 284,
+              "count": 287,
               "value": "github.com"
             },
             {
-              "count": 55,
+              "count": 56,
               "value": "news.ycombinator.com"
             },
             {
-              "count": 52,
+              "count": 53,
               "value": "arxiv.org"
             },
             {
@@ -90,10 +90,10 @@
               "value": "arstechnica.com"
             }
           ],
-          "unique": 2438
+          "unique": 2453
         }
       },
-      "total_records": 3831
+      "total_records": 3860
     },
     "quotes": {
       "fields": {
@@ -191,5 +191,5 @@
       "total_records": 100
     }
   },
-  "total_records": 3931
+  "total_records": 3960
 }
